@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Research Assistant](https://jobright.ai/jobs/info/69516abb29655e4dd65a6cac?utm_campaign=Data%20Analysis&utm_source=1103)** | Alexandria, VA | Hybrid | Dec 28 |
+| ↳ | **[Research Analyst I](https://jobright.ai/jobs/info/695167dba2668b7f5454282c?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | Hybrid | Dec 28 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Provider Data Management Analyst I](https://jobright.ai/jobs/info/6951372429655e4dd65a4e64?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 28 |
 | **[UI Health](http://hospital.uillinois.edu/)** | **[Post-Doctoral Research Associate (Informatics - Center 4 Health Research)](https://jobright.ai/jobs/info/68fbdd3e4129dd33cd13593c?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Dec 28 |
 | **[ADP WFN Test Company 1](https://www.linkedin.com/company/105053196/)** | **[BVT Analyst_12/28/2025](https://jobright.ai/jobs/info/6951343d29655e4dd65a4d7d?utm_campaign=Data%20Analysis&utm_source=1103)** | Anchorage, AK, US | On Site | Dec 28 |
@@ -112,7 +114,7 @@ For a complete list, click the following sortable link below:
 | **[interos.ai](http://www.interos.ai)** | **[Data Analyst](https://jobright.ai/jobs/info/69324aa3a0dde7020e2e5486?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 26 |
 | **[Cerberus Capital Management](http://www.cerberus.com)** | **[RMBS Mortgage Trading Desk - Quantitative Analyst/Programmer (PhD Degree Required)](https://jobright.ai/jobs/info/68f7e09c5dc1be601281d69e?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Dec 26 |
 | **[Navitus Health Solutions](https://www.navitus.com/)** | **[Analyst, Claims Extract](https://jobright.ai/jobs/info/692019b2a49a885af9a36afa?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 26 |
-| **[ADP WFN Test Company 1](https://www.linkedin.com/company/105053196/)** | **[BVT Analyst_12/26/2025](https://jobright.ai/jobs/info/694e5180f5bef51c96eba30e?utm_campaign=Data%20Analysis&utm_source=1103)** | Anchorage, AK, US | On Site | Dec 26 |
+| **[ADP WFN Test Company 1](https://www.linkedin.com/company/105053196/)** | **[BVT Analyst_12/26/2025](https://jobright.ai/jobs/info/694e5389d4a7df7a06732028?utm_campaign=Data%20Analysis&utm_source=1103)** | Anchorage, AK, US | On Site | Dec 26 |
 | **[LG Electronics](http://www.lg.com)** | **[Shopfront Analyst, Contractor Role](https://jobright.ai/jobs/info/694e29ebf5bef51c96eb919e?utm_campaign=Data%20Analysis&utm_source=1103)** | Englewood Cliffs, NJ | On Site | Dec 25 |
 | **[Webster University](http://www.webster.edu)** | **[Client Advisory Analyst](https://jobright.ai/jobs/info/694e3957f5bef51c96eb98f3?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Lauderdale, FL | Hybrid | Dec 25 |
 | **[Jamestown S'Klallam Tribe](https://jamestowntribe.org/)** | **[Clinical Data Analyst](https://jobright.ai/jobs/info/694f134ba2668b7f54524d0c?utm_campaign=Data%20Analysis&utm_source=1103)** | Jamestown Family Health Clinic - Sequim, WA 98382 | On Site | Dec 25 |
@@ -263,6 +265,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analyst - Retail](https://jobright.ai/jobs/info/6949934963141d1884592f3c?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Dec 22 |
 | **[Taku Health Services, LLC](http://www.goldbelt.com)** | **[SELRES Analysts](https://jobright.ai/jobs/info/68edcb8d6335d3323612bcf0?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 22 |
 | **[ADP WFN Test Company 1](https://www.linkedin.com/company/105053196/)** | **[BVT Analyst_12/22/2025](https://jobright.ai/jobs/info/69490b8c7d506e3808f43edb?utm_campaign=Data%20Analysis&utm_source=1103)** | Anchorage, AK, US | On Site | Dec 22 |
-| **[Andersen Corporation](https://www.andersenwindows.com)** | **[Associate Sustainability Data Analyst](https://jobright.ai/jobs/info/6948b430d1953b5d11c1bb98?utm_campaign=Data%20Analysis&utm_source=1103)** | Bayport, MN | On Site | Dec 21 |
-| ↳ | **[Associate Sustainability Data Analyst](https://jobright.ai/jobs/info/6948a3c463141d1884584b1c?utm_campaign=Data%20Analysis&utm_source=1103)** | Bayport, MN | On Site | Dec 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
