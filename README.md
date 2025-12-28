@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Applecart](http://applecart.co/)** | **[Research Specialist](https://jobright.ai/jobs/info/68efcd219821486c423c76b5?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, New York | Hybrid | Dec 28 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Research Assistant](https://jobright.ai/jobs/info/69516abb29655e4dd65a6cac?utm_campaign=Data%20Analysis&utm_source=1103)** | Alexandria, VA | Hybrid | Dec 28 |
 | ↳ | **[Research Analyst I](https://jobright.ai/jobs/info/695167dba2668b7f5454282c?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | Hybrid | Dec 28 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Provider Data Management Analyst I](https://jobright.ai/jobs/info/6951372429655e4dd65a4e64?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 28 |
@@ -197,7 +198,6 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Human Performance Data Scientist I](https://jobright.ai/jobs/info/693f9bc6aa598a08c3ef763d?utm_campaign=Data%20Analysis&utm_source=1103)** | Hurlburt Field, FL | On Site | Dec 24 |
 | **[Vertical Screen, Inc.](http://www.verticalscreen.com/)** | **[French Bilingual Researcher](https://jobright.ai/jobs/info/694bada85d731211347034d1?utm_campaign=Data%20Analysis&utm_source=1103)** | Warminster, PA | On Site | Dec 24 |
 | **[ADP WFN Test Company 1](https://www.linkedin.com/company/105053196/)** | **[BVT Analyst_12/24/2025](https://jobright.ai/jobs/info/694bbfe15d7312113470476f?utm_campaign=Data%20Analysis&utm_source=1103)** | Anchorage, AK, US | On Site | Dec 24 |
-| **[Research Foundation for Mental Hygiene, Inc.](http://corporate.rfmh.org/)** | **[Research Scientist I](https://jobright.ai/jobs/info/6950bc95ce13cd105658aa2a?utm_campaign=Data%20Analysis&utm_source=1103)** | Menands, NY | On Site | Dec 23 |
 | **[TriWest Healthcare Alliance](http://triwest.com)** | **[Data Analyst](https://jobright.ai/jobs/info/694b77911a572a617dddd3e9?utm_campaign=Data%20Analysis&utm_source=1103)** | Phoenix, AZ | Remote | Dec 23 |
 | **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[CLARiTI Imaging Data Coordinator](https://jobright.ai/jobs/info/694b59341a572a617dddad71?utm_campaign=Data%20Analysis&utm_source=1103)** | Madison, WI | Hybrid | Dec 23 |
 | **[TriWest Healthcare Alliance](http://triwest.com)** | **[Data Analyst](https://jobright.ai/jobs/info/694b72525d731211346ff862?utm_campaign=Data%20Analysis&utm_source=1103)** | Phoenix, AZ | Remote | Dec 23 |
@@ -215,12 +215,12 @@ For a complete list, click the following sortable link below:
 | **[RAND](http://www.rand.org)** | **[Bachelor’s Level Research Assistant – Quantitative (Engineering, Computer Science, Data Science, Math, Statistics, etc.) (Term)](https://jobright.ai/jobs/info/694b13224b53a1551f94c861?utm_campaign=Data%20Analysis&utm_source=1103)** | Pittsburgh, PA | On Site | Dec 23 |
 | ↳ | **[Bachelor’s Level Research Assistant - Qualitative (Term)](https://jobright.ai/jobs/info/694b0f711224705e900224e6?utm_campaign=Data%20Analysis&utm_source=1103)** | Pittsburgh, PA | On Site | Dec 23 |
 | ↳ | **[Bachelor’s Level Research Assistant - Qualitative (Term)](https://jobright.ai/jobs/info/694b0ded4b53a1551f94bd91?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC (DC Metro Area) | On Site | Dec 23 |
-| **[EAB](https://www.eab.com)** | **[Associate Data Analyst, Financial Aid Optimization](https://jobright.ai/jobs/info/694b0d3a1224705e90022080?utm_campaign=Data%20Analysis&utm_source=1103)** | Richmond, VA | Hybrid | Dec 23 |
 | **[NTT DATA North America](https://us.nttdata.com)** | **[Data & Business Insights Associate](https://jobright.ai/jobs/info/694b0bb81224705e90021e85?utm_campaign=Data%20Analysis&utm_source=1103)** | Plano, TX | Hybrid | Dec 23 |
 | **[Columbia University Irving Medical Center](https://www.cuimc.columbia.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/694b26a34b53a1551f94e7c9?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 23 |
 | ↳ | **[Data Analyst - Center for Patient Safety Science](https://jobright.ai/jobs/info/6945d47b63141d18845576d2?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 23 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[GIS Analyst II, or III - TPP Division - Austin, TX](https://jobright.ai/jobs/info/694aeed91224705e9002090d?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX | On Site | Dec 23 |
 | **[EAB](https://www.eab.com)** | **[Associate Data Analyst, Financial Aid Optimization](https://jobright.ai/jobs/info/694b16523019f50a4fe628aa?utm_campaign=Data%20Analysis&utm_source=1103)** | Bloomington, MN | Hybrid | Dec 23 |
+| ↳ | **[Associate Data Analyst, Financial Aid Optimization](https://jobright.ai/jobs/info/694b0ed61224705e900223b8?utm_campaign=Data%20Analysis&utm_source=1103)** | Richmond, VA | Hybrid | Dec 23 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Business Data Analyst II](https://jobright.ai/jobs/info/693b4ae95f2c001987ed484e?utm_campaign=Data%20Analysis&utm_source=1103)** | Westerville, OH | On Site | Dec 23 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Analyst, People Analytics](https://jobright.ai/jobs/info/694ac97067a69734cac5e26d?utm_campaign=Data%20Analysis&utm_source=1103)** | 05555 - Casa del Mundo Office (Denver HQ) | Hybrid | Dec 23 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[BUSINESS INTELLIGENCE SPECIALIST-INTERMEDIATE - 12232025-73800](https://jobright.ai/jobs/info/694a97a21224705e9001bc1c?utm_campaign=Data%20Analysis&utm_source=1103)** | Davidson County, TN | Hybrid | Dec 23 |
