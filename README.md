@@ -58,7 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[PhysicsX](https://www.physicsx.ai)** | **[Data Scientist](https://jobright.ai/jobs/info/692f8be94c474121999e040f?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | Hybrid | Dec 27 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Provider Data Management Analyst I](https://jobright.ai/jobs/info/694fe20fce13cd105657f9e8?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 27 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Provider Data Management Analyst I](https://jobright.ai/jobs/info/695045f529655e4dd6597f45?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 27 |
 | **[Fred Hutch](http://www.fredhutch.org)** | **[Post-Doctoral Research Fellow - Biostatistics](https://jobright.ai/jobs/info/693514c8a0dde7020e2f7589?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Dec 27 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Track and Trace Analyst](https://jobright.ai/jobs/info/6917433f370fde633d07eba8?utm_campaign=Data%20Analysis&utm_source=1103)** | Burlington, NJ | Hybrid | Dec 27 |
 | **[ADP WFN Test Company 1](https://www.linkedin.com/company/105053196/)** | **[BVT Analyst_12/27/2025](https://jobright.ai/jobs/info/694fde6329655e4dd65940ad?utm_campaign=Data%20Analysis&utm_source=1103)** | Anchorage, AK, US | On Site | Dec 27 |
@@ -140,6 +140,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Category Analyst (CPG)](https://jobright.ai/jobs/info/694c9d4f40e0af1db006c8c4?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | Hybrid | Dec 24 |
 | ↳ | **[Category Analyst (CPG)](https://jobright.ai/jobs/info/694c9d46d4a7df7a0671d041?utm_campaign=Data%20Analysis&utm_source=1103)** | Jacksonville, FL | Hybrid | Dec 24 |
 | ↳ | **[Category Analyst (CPG)](https://jobright.ai/jobs/info/694c9cfb40e0af1db006c85f?utm_campaign=Data%20Analysis&utm_source=1103)** | Cincinnati, OH | Hybrid | Dec 24 |
+| ↳ | **[Space Planning Analyst (CPG)](https://jobright.ai/jobs/info/69509451a2668b7f545383d2?utm_campaign=Data%20Analysis&utm_source=1103)** | Woodbridge, NJ | Hybrid | Dec 24 |
 | ↳ | **[Category Analyst (CPG)](https://jobright.ai/jobs/info/694c9cec29655e4dd656b3ab?utm_campaign=Data%20Analysis&utm_source=1103)** | Mechanicsburg, PA | Hybrid | Dec 24 |
 | ↳ | **[Category Analyst (CPG)](https://jobright.ai/jobs/info/694c9cdcd4a7df7a0671cfa5?utm_campaign=Data%20Analysis&utm_source=1103)** | McKinney, TX | Hybrid | Dec 24 |
 | ↳ | **[Category Analyst (CPG)](https://jobright.ai/jobs/info/694c9c5d40e0af1db006c781?utm_campaign=Data%20Analysis&utm_source=1103)** | Jacksonville, FL | Hybrid | Dec 24 |
@@ -203,12 +204,12 @@ For a complete list, click the following sortable link below:
 | **[RAND](http://www.rand.org)** | **[Bachelor’s Level Research Assistant – Quantitative (Engineering, Computer Science, Data Science, Math, Statistics, etc.) (Term)](https://jobright.ai/jobs/info/694b13224b53a1551f94c861?utm_campaign=Data%20Analysis&utm_source=1103)** | Pittsburgh, PA | On Site | Dec 23 |
 | ↳ | **[Bachelor’s Level Research Assistant - Qualitative (Term)](https://jobright.ai/jobs/info/694b0f711224705e900224e6?utm_campaign=Data%20Analysis&utm_source=1103)** | Pittsburgh, PA | On Site | Dec 23 |
 | ↳ | **[Bachelor’s Level Research Assistant - Qualitative (Term)](https://jobright.ai/jobs/info/694b0ded4b53a1551f94bd91?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC (DC Metro Area) | On Site | Dec 23 |
+| **[EAB](https://www.eab.com)** | **[Associate Data Analyst, Financial Aid Optimization](https://jobright.ai/jobs/info/694b0d3a1224705e90022080?utm_campaign=Data%20Analysis&utm_source=1103)** | Richmond, VA | Hybrid | Dec 23 |
 | **[NTT DATA North America](https://us.nttdata.com)** | **[Data & Business Insights Associate](https://jobright.ai/jobs/info/694b0bb81224705e90021e85?utm_campaign=Data%20Analysis&utm_source=1103)** | Plano, TX | Hybrid | Dec 23 |
 | **[Columbia University Irving Medical Center](https://www.cuimc.columbia.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/694b26a34b53a1551f94e7c9?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 23 |
 | ↳ | **[Data Analyst - Center for Patient Safety Science](https://jobright.ai/jobs/info/6945d47b63141d18845576d2?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 23 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[GIS Analyst II, or III - TPP Division - Austin, TX](https://jobright.ai/jobs/info/694aeed91224705e9002090d?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX | On Site | Dec 23 |
-| **[EAB](https://www.eab.com)** | **[Associate Data Analyst, Financial Aid Optimization](https://jobright.ai/jobs/info/694b0ed61224705e900223b8?utm_campaign=Data%20Analysis&utm_source=1103)** | Richmond, VA | Hybrid | Dec 23 |
-| ↳ | **[Associate Data Analyst, Financial Aid Optimization](https://jobright.ai/jobs/info/694b16523019f50a4fe628aa?utm_campaign=Data%20Analysis&utm_source=1103)** | Bloomington, MN | Hybrid | Dec 23 |
+| **[EAB](https://www.eab.com)** | **[Associate Data Analyst, Financial Aid Optimization](https://jobright.ai/jobs/info/694b16523019f50a4fe628aa?utm_campaign=Data%20Analysis&utm_source=1103)** | Bloomington, MN | Hybrid | Dec 23 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Business Data Analyst II](https://jobright.ai/jobs/info/693b4ae95f2c001987ed484e?utm_campaign=Data%20Analysis&utm_source=1103)** | Westerville, OH | On Site | Dec 23 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Analyst, People Analytics](https://jobright.ai/jobs/info/694ac97067a69734cac5e26d?utm_campaign=Data%20Analysis&utm_source=1103)** | 05555 - Casa del Mundo Office (Denver HQ) | Hybrid | Dec 23 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[BUSINESS INTELLIGENCE SPECIALIST-INTERMEDIATE - 12232025-73800](https://jobright.ai/jobs/info/694a97a21224705e9001bc1c?utm_campaign=Data%20Analysis&utm_source=1103)** | Davidson County, TN | Hybrid | Dec 23 |
@@ -256,9 +257,5 @@ For a complete list, click the following sortable link below:
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[Associate Sustainability Data Analyst](https://jobright.ai/jobs/info/6948b430d1953b5d11c1bb98?utm_campaign=Data%20Analysis&utm_source=1103)** | Bayport, MN | On Site | Dec 21 |
 | ↳ | **[Associate Sustainability Data Analyst](https://jobright.ai/jobs/info/6948a3c463141d1884584b1c?utm_campaign=Data%20Analysis&utm_source=1103)** | Bayport, MN | On Site | Dec 21 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Temporary Researcher, Wealth](https://jobright.ai/jobs/info/690ba49a4a1b456627b1134a?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 21 |
-| **[Temple University](https://www.temple.edu)** | **[Research Analyst I](https://jobright.ai/jobs/info/6948a18cd1953b5d11c1adec?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | Hybrid | Dec 21 |
 | **[Later](http://www.later.com)** | **[Data Analyst](https://jobright.ai/jobs/info/6920593ca49a885af9a39041?utm_campaign=Data%20Analysis&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Dec 21 |
-| **[Leidos](https://www.leidos.com/)** | **[Research Assistant - Epidemiology](https://jobright.ai/jobs/info/690ea727221b890c278104d8?utm_campaign=Data%20Analysis&utm_source=1103)** | New London County, CT | On Site | Dec 21 |
-| **[Research Partnership](http://www.researchpartnership.com/)** | **[Research Executive](https://jobright.ai/jobs/info/690e64e044146d3b6ec53a9f?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | Hybrid | Dec 21 |
-| ↳ | **[Research Executive](https://jobright.ai/jobs/info/690e69c744146d3b6ec53ef1?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Dec 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
