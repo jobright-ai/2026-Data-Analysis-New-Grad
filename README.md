@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alimentiv](https://alimentiv.com/)** | **[Clinical Data Coordinator (Canada)](https://jobright.ai/jobs/info/69520b3c29655e4dd65ae300?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 28 |
 | **[Applecart](http://applecart.co/)** | **[Research Specialist](https://jobright.ai/jobs/info/68efcd219821486c423c76b5?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, New York | Hybrid | Dec 28 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Research Assistant](https://jobright.ai/jobs/info/69516abb29655e4dd65a6cac?utm_campaign=Data%20Analysis&utm_source=1103)** | Alexandria, VA | Hybrid | Dec 28 |
 | ↳ | **[Research Analyst I](https://jobright.ai/jobs/info/695167dba2668b7f5454282c?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | Hybrid | Dec 28 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate (TikTok-Product-Data Science)-2026 Start (PhD)](https://jobright.ai/jobs/info/68c78d72db52c07d2884be84?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Dec 28 |
 | **[The Voleon Group](http://voleon.com/)** | **[Data Scientist (New York)](https://jobright.ai/jobs/info/68cbdec2ba798c1a501d5b5a?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Dec 28 |
 | **[SHEIN Distribution Corporation](https://sheingroup.com)** | **[Privacy Data Analyst](https://jobright.ai/jobs/info/693a34e748a8ce22990e2d08?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Dec 28 |
-| **[Alimentiv](https://alimentiv.com/)** | **[Clinical Data Coordinator (Canada)](https://jobright.ai/jobs/info/6950bc9429655e4dd659f8be?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 27 |
 | **[PhysicsX](https://www.physicsx.ai)** | **[Data Scientist](https://jobright.ai/jobs/info/692f8be94c474121999e040f?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | Hybrid | Dec 27 |
 | **[Fred Hutch](http://www.fredhutch.org)** | **[Post-Doctoral Research Fellow - Biostatistics](https://jobright.ai/jobs/info/693514c8a0dde7020e2f7589?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Dec 27 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Track and Trace Analyst](https://jobright.ai/jobs/info/6917433f370fde633d07eba8?utm_campaign=Data%20Analysis&utm_source=1103)** | Burlington, NJ | Hybrid | Dec 27 |
@@ -195,6 +195,7 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Human Performance Data Scientist I](https://jobright.ai/jobs/info/693f9bc6aa598a08c3ef763d?utm_campaign=Data%20Analysis&utm_source=1103)** | Hurlburt Field, FL | On Site | Dec 24 |
 | **[Vertical Screen, Inc.](http://www.verticalscreen.com/)** | **[French Bilingual Researcher](https://jobright.ai/jobs/info/694bada85d731211347034d1?utm_campaign=Data%20Analysis&utm_source=1103)** | Warminster, PA | On Site | Dec 24 |
 | **[ADP WFN Test Company 1](https://www.linkedin.com/company/105053196/)** | **[BVT Analyst_12/24/2025](https://jobright.ai/jobs/info/694bbfe15d7312113470476f?utm_campaign=Data%20Analysis&utm_source=1103)** | Anchorage, AK, US | On Site | Dec 24 |
+| **[Research Foundation for Mental Hygiene, Inc.](http://corporate.rfmh.org/)** | **[Research Scientist I](https://jobright.ai/jobs/info/69520b58ce13cd10565985a0?utm_campaign=Data%20Analysis&utm_source=1103)** | Menands, NY | On Site | Dec 23 |
 | **[TriWest Healthcare Alliance](http://triwest.com)** | **[Data Analyst](https://jobright.ai/jobs/info/694b77911a572a617dddd3e9?utm_campaign=Data%20Analysis&utm_source=1103)** | Phoenix, AZ | Remote | Dec 23 |
 | **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[CLARiTI Imaging Data Coordinator](https://jobright.ai/jobs/info/694b59341a572a617dddad71?utm_campaign=Data%20Analysis&utm_source=1103)** | Madison, WI | Hybrid | Dec 23 |
 | **[TriWest Healthcare Alliance](http://triwest.com)** | **[Data Analyst](https://jobright.ai/jobs/info/694b72525d731211346ff862?utm_campaign=Data%20Analysis&utm_source=1103)** | Phoenix, AZ | Remote | Dec 23 |
@@ -226,7 +227,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Infrastructure Data Specialist, MM Infrastructure, Global Fleet & Products](https://jobright.ai/jobs/info/690ebe51221b890c27811445?utm_campaign=Data%20Analysis&utm_source=1103)** | Bellevue, WA | On Site | Dec 23 |
 | **[Fred Hutch](http://www.fredhutch.org)** | **[Statistical Research Associate I/II](https://jobright.ai/jobs/info/692e58c54c474121999d8a56?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Dec 23 |
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Commercialization Data Specialist](https://jobright.ai/jobs/info/692df497fa28370be269fc2d?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | Dec 23 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Associate Data Scientist](https://jobright.ai/jobs/info/694a844a1224705e9001aecb?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 23 |
 | **[Amazon](https://amazon.com)** | **[Data & Reporting Analyst , Relay Operations Center Tech & Ops integration](https://jobright.ai/jobs/info/690bb749d046ab6061ce6b74?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | On Site | Dec 23 |
 | ↳ | **[Data & Reporting Analyst , Relay Operations Center Tech & Ops integration](https://jobright.ai/jobs/info/690bc432d046ab6061ce75fe?utm_campaign=Data%20Analysis&utm_source=1103)** | Tempe, AZ | On Site | Dec 23 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[GIS Analyst](https://jobright.ai/jobs/info/692e158e4c474121999d5f93?utm_campaign=Data%20Analysis&utm_source=1103)** | Santa Barbara, CA | On Site | Dec 23 |
@@ -243,7 +243,6 @@ For a complete list, click the following sortable link below:
 | **[ProShares](http://proshares.com)** | **[Business Intelligence Analyst](https://jobright.ai/jobs/info/6949ff7663141d188459896c?utm_campaign=Data%20Analysis&utm_source=1103)** | Bethesda, MD | Hybrid | Dec 22 |
 | **[Virginia's Community College System](https://www.vccs.edu/)** | **[Research Analyst](https://jobright.ai/jobs/info/694a010a7d506e3808f51b95?utm_campaign=Data%20Analysis&utm_source=1103)** | Richmond, VA | On Site | Dec 22 |
 | **[Book of the Month](http://www.bookofthemonth.com)** | **[Data Analyst, Supply Chain](https://jobright.ai/jobs/info/6949c3d77d506e3808f4f42b?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 22 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Associate Data Scientist](https://jobright.ai/jobs/info/694a1bcc63141d188459cc24?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY, USA | Hybrid | Dec 22 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[RESEARCH ASST I (TEMP)](https://jobright.ai/jobs/info/694a003d7d506e3808f51927?utm_campaign=Data%20Analysis&utm_source=1103)** | Ann Arbor, MI | On Site | Dec 22 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[ALE.LAY-Clinical Research Fellow - CIR](https://jobright.ai/jobs/info/694a07e563141d188459a065?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston-MA | On Site | Dec 22 |
 | **[University of Chicago](https://www.uchicago.edu/)** | **[Data Analyst](https://jobright.ai/jobs/info/6949940cd1953b5d11c295ff?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Dec 22 |
