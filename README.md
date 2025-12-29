@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aquatic Capital Management](https://aquatic.com)** | **[Quantitative Researcher, PhD](https://jobright.ai/jobs/info/6952a357f1f8465b79e9eb18?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Dec 29 |
+| **[Intermountain Health](https://intermountainhealthcare.org)** | **[OR Data Coordinator](https://jobright.ai/jobs/info/695294555bb7de448ef5af3f?utm_campaign=Data%20Analysis&utm_source=1103)** | Intermountain Health Utah Valley Hospital | On Site | Dec 29 |
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[Master Data Management Analyst - Portfolio Analytics & Reporting](https://jobright.ai/jobs/info/69193c0cbcdbf3560c9d4777?utm_campaign=Data%20Analysis&utm_source=1103)** | La Jolla, CA | On Site | Dec 29 |
 | **[Princeton University](http://www.princeton.edu)** | **[Research Specialist I](https://jobright.ai/jobs/info/69200ed209cc522e87747aff?utm_campaign=Data%20Analysis&utm_source=1103)** | Princeton, NJ | On Site | Dec 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate (TikTok-Product-Data Science)-2026 Start (BS/MS)](https://jobright.ai/jobs/info/693bd8b349a7695fbd02b988?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | Hybrid | Dec 29 |
@@ -114,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Capstone Logistics, LLC](http://www.capstonelogistics.com/)** | **[Warehouse Auditor](https://jobright.ai/jobs/info/6936597aa0dde7020e2fb1b3?utm_campaign=Data%20Analysis&utm_source=1103)** | Oklahoma City, OK | On Site | Dec 26 |
 | **[Adams Street Partners](https://www.adamsstreetpartners.com)** | **[Analyst or Associate, Information Technology (Data Management)](https://jobright.ai/jobs/info/68f99a8ea628d10664e8e449?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Dec 26 |
 | **[Gates Corporation](https://www.gates.com/us/en.html)** | **[Market and Business Intelligence Analyst](https://jobright.ai/jobs/info/693210d84c474121999f67f9?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, CO | On Site | Dec 26 |
-| **[interos.ai](http://www.interos.ai)** | **[Data Analyst](https://jobright.ai/jobs/info/69324aa3a0dde7020e2e5486?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 26 |
 | **[Cerberus Capital Management](http://www.cerberus.com)** | **[RMBS Mortgage Trading Desk - Quantitative Analyst/Programmer (PhD Degree Required)](https://jobright.ai/jobs/info/68f7e09c5dc1be601281d69e?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Dec 26 |
 | **[Navitus Health Solutions](https://www.navitus.com/)** | **[Analyst, Claims Extract](https://jobright.ai/jobs/info/692019b2a49a885af9a36afa?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 26 |
 | **[ADP WFN Test Company 1](https://www.linkedin.com/company/105053196/)** | **[BVT Analyst_12/26/2025](https://jobright.ai/jobs/info/694e5180f5bef51c96eba30e?utm_campaign=Data%20Analysis&utm_source=1103)** | Anchorage, AK, US | On Site | Dec 26 |
@@ -196,7 +197,6 @@ For a complete list, click the following sortable link below:
 | **[The START Center for Cancer Research](https://startresearch.com)** | **[Data Coordinator](https://jobright.ai/jobs/info/692f7fe6ef4b48533d14612a?utm_campaign=Data%20Analysis&utm_source=1103)** | East Brunswick, NJ | On Site | Dec 24 |
 | **[Vertical Screen, Inc.](http://www.verticalscreen.com/)** | **[French Bilingual Researcher](https://jobright.ai/jobs/info/694bada85d731211347034d1?utm_campaign=Data%20Analysis&utm_source=1103)** | Warminster, PA | On Site | Dec 24 |
 | **[ADP WFN Test Company 1](https://www.linkedin.com/company/105053196/)** | **[BVT Analyst_12/24/2025](https://jobright.ai/jobs/info/694bbfe15d7312113470476f?utm_campaign=Data%20Analysis&utm_source=1103)** | Anchorage, AK, US | On Site | Dec 24 |
-| **[Research Foundation for Mental Hygiene, Inc.](http://corporate.rfmh.org/)** | **[Research Scientist I](https://jobright.ai/jobs/info/69520b58ce13cd10565985a0?utm_campaign=Data%20Analysis&utm_source=1103)** | Menands, NY | On Site | Dec 23 |
 | **[TriWest Healthcare Alliance](http://triwest.com)** | **[Data Analyst](https://jobright.ai/jobs/info/694b77911a572a617dddd3e9?utm_campaign=Data%20Analysis&utm_source=1103)** | Phoenix, AZ | Remote | Dec 23 |
 | **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[CLARiTI Imaging Data Coordinator](https://jobright.ai/jobs/info/694b59341a572a617dddad71?utm_campaign=Data%20Analysis&utm_source=1103)** | Madison, WI | Hybrid | Dec 23 |
 | **[TriWest Healthcare Alliance](http://triwest.com)** | **[Data Analyst](https://jobright.ai/jobs/info/694b72525d731211346ff862?utm_campaign=Data%20Analysis&utm_source=1103)** | Phoenix, AZ | Remote | Dec 23 |
@@ -239,5 +239,4 @@ For a complete list, click the following sortable link below:
 | **[Truveris](http://truveris.com)** | **[Analyst](https://jobright.ai/jobs/info/68fbb0a74129dd33cd133c46?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 22 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Research Data Associate - Women and Children Health Study - Mineola](https://jobright.ai/jobs/info/694a1a1363141d188459cac6?utm_campaign=Data%20Analysis&utm_source=1103)** | Mineola, NY | On Site | Dec 22 |
 | **[Knobelsdorff](https://www.knobelsdorffenterprises.com)** | **[Solutions Analyst](https://jobright.ai/jobs/info/6949fd7f63141d1884598365?utm_campaign=Data%20Analysis&utm_source=1103)** | Goodhue, MN | On Site | Dec 22 |
-| **[Northwestern University](https://www.northwestern.edu)** | **[Research Data Analyst Associate](https://jobright.ai/jobs/info/694a0764c6f0e2546ceef3e5?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
