@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Data Analyst](https://jobright.ai/jobs/info/69523ea0935649778e200c62?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Liberty, NC | On Site | Dec 29 |
 | **[Alimentiv](https://alimentiv.com/)** | **[Clinical Data Coordinator (Canada)](https://jobright.ai/jobs/info/69520b3c29655e4dd65ae300?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 28 |
 | **[Applecart](http://applecart.co/)** | **[Research Specialist](https://jobright.ai/jobs/info/68efcd219821486c423c76b5?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, New York | Hybrid | Dec 28 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Research Assistant](https://jobright.ai/jobs/info/69516abb29655e4dd65a6cac?utm_campaign=Data%20Analysis&utm_source=1103)** | Alexandria, VA | Hybrid | Dec 28 |
@@ -113,7 +114,7 @@ For a complete list, click the following sortable link below:
 | **[interos.ai](http://www.interos.ai)** | **[Data Analyst](https://jobright.ai/jobs/info/69324aa3a0dde7020e2e5486?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 26 |
 | **[Cerberus Capital Management](http://www.cerberus.com)** | **[RMBS Mortgage Trading Desk - Quantitative Analyst/Programmer (PhD Degree Required)](https://jobright.ai/jobs/info/68f7e09c5dc1be601281d69e?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Dec 26 |
 | **[Navitus Health Solutions](https://www.navitus.com/)** | **[Analyst, Claims Extract](https://jobright.ai/jobs/info/692019b2a49a885af9a36afa?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 26 |
-| **[ADP WFN Test Company 1](https://www.linkedin.com/company/105053196/)** | **[BVT Analyst_12/26/2025](https://jobright.ai/jobs/info/694e5389d4a7df7a06732028?utm_campaign=Data%20Analysis&utm_source=1103)** | Anchorage, AK, US | On Site | Dec 26 |
+| **[ADP WFN Test Company 1](https://www.linkedin.com/company/105053196/)** | **[BVT Analyst_12/26/2025](https://jobright.ai/jobs/info/694e5180f5bef51c96eba30e?utm_campaign=Data%20Analysis&utm_source=1103)** | Anchorage, AK, US | On Site | Dec 26 |
 | **[Webster University](http://www.webster.edu)** | **[Client Advisory Analyst](https://jobright.ai/jobs/info/694e3957f5bef51c96eb98f3?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Lauderdale, FL | Hybrid | Dec 25 |
 | **[Jamestown S'Klallam Tribe](https://jamestowntribe.org/)** | **[Clinical Data Analyst](https://jobright.ai/jobs/info/694f134ba2668b7f54524d0c?utm_campaign=Data%20Analysis&utm_source=1103)** | Jamestown Family Health Clinic - Sequim, WA 98382 | On Site | Dec 25 |
 | **[Allina Health](https://www.allinahealth.org/)** | **[Business Intelligence Analyst Associate](https://jobright.ai/jobs/info/694eec8529655e4dd6587499?utm_campaign=Data%20Analysis&utm_source=1103)** | Minneapolis, MN | On Site | Dec 25 |
@@ -171,7 +172,6 @@ For a complete list, click the following sortable link below:
 | **[MEF Associates](https://mefassociates.com/)** | **[Research Assistant](https://jobright.ai/jobs/info/694c5a1d1a572a617dde9d55?utm_campaign=Data%20Analysis&utm_source=1103)** | Alexandria, VA | Hybrid | Dec 24 |
 | **[Fitch Ratings](http://www.fitchratings.com)** | **[Analyst (New York)](https://jobright.ai/jobs/info/694c5415d64ebf28d821e9eb?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Dec 24 |
 | **[CGI](https://www.cgi.com)** | **[Junior Data Scientist](https://jobright.ai/jobs/info/694d833d29655e4dd6576bc5?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | Hybrid | Dec 24 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Provider Data Management Analyst I](https://jobright.ai/jobs/info/694c66851a572a617ddea210?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 24 |
 | **[MEF Associates](https://mefassociates.com/)** | **[Research Assistant](https://jobright.ai/jobs/info/694c37dc5d7312113470a8d8?utm_campaign=Data%20Analysis&utm_source=1103)** | Alexandria, Virginia, United States | Hybrid | Dec 24 |
 | **[Fitch Solutions](https://www.fitchsolutions.com)** | **[Analyst (New York)](https://jobright.ai/jobs/info/694c4d0b1a572a617dde7e9c?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Dec 24 |
 | **[Humana](http://www.humana.com)** | **[IHWA Data and Reporting Professional](https://jobright.ai/jobs/info/694c1c255d731211347095f2?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote Nationwide | Remote | Dec 24 |
@@ -254,7 +254,4 @@ For a complete list, click the following sortable link below:
 | **[University of Pennsylvania](http://www.upenn.edu)** | **[Clinical Research Assistant](https://jobright.ai/jobs/info/6943293650bbaf76505501d6?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | On Site | Dec 22 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Business Data Analyst](https://jobright.ai/jobs/info/694a41cc3019f50a4fe56a61?utm_campaign=Data%20Analysis&utm_source=1103)** | Peoria, IL | On Site | Dec 22 |
 | **[ProShares](http://proshares.com)** | **[Business Intelligence Analyst](https://jobright.ai/jobs/info/69499f0563141d1884593d17?utm_campaign=Data%20Analysis&utm_source=1103)** | Bethesda, MD | Hybrid | Dec 22 |
-| **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Business Data Analyst](https://jobright.ai/jobs/info/694a0b887d506e3808f5364d?utm_campaign=Data%20Analysis&utm_source=1103)** | Peoria, IL | On Site | Dec 22 |
-| **[Telecare Corporation](http://www.telecarecorp.com)** | **[Data Analysis Specialist MRT - Mental Health 639](https://jobright.ai/jobs/info/692d0063fa28370be269bd53?utm_campaign=Data%20Analysis&utm_source=1103)** | Stockton, CA | On Site | Dec 22 |
-| **[Cresco Labs](http://www.crescolabs.com)** | **[Data Analyst - Retail](https://jobright.ai/jobs/info/6949850a63141d1884591f4c?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
