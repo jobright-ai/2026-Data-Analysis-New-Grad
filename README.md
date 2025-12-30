@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ADP WFN Test Company 1](https://www.linkedin.com/company/105053196/)** | **[BVT Analyst_12/30/2025](https://jobright.ai/jobs/info/695399d15bb7de448ef6a7fd?utm_campaign=Data%20Analysis&utm_source=1103)** | Anchorage, AK, US | On Site | Dec 30 |
+| **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Data Coordinator](https://jobright.ai/jobs/info/695397075bb7de448ef69a7e?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | On Site | Dec 30 |
+| **[Baptist Health Bethesda Hospital](http://www.bethesdaweb.com/)** | **[Oncology Data Specialist Non Certified, Oncology Program Services, FT, 8A-4:30P](https://jobright.ai/jobs/info/69538fec935649778e21439f?utm_campaign=Data%20Analysis&utm_source=1103)** | Boynton Beach, FL | On Site | Dec 30 |
 | **[Genwest Systems, Inc.](https://www.genwest.com)** | **[Spatial Data Analyst (GIS)](https://jobright.ai/jobs/info/69537f8c935649778e213cbb?utm_campaign=Data%20Analysis&utm_source=1103)** | Mobile, AL | Hybrid | Dec 29 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/695365865bb7de448ef68866?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | Dec 29 |
 | **[Alimentiv](https://alimentiv.com/)** | **[Clinical Data Coordinator (Canada)](https://jobright.ai/jobs/info/69535fc8f1f8465b79eabc3c?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 29 |
@@ -88,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[Master Data Management Analyst - Portfolio Analytics & Reporting](https://jobright.ai/jobs/info/69193c0cbcdbf3560c9d4777?utm_campaign=Data%20Analysis&utm_source=1103)** | La Jolla, CA | On Site | Dec 29 |
 | **[Princeton University](http://www.princeton.edu)** | **[Research Specialist I](https://jobright.ai/jobs/info/69200ed209cc522e87747aff?utm_campaign=Data%20Analysis&utm_source=1103)** | Princeton, NJ | On Site | Dec 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate (TikTok-Product-Data Science)-2026 Start (BS/MS)](https://jobright.ai/jobs/info/693bd8b349a7695fbd02b988?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | Hybrid | Dec 29 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Data Analyst](https://jobright.ai/jobs/info/69523ea0935649778e200c62?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Liberty, NC | On Site | Dec 29 |
 | **[Providence](http://www.providence.org)** | **[Associate Biostatistician - Cancer Research](https://jobright.ai/jobs/info/6952de48f1f8465b79ea26e2?utm_campaign=Data%20Analysis&utm_source=1103)** | Santa Monica, CA | On Site | Dec 28 |
 | **[Applecart](http://applecart.co/)** | **[Research Specialist](https://jobright.ai/jobs/info/68efcd219821486c423c76b5?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, New York | Hybrid | Dec 28 |
 | **[UI Health](http://hospital.uillinois.edu/)** | **[Post-Doctoral Research Associate (Informatics - Center 4 Health Research)](https://jobright.ai/jobs/info/68fbdd3e4129dd33cd13593c?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Dec 28 |
@@ -242,6 +244,4 @@ For a complete list, click the following sortable link below:
 | **[Columbia University Irving Medical Center](https://www.cuimc.columbia.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/694b26a34b53a1551f94e7c9?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 23 |
 | ↳ | **[Data Analyst - Center for Patient Safety Science](https://jobright.ai/jobs/info/6945d47b63141d18845576d2?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 23 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[GIS Analyst II, or III - TPP Division - Austin, TX](https://jobright.ai/jobs/info/694aeed91224705e9002090d?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX | On Site | Dec 23 |
-| **[EAB](https://www.eab.com)** | **[Associate Data Analyst, Financial Aid Optimization](https://jobright.ai/jobs/info/694b0ed61224705e900223b8?utm_campaign=Data%20Analysis&utm_source=1103)** | Richmond, VA | Hybrid | Dec 23 |
-| ↳ | **[Associate Data Analyst, Financial Aid Optimization](https://jobright.ai/jobs/info/694b16523019f50a4fe628aa?utm_campaign=Data%20Analysis&utm_source=1103)** | Bloomington, MN | Hybrid | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
