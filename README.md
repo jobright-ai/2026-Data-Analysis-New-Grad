@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Journal](http://www.nationaljournal.com)** | **[Survey Research Associate](https://jobright.ai/jobs/info/69540cfa5bb7de448ef709aa?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | Hybrid | Dec 30 |
+| **[Providence](http://www.providence.org)** | **[Oncology Data Specialist](https://jobright.ai/jobs/info/69540a315bb7de448ef708c6?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA, United States | Remote | Dec 30 |
+| **[University of Maryland Medical System](http://www.umms.org)** | **[Cancer Registry Associate](https://jobright.ai/jobs/info/69540190f1f8465b79eb2410?utm_campaign=Data%20Analysis&utm_source=1103)** | Towson, MD | On Site | Dec 30 |
+| **[Covenant Health](https://www.providence.org/locations/covenant-health/school-of-nursing)** | **[Oncology Data Specialist](https://jobright.ai/jobs/info/695400ff5bb7de448ef6ebe1?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA, United States | Remote | Dec 30 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Intelligence Engineer I](https://jobright.ai/jobs/info/6953ecb1aa05c26e7aae6d04?utm_campaign=Data%20Analysis&utm_source=1103)** | Florida, United States | Hybrid | Dec 30 |
 | ↳ | **[Business Intelligence Engineer I](https://jobright.ai/jobs/info/6953e7ecf1f8465b79eb1c5a?utm_campaign=Data%20Analysis&utm_source=1103)** | Texas, United States | Hybrid | Dec 30 |
 | ↳ | **[Business Intelligence Engineer I](https://jobright.ai/jobs/info/6953e7ebf1f8465b79eb1c59?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote-NC | Remote | Dec 30 |
@@ -173,7 +177,7 @@ For a complete list, click the following sortable link below:
 | **[Gates Corporation](https://www.gates.com/us/en.html)** | **[Market and Business Intelligence Analyst](https://jobright.ai/jobs/info/693210d84c474121999f67f9?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, CO | On Site | Dec 26 |
 | **[Cerberus Capital Management](http://www.cerberus.com)** | **[RMBS Mortgage Trading Desk - Quantitative Analyst/Programmer (PhD Degree Required)](https://jobright.ai/jobs/info/68f7e09c5dc1be601281d69e?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Dec 26 |
 | **[Navitus Health Solutions](https://www.navitus.com/)** | **[Analyst, Claims Extract](https://jobright.ai/jobs/info/692019b2a49a885af9a36afa?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 26 |
-| **[ADP WFN Test Company 1](https://www.linkedin.com/company/105053196/)** | **[BVT Analyst_12/26/2025](https://jobright.ai/jobs/info/694e5389d4a7df7a06732028?utm_campaign=Data%20Analysis&utm_source=1103)** | Anchorage, AK, US | On Site | Dec 26 |
+| **[ADP WFN Test Company 1](https://www.linkedin.com/company/105053196/)** | **[BVT Analyst_12/26/2025](https://jobright.ai/jobs/info/694e5180f5bef51c96eba30e?utm_campaign=Data%20Analysis&utm_source=1103)** | Anchorage, AK, US | On Site | Dec 26 |
 | **[Webster University](http://www.webster.edu)** | **[Client Advisory Analyst](https://jobright.ai/jobs/info/694e3957f5bef51c96eb98f3?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Lauderdale, FL | Hybrid | Dec 25 |
 | **[Allina Health](https://www.allinahealth.org/)** | **[Business Intelligence Analyst Associate](https://jobright.ai/jobs/info/694eec8529655e4dd6587499?utm_campaign=Data%20Analysis&utm_source=1103)** | Minneapolis, MN | On Site | Dec 25 |
 | **[BlackRock](http://www.blackrock.com)** | **[Analyst, MASS Models Data Collection, Reconciliation, and Reporting](https://jobright.ai/jobs/info/694dbc8b29655e4dd6579e06?utm_campaign=Data%20Analysis&utm_source=1103)** | Princeton, NJ | Hybrid | Dec 25 |
@@ -250,8 +254,4 @@ For a complete list, click the following sortable link below:
 | **[Vertical Screen, Inc.](http://www.verticalscreen.com/)** | **[French Bilingual Researcher](https://jobright.ai/jobs/info/694bada85d731211347034d1?utm_campaign=Data%20Analysis&utm_source=1103)** | Warminster, PA | On Site | Dec 24 |
 | **[ADP WFN Test Company 1](https://www.linkedin.com/company/105053196/)** | **[BVT Analyst_12/24/2025](https://jobright.ai/jobs/info/694bbfe15d7312113470476f?utm_campaign=Data%20Analysis&utm_source=1103)** | Anchorage, AK, US | On Site | Dec 24 |
 | **[Research Foundation for Mental Hygiene, Inc.](http://corporate.rfmh.org/)** | **[Research Scientist I](https://jobright.ai/jobs/info/69535ab1f1f8465b79eab8a7?utm_campaign=Data%20Analysis&utm_source=1103)** | Menands, NY | On Site | Dec 23 |
-| **[TriWest Healthcare Alliance](http://triwest.com)** | **[Data Analyst](https://jobright.ai/jobs/info/694b77911a572a617dddd3e9?utm_campaign=Data%20Analysis&utm_source=1103)** | Phoenix, AZ | Remote | Dec 23 |
-| **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[CLARiTI Imaging Data Coordinator](https://jobright.ai/jobs/info/694b59341a572a617dddad71?utm_campaign=Data%20Analysis&utm_source=1103)** | Madison, WI | Hybrid | Dec 23 |
-| **[TriWest Healthcare Alliance](http://triwest.com)** | **[Data Analyst](https://jobright.ai/jobs/info/694b72525d731211346ff862?utm_campaign=Data%20Analysis&utm_source=1103)** | Phoenix, AZ | Remote | Dec 23 |
-| **[University of California, San Francisco](http://www.ucsf.edu)** | **[Institutional Research Analyst](https://jobright.ai/jobs/info/69478a1cd1953b5d11c097f0?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
