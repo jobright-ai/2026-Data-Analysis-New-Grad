@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[EHR Application Analyst](https://jobright.ai/jobs/info/695325e8935649778e20ef54?utm_campaign=Data%20Analysis&utm_source=1103)** | US-CA-Ontario | On Site | Dec 29 |
+| **[Sensor Tower](http://sensortower.com)** | **[Data Solutions Analyst](https://jobright.ai/jobs/info/69531c775bb7de448ef62572?utm_campaign=Data%20Analysis&utm_source=1103)** | Culver City, CA | On Site | Dec 29 |
+| **[HMSA](https://www.hmsa.com)** | **[Encounters System Analyst I](https://jobright.ai/jobs/info/695316e7935649778e20d0e7?utm_campaign=Data%20Analysis&utm_source=1103)** | Honolulu, HI | Hybrid | Dec 29 |
 | **[Evercore](http://www.evercore.com)** | **[Research and Data Analyst – Strategic, Defense & Shareholder Advisory Team](https://jobright.ai/jobs/info/69530c6c935649778e20cd46?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Dec 29 |
 | **[University of Utah Health Research](https://uofuhealth.utah.edu/research)** | **[Research Assistant/Analyst](https://jobright.ai/jobs/info/6953081bf1f8465b79ea5674?utm_campaign=Data%20Analysis&utm_source=1103)** | Salt Lake City, UT | On Site | Dec 29 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Informatics Analyst](https://jobright.ai/jobs/info/69530697f1f8465b79ea55dc?utm_campaign=Data%20Analysis&utm_source=1103)** | Trenton, NJ | On Site | Dec 29 |
@@ -135,7 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Gates Corporation](https://www.gates.com/us/en.html)** | **[Market and Business Intelligence Analyst](https://jobright.ai/jobs/info/693210d84c474121999f67f9?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, CO | On Site | Dec 26 |
 | **[Cerberus Capital Management](http://www.cerberus.com)** | **[RMBS Mortgage Trading Desk - Quantitative Analyst/Programmer (PhD Degree Required)](https://jobright.ai/jobs/info/68f7e09c5dc1be601281d69e?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Dec 26 |
 | **[Navitus Health Solutions](https://www.navitus.com/)** | **[Analyst, Claims Extract](https://jobright.ai/jobs/info/692019b2a49a885af9a36afa?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 26 |
-| **[ADP WFN Test Company 1](https://www.linkedin.com/company/105053196/)** | **[BVT Analyst_12/26/2025](https://jobright.ai/jobs/info/694e5180f5bef51c96eba30e?utm_campaign=Data%20Analysis&utm_source=1103)** | Anchorage, AK, US | On Site | Dec 26 |
+| **[ADP WFN Test Company 1](https://www.linkedin.com/company/105053196/)** | **[BVT Analyst_12/26/2025](https://jobright.ai/jobs/info/694e5389d4a7df7a06732028?utm_campaign=Data%20Analysis&utm_source=1103)** | Anchorage, AK, US | On Site | Dec 26 |
 | **[Webster University](http://www.webster.edu)** | **[Client Advisory Analyst](https://jobright.ai/jobs/info/694e3957f5bef51c96eb98f3?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Lauderdale, FL | Hybrid | Dec 25 |
 | **[Allina Health](https://www.allinahealth.org/)** | **[Business Intelligence Analyst Associate](https://jobright.ai/jobs/info/694eec8529655e4dd6587499?utm_campaign=Data%20Analysis&utm_source=1103)** | Minneapolis, MN | On Site | Dec 25 |
 | **[BlackRock](http://www.blackrock.com)** | **[Analyst, MASS Models Data Collection, Reconciliation, and Reporting](https://jobright.ai/jobs/info/694dbc8b29655e4dd6579e06?utm_campaign=Data%20Analysis&utm_source=1103)** | Princeton, NJ | Hybrid | Dec 25 |
@@ -244,6 +247,4 @@ For a complete list, click the following sortable link below:
 | **[The Boston Beer Company](http://bostonbeer.com/)** | **[Commercialization Data Specialist](https://jobright.ai/jobs/info/692df497fa28370be269fc2d?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | Dec 23 |
 | **[Amazon](https://amazon.com)** | **[Data & Reporting Analyst , Relay Operations Center Tech & Ops integration](https://jobright.ai/jobs/info/690bb749d046ab6061ce6b74?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | On Site | Dec 23 |
 | ↳ | **[Data & Reporting Analyst , Relay Operations Center Tech & Ops integration](https://jobright.ai/jobs/info/690bc432d046ab6061ce75fe?utm_campaign=Data%20Analysis&utm_source=1103)** | Tempe, AZ | On Site | Dec 23 |
-| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[GIS Analyst](https://jobright.ai/jobs/info/692e158e4c474121999d5f93?utm_campaign=Data%20Analysis&utm_source=1103)** | Santa Barbara, CA | On Site | Dec 23 |
-| **[American Academy of Ophthalmology](http://www.aao.org)** | **[Data Analyst](https://jobright.ai/jobs/info/694a651431c12007d3b91730?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA Main *2387, San Francisco, CA, US | Hybrid | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
