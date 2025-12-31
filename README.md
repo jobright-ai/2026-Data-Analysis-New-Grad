@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Claims Research Analyst - 25-208](https://jobright.ai/jobs/info/69557058aa05c26e7aafc8df?utm_campaign=Data%20Analysis&utm_source=1103)** | San Ramon, CA | On Site | Dec 31 |
 | **[Deer Island Treatment Plant](https://www.mwra.com)** | **[Data Analyst, Meter Data](https://jobright.ai/jobs/info/6955617faa05c26e7aafc4ef?utm_campaign=Data%20Analysis&utm_source=1103)** | Chelsea, MA | Hybrid | Dec 31 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Research Data Associate (Bi-lingual), Infectious Diseases](https://jobright.ai/jobs/info/69553d93aa05c26e7aafa1bf?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | Dec 31 |
 | ↳ | **[Research Data Associate (Bi-lingual), Infectious Diseases](https://jobright.ai/jobs/info/69553959f1f8465b79ec539c?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston | Hybrid | Dec 31 |
@@ -74,7 +75,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Analyst, Customer Collaboration](https://jobright.ai/jobs/info/69038fde63502c0aded69dda?utm_campaign=Data%20Analysis&utm_source=1103)** | White Plains, NY | Hybrid | Dec 31 |
 | **[ADP WFN Test Company 1](https://www.linkedin.com/company/105053196/)** | **[BVT Analyst_12/31/2025](https://jobright.ai/jobs/info/6954eb179f1b381eb26e5209?utm_campaign=Data%20Analysis&utm_source=1103)** | Anchorage, AK, US | On Site | Dec 31 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Business Data Analyst II](https://jobright.ai/jobs/info/6954dee8f1f8465b79ec08a5?utm_campaign=Data%20Analysis&utm_source=1103)** | Groveport, OH | On Site | Dec 31 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Decision Scientist](https://jobright.ai/jobs/info/695548ac9f1b381eb26e9e19?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 31 |
+| **[Nassau County District Attorney](https://nassauda.org)** | **[Intelligence Analyst](https://jobright.ai/jobs/info/69556645f1f8465b79ec79f2?utm_campaign=Data%20Analysis&utm_source=1103)** | Mineola, NY | On Site | Dec 30 |
 | **[The Aerospace Corporation](http://www.aerospace.org)** | **[2026 Data Scientist](https://jobright.ai/jobs/info/6954d2bef1f8465b79ec046f?utm_campaign=Data%20Analysis&utm_source=1103)** | El Segundo, CA | On Site | Dec 30 |
 | **[Alimentiv](https://alimentiv.com/)** | **[Clinical Data Coordinator (Canada)](https://jobright.ai/jobs/info/6954ab29f1f8465b79ebd4e6?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 30 |
 | **[Applecart](http://applecart.co/)** | **[Research Specialist](https://jobright.ai/jobs/info/68efcd219821486c423c76b5?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, New York | Hybrid | Dec 30 |
@@ -84,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Weill Cornell Medicine](https://careers.weill.cornell.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/69547524f1f8465b79ebade3?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 30 |
 | **[Nakupuna Companies](https://www.nakupuna.com)** | **[Mid Data Analyst](https://jobright.ai/jobs/info/694afb2d1224705e900211e6?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | On Site | Dec 30 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Clinical Research Coordinator I](https://jobright.ai/jobs/info/69551da19f1b381eb26e8e35?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | Dec 30 |
-| ↳ | **[Clinical Research Coordinator I](https://jobright.ai/jobs/info/69551e09f1f8465b79ec4825?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | Dec 30 |
 | ↳ | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/69551db4f1f8465b79ec4812?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | Dec 30 |
 | **[Q-Centrix](https://www.q-centrix.com/)** | **[Clinical Data Quality Specialist - Core Measures](https://jobright.ai/jobs/info/69545d47aa05c26e7aaed8c3?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 30 |
 | ↳ | **[Clinical Data Quality Specialist - Core Measures](https://jobright.ai/jobs/info/695457925bb7de448ef75024?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Remote | Dec 30 |
@@ -96,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Swedish](http://www.swedish.org/)** | **[Oncology Data Specialist](https://jobright.ai/jobs/info/6954209daa05c26e7aae95fd?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | Remote | Dec 30 |
 | **[Clemson University](http://www.clemson.edu)** | **[Research Associate](https://jobright.ai/jobs/info/6954132cf1f8465b79eb4292?utm_campaign=Data%20Analysis&utm_source=1103)** | Clemson, SC | On Site | Dec 30 |
 | **[Providence](http://www.providence.org)** | **[Oncology Data Specialist](https://jobright.ai/jobs/info/69540a315bb7de448ef708c6?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA, United States | Remote | Dec 30 |
-| **[University of Maryland Medical System](http://www.umms.org)** | **[Cancer Registry Associate](https://jobright.ai/jobs/info/69540190f1f8465b79eb2410?utm_campaign=Data%20Analysis&utm_source=1103)** | Towson, MD | On Site | Dec 30 |
 | **[Covenant Health](https://www.covenanthealth.org)** | **[Oncology Data Specialist](https://jobright.ai/jobs/info/695400ff5bb7de448ef6ebe1?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA, United States | Remote | Dec 30 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Assistant Data Analyst, Bureau of Early Intervention](https://jobright.ai/jobs/info/6953e6a8aa05c26e7aae6b9f?utm_campaign=Data%20Analysis&utm_source=1103)** | Queens, NY | Hybrid | Dec 30 |
 | **[Koch](https://www.kochinc.com)** | **[Data Analyst, In-line Inspection](https://jobright.ai/jobs/info/6937baf2aabec14a727ccb8f?utm_campaign=Data%20Analysis&utm_source=1103)** | North Vancouver, British Columbia, Canada | On Site | Dec 30 |
@@ -194,7 +193,7 @@ For a complete list, click the following sortable link below:
 | **[Gates Corporation](https://www.gates.com/us/en.html)** | **[Market and Business Intelligence Analyst](https://jobright.ai/jobs/info/693210d84c474121999f67f9?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, CO | On Site | Dec 26 |
 | **[Cerberus Capital Management](http://www.cerberus.com)** | **[RMBS Mortgage Trading Desk - Quantitative Analyst/Programmer (PhD Degree Required)](https://jobright.ai/jobs/info/68f7e09c5dc1be601281d69e?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Dec 26 |
 | **[Navitus Health Solutions](https://www.navitus.com/)** | **[Analyst, Claims Extract](https://jobright.ai/jobs/info/692019b2a49a885af9a36afa?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 26 |
-| **[ADP WFN Test Company 1](https://www.linkedin.com/company/105053196/)** | **[BVT Analyst_12/26/2025](https://jobright.ai/jobs/info/694e5180f5bef51c96eba30e?utm_campaign=Data%20Analysis&utm_source=1103)** | Anchorage, AK, US | On Site | Dec 26 |
+| **[ADP WFN Test Company 1](https://www.linkedin.com/company/105053196/)** | **[BVT Analyst_12/26/2025](https://jobright.ai/jobs/info/694e5389d4a7df7a06732028?utm_campaign=Data%20Analysis&utm_source=1103)** | Anchorage, AK, US | On Site | Dec 26 |
 | **[BlackRock](http://www.blackrock.com)** | **[Analyst, MASS Models Data Collection, Reconciliation, and Reporting](https://jobright.ai/jobs/info/694dbc8b29655e4dd6579e06?utm_campaign=Data%20Analysis&utm_source=1103)** | Princeton, NJ | Hybrid | Dec 25 |
 | **[Amicis Global Technologies](https://www.amicisglobal.com/)** | **[Data Risk Assessment in Jersey City, NJ 07311](https://jobright.ai/jobs/info/694da7a4d4a7df7a0672aa2c?utm_campaign=Data%20Analysis&utm_source=1103)** | Jersey City, NJ | On Site | Dec 25 |
 | **[Unilever](http://www.unilever.com)** | **[CPFR Analyst](https://jobright.ai/jobs/info/694d811bd4a7df7a06728af7?utm_campaign=Data%20Analysis&utm_source=1103)** | Rogers, AR | On Site | Dec 25 |
@@ -214,5 +213,4 @@ For a complete list, click the following sortable link below:
 | **[ADP WFN Test Company 1](https://www.linkedin.com/company/105053196/)** | **[BVT Analyst_12/25/2025](https://jobright.ai/jobs/info/694d15f3d4a7df7a06724621?utm_campaign=Data%20Analysis&utm_source=1103)** | Anchorage, AK, US | On Site | Dec 25 |
 | **[GiveWell](https://www.givewell.org/)** | **[Research Analyst](https://jobright.ai/jobs/info/68d1b4d9a54edb3bf3e15438?utm_campaign=Data%20Analysis&utm_source=1103)** | United States + International (Remote) | Remote | Dec 24 |
 | **[Acosta](https://www.acosta.com)** | **[Category Analyst (CPG)](https://jobright.ai/jobs/info/6950c82fce13cd105658ae12?utm_campaign=Data%20Analysis&utm_source=1103)** | Cleveland, OH | Hybrid | Dec 24 |
-| **[NYU Langone Health](https://nyulangone.org/)** | **[Research Data Associate * Must have bilingual fluency in Spanish and English *](https://jobright.ai/jobs/info/694cb676f5bef51c96ea7c78?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
