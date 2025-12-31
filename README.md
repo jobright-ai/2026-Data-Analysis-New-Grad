@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/695463e5f1f8465b79eb8db3?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | Dec 30 |
+| **[Net Health](https://www.nethealth.com)** | **[Business Intelligence Analyst I - REMOTE](https://jobright.ai/jobs/info/695469bdaa05c26e7aaeddb0?utm_campaign=Data%20Analysis&utm_source=1103)** | PA | Remote | Dec 30 |
+| ↳ | **[Business Intelligence Analyst I - REMOTE](https://jobright.ai/jobs/info/695478e6f1f8465b79ebaf2a?utm_campaign=Data%20Analysis&utm_source=1103)** | Pittsburgh, PA | Remote | Dec 30 |
+| **[Weill Cornell Medicine](https://careers.weill.cornell.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/69547524f1f8465b79ebade3?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 30 |
+| **[Nakupuna Companies](https://www.nakupuna.com)** | **[Mid Data Analyst](https://jobright.ai/jobs/info/694afb2d1224705e900211e6?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | On Site | Dec 30 |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Clinical Research Coordinator I](https://jobright.ai/jobs/info/695464a05bb7de448ef756ad?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | Dec 30 |
+| ↳ | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/695463e5f1f8465b79eb8db3?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | Dec 30 |
 | ↳ | **[Clinical Research Coordinator I](https://jobright.ai/jobs/info/6954624ff1f8465b79eb8cb8?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | Dec 30 |
 | **[Q-Centrix](https://www.q-centrix.com/)** | **[Clinical Data Quality Specialist - Core Measures](https://jobright.ai/jobs/info/69545d47aa05c26e7aaed8c3?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 30 |
 | ↳ | **[Clinical Data Quality Specialist - Core Measures](https://jobright.ai/jobs/info/695457925bb7de448ef75024?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Remote | Dec 30 |
@@ -86,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Western Union](http://westernunion.com)** | **[FIU Intelligence Analyst](https://jobright.ai/jobs/info/69380ad7aabec14a727cfcc7?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, CO | Hybrid | Dec 30 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Data Analyst](https://jobright.ai/jobs/info/6953c065aa05c26e7aae426b?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | Dec 30 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Data Analyst (Financials)](https://jobright.ai/jobs/info/693769ec1c1c2161c13f4191?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 30 |
+| **[Ulta Beauty](https://www.ulta.com)** | **[LP Intelligence Analyst](https://jobright.ai/jobs/info/69379066a0dde7020e3042d8?utm_campaign=Data%20Analysis&utm_source=1103)** | Bolingbrook, IL | On Site | Dec 30 |
 | **[Octopus AI](https://myoctopus.ai)** | **[Junior FP&A Analyst (Remote)](https://jobright.ai/jobs/info/6953ba6af1f8465b79eaf1be?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, Texas Metropolitan Area | Remote | Dec 30 |
 | **[HockeyStack](https://hockeystack.com)** | **[Data Analyst](https://jobright.ai/jobs/info/693795a2aabec14a727c98af?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | Hybrid | Dec 30 |
 | **[The Voleon Group](http://voleon.com/)** | **[Data Scientist - Voleon Securities (New York)](https://jobright.ai/jobs/info/693774411c1c2161c13f49f3?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Dec 30 |
@@ -96,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/695365865bb7de448ef68866?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | Dec 29 |
 | **[Alimentiv](https://alimentiv.com/)** | **[Clinical Data Coordinator (Canada)](https://jobright.ai/jobs/info/69535fc8f1f8465b79eabc3c?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 29 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Data Analyst 1, Nordstrom Media Network (Hybrid, Seattle)](https://jobright.ai/jobs/info/69534339935649778e2105c0?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | Hybrid | Dec 29 |
-| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[EHR Application Analyst](https://jobright.ai/jobs/info/69533f6b935649778e2103ab?utm_campaign=Data%20Analysis&utm_source=1103)** | Ontario, CA | On Site | Dec 29 |
 | **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[EHR Application Analyst](https://jobright.ai/jobs/info/695325e8935649778e20ef54?utm_campaign=Data%20Analysis&utm_source=1103)** | US-CA-Ontario | On Site | Dec 29 |
 | **[Providence](http://www.providence.org)** | **[Oncology Data Specialist](https://jobright.ai/jobs/info/69542e905bb7de448ef71a85?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | Remote | Dec 29 |
 | **[Sensor Tower](http://sensortower.com)** | **[Data Solutions Analyst](https://jobright.ai/jobs/info/69531c775bb7de448ef62572?utm_campaign=Data%20Analysis&utm_source=1103)** | Culver City, CA | On Site | Dec 29 |
@@ -242,11 +247,4 @@ For a complete list, click the following sortable link below:
 | **[BCG X](https://www.bcg.com/x)** | **[Analyst, GeoAnalytics - X Delivery](https://jobright.ai/jobs/info/68daf7220dffed6f83d2b686?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Dec 24 |
 | **[California Department of Forestry and Fire Protection (CAL FIRE)](https://www.fire.ca.gov/)** | **[Forest Practice Research Data Specialist I](https://jobright.ai/jobs/info/692f72434c474121999df212?utm_campaign=Data%20Analysis&utm_source=1103)** | Sonoma, CA | On Site | Dec 24 |
 | **[Connor, Clark & Lunn Investment Management (CC&L)](https://cclinvest.cclgroup.com)** | **[Quantitative Equity Technology, Quantitative Developer](https://jobright.ai/jobs/info/692f94e24c474121999e0a8a?utm_campaign=Data%20Analysis&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Dec 24 |
-| **[Oceaneering](http://www.oceaneering.com/)** | **[Data Management Analyst](https://jobright.ai/jobs/info/68f5291e9a65fd345858d461?utm_campaign=Data%20Analysis&utm_source=1103)** | Hanover, MD | Hybrid | Dec 24 |
-| **[State of Tennessee](https://www.tn.gov/)** | **[DCS INTELLIGENCE ANALYST - 12242025-73893](https://jobright.ai/jobs/info/694bed0ad64ebf28d82198fb?utm_campaign=Data%20Analysis&utm_source=1103)** | Sumner County, TN | On Site | Dec 24 |
-| **[Celestica](https://www.celestica.com/)** | **[Analyst, SCM Data](https://jobright.ai/jobs/info/694bef515d7312113470710a?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 24 |
-| **[NYU Langone Health](https://nyulangone.org/)** | **[Research Coordinator](https://jobright.ai/jobs/info/692fc4e6fa28370be26ad6b5?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 24 |
-| **[Gotion Inc.](https://www.gotion.com)** | **[Data Analyst](https://jobright.ai/jobs/info/6926118df0beb07232621c4e?utm_campaign=Data%20Analysis&utm_source=1103)** | Manteno, IL | On Site | Dec 24 |
-| **[Everest Clinical Research](https://www.ecrscorp.com/)** | **[Statistical Programmer I](https://jobright.ai/jobs/info/69171b1f370fde633d07d642?utm_campaign=Data%20Analysis&utm_source=1103)** | Markham, Ontario, Canada | Hybrid | Dec 24 |
-| **[The START Center for Cancer Research](https://startresearch.com)** | **[Data Coordinator](https://jobright.ai/jobs/info/692f7fe6ef4b48533d14612a?utm_campaign=Data%20Analysis&utm_source=1103)** | East Brunswick, NJ | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
