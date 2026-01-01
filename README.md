@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Election Systems & Software](http://www.essvote.com/)** | **[Data Specialist](https://jobright.ai/jobs/info/6956236f9f1b381eb26f5f43?utm_campaign=Data%20Analysis&utm_source=1103)** | Omaha, NE | Hybrid | Dec 31 |
 | **[Alimentiv](https://alimentiv.com/)** | **[Clinical Data Coordinator (Canada)](https://jobright.ai/jobs/info/695608bb9f1b381eb26f4de8?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 31 |
 | **[Keck Medicine of USC](https://www.keckmedicine.org)** | **[Clinical Data Manager](https://jobright.ai/jobs/info/6955dc86aa05c26e7ab011a0?utm_campaign=Data%20Analysis&utm_source=1103)** | San Diego, CA | On Site | Dec 31 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Data Analyst I - V - Bridge Division](https://jobright.ai/jobs/info/6955d14aaa05c26e7ab00068?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX | On Site | Dec 31 |
@@ -88,7 +89,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Analyst, Customer Collaboration](https://jobright.ai/jobs/info/69038fde63502c0aded69dda?utm_campaign=Data%20Analysis&utm_source=1103)** | White Plains, NY | Hybrid | Dec 31 |
 | **[ADP WFN Test Company 1](https://www.linkedin.com/company/105053196/)** | **[BVT Analyst_12/31/2025](https://jobright.ai/jobs/info/6954eb179f1b381eb26e5209?utm_campaign=Data%20Analysis&utm_source=1103)** | Anchorage, AK, US | On Site | Dec 31 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Business Data Analyst II](https://jobright.ai/jobs/info/6954dee8f1f8465b79ec08a5?utm_campaign=Data%20Analysis&utm_source=1103)** | Groveport, OH | On Site | Dec 31 |
-| **[Nassau County District Attorney](https://nassauda.org)** | **[Intelligence Analyst](https://jobright.ai/jobs/info/69556645f1f8465b79ec79f2?utm_campaign=Data%20Analysis&utm_source=1103)** | Mineola, NY | On Site | Dec 30 |
 | **[Alimentiv](https://alimentiv.com/)** | **[Clinical Data Coordinator (Canada)](https://jobright.ai/jobs/info/6954ab29f1f8465b79ebd4e6?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 30 |
 | **[Applecart](http://applecart.co/)** | **[Research Specialist](https://jobright.ai/jobs/info/68efcd219821486c423c76b5?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, New York | Hybrid | Dec 30 |
 | **[CenExel](http://www.CenExelresearch.com)** | **[Research Assistant I - Clinical Research](https://jobright.ai/jobs/info/6954aa675bb7de448ef79d7d?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Dec 30 |
