@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alimentiv](https://alimentiv.com/)** | **[Clinical Data Coordinator (Canada)](https://jobright.ai/jobs/info/695608bb9f1b381eb26f4de8?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 31 |
 | **[Keck Medicine of USC](https://www.keckmedicine.org)** | **[Clinical Data Manager](https://jobright.ai/jobs/info/6955dc86aa05c26e7ab011a0?utm_campaign=Data%20Analysis&utm_source=1103)** | San Diego, CA | On Site | Dec 31 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Data Analyst I - V - Bridge Division](https://jobright.ai/jobs/info/6955d14aaa05c26e7ab00068?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX | On Site | Dec 31 |
 | ↳ | **[Data Analyst I - V - Bridge Division](https://jobright.ai/jobs/info/6955cf43aa05c26e7aafff2e?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX | On Site | Dec 31 |
@@ -92,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Applecart](http://applecart.co/)** | **[Research Specialist](https://jobright.ai/jobs/info/68efcd219821486c423c76b5?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, New York | Hybrid | Dec 30 |
 | **[CenExel](http://www.CenExelresearch.com)** | **[Research Assistant I - Clinical Research](https://jobright.ai/jobs/info/6954aa675bb7de448ef79d7d?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Dec 30 |
 | **[Abbott](https://www.abbott.com)** | **[Associate Biostatistician](https://jobright.ai/jobs/info/6954a06af1f8465b79ebcfb4?utm_campaign=Data%20Analysis&utm_source=1103)** | Santa Clara, CA | On Site | Dec 30 |
+| **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Data Coordinator](https://jobright.ai/jobs/info/6955f7119f1b381eb26f2d99?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | On Site | Dec 30 |
 | **[State of Arkansas](https://portal.arkansas.gov/)** | **[DATA SCIENTIST](https://jobright.ai/jobs/info/695491d1aa05c26e7aaf0eb6?utm_campaign=Data%20Analysis&utm_source=1103)** | North Little Rock, AR | On Site | Dec 30 |
 | **[Nakupuna Companies](https://www.nakupuna.com)** | **[Mid Data Analyst](https://jobright.ai/jobs/info/694afb2d1224705e900211e6?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | On Site | Dec 30 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Clinical Research Coordinator I](https://jobright.ai/jobs/info/69551da19f1b381eb26e8e35?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | Dec 30 |
@@ -174,6 +176,7 @@ For a complete list, click the following sortable link below:
 | **[Petco](https://www.petco.com/unleashed)** | **[Analyst, Data Science & Analytics - Consumables-Pricing](https://jobright.ai/jobs/info/6943f59b94730b73987715f5?utm_campaign=Data%20Analysis&utm_source=1103)** | San Diego, CA | On Site | Dec 27 |
 | **[Orchestrate Consulting Group](www.orchestratecg.com)** | **[Research Assistant](https://jobright.ai/jobs/info/694f9260a2668b7f5452bbd6?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 27 |
 | **[Comcast](https://corporate.comcast.com)** | **[Analyst, Data Analytics & Business Intelligence](https://jobright.ai/jobs/info/694f81a3a2668b7f5452b3f9?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Dec 26 |
+| **[Capstone Logistics, LLC](http://www.capstonelogistics.com/)** | **[Warehouse Auditor](https://jobright.ai/jobs/info/6955fcd6f1f8465b79ecea55?utm_campaign=Data%20Analysis&utm_source=1103)** | Oklahoma City, OK | On Site | Dec 26 |
 | **[interos.ai](http://www.interos.ai)** | **[Data Analyst](https://jobright.ai/jobs/info/69534fdbf1f8465b79ea98a3?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 26 |
 | **[National Football League (NFL)](http://www.nfl.com)** | **[Seasonal Data Operations Coordinator](https://jobright.ai/jobs/info/694f43d5a2668b7f54527714?utm_campaign=Data%20Analysis&utm_source=1103)** | Inglewood, CA | On Site | Dec 26 |
 | **[Akkodis Group Nordics](http://www.datarespons.com/)** | **[Data Analyst](https://jobright.ai/jobs/info/694f2f44a2668b7f54526b23?utm_campaign=Data%20Analysis&utm_source=1103)** | Maple Grove, MN | Hybrid | Dec 26 |
