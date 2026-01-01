@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colorado State University](http://economics.colostate.edu/)** | **[Research Associates I, II, III or IV - Open Pool](https://jobright.ai/jobs/info/6956e54f9f1b381eb27019a3?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Collins, CO | On Site | Jan 01 |
 | **[HeyGen](https://www.heygen.com)** | **[Data Scientist](https://jobright.ai/jobs/info/6956d2539f1b381eb26ffb46?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Jan 01 |
-| **[Columbia University](https://www.columbia.edu)** | **[Data Scientist](https://jobright.ai/jobs/info/6956c173aa05c26e7ab0f503?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Jan 01 |
 | **[Control Risks](https://www.controlrisks.com)** | **[Junior Open Source Intelligence Analyst](https://jobright.ai/jobs/info/6956cb4faa05c26e7ab0f93c?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | Hybrid | Jan 01 |
+| **[Columbia University](https://www.columbia.edu)** | **[Data Scientist](https://jobright.ai/jobs/info/6956c173aa05c26e7ab0f503?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Jan 01 |
 | **[Fred Hutch](http://www.fredhutch.org)** | **[Post-Doctoral Research Fellow](https://jobright.ai/jobs/info/68cf64efdbd9fb154ede7994?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Jan 01 |
 | **[Yardi](https://www.yardi.com)** | **[Associate Researcher (Hybrid)](https://jobright.ai/jobs/info/69567503f1f8465b79ed7130?utm_campaign=Data%20Analysis&utm_source=1103)** | Scottsdale, AZ | Hybrid | Jan 01 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[Research Analyst I - Discovery](https://jobright.ai/jobs/info/693a38cc48a8ce22990e33af?utm_campaign=Data%20Analysis&utm_source=1103)** | Mattawan, MI | On Site | Jan 01 |
@@ -178,7 +179,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Coordinator](https://jobright.ai/jobs/info/6952b349f1f8465b79ea0441?utm_campaign=Data%20Analysis&utm_source=1103)** | Beth Israel Deaconess Medical Center | On Site | Dec 29 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Data Analyst](https://jobright.ai/jobs/info/6953f4e5aa05c26e7aae6e52?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Liberty, NC | On Site | Dec 29 |
 | **[Intermountain Health](https://intermountainhealthcare.org)** | **[OR Data Coordinator](https://jobright.ai/jobs/info/695294555bb7de448ef5af3f?utm_campaign=Data%20Analysis&utm_source=1103)** | Intermountain Health Utah Valley Hospital | On Site | Dec 29 |
-| **[University of Illinois Chicago](https://uic.edu)** | **[Post-Doctoral Research Associate (Informatics - Center 4 Health Research)](https://jobright.ai/jobs/info/695350845bb7de448ef66132?utm_campaign=Data%20Analysis&utm_source=1103)** | Peoria, IL | On Site | Dec 29 |
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[Master Data Management Analyst - Portfolio Analytics & Reporting](https://jobright.ai/jobs/info/69193c0cbcdbf3560c9d4777?utm_campaign=Data%20Analysis&utm_source=1103)** | La Jolla, CA | On Site | Dec 29 |
 | **[Princeton University](http://www.princeton.edu)** | **[Research Specialist I](https://jobright.ai/jobs/info/69200ed209cc522e87747aff?utm_campaign=Data%20Analysis&utm_source=1103)** | Princeton, NJ | On Site | Dec 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate (TikTok-Product-Data Science)-2026 Start (BS/MS)](https://jobright.ai/jobs/info/693bd8b349a7695fbd02b988?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | Hybrid | Dec 29 |
