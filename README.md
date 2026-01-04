@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Escalent](https://escalent.co/)** | **[Insights Analyst - Remote, PST/MST Preferred](https://jobright.ai/jobs/info/695ac9edf1f8465b79f0f63b?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Jan 04 |
 | **[Cadent](http://www.cadent.tv)** | **[Associate Data Scientist](https://jobright.ai/jobs/info/695a92bdaa05c26e7ab41956?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Jan 04 |
 | **[RAPP](http://www.rapp.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/6920ed223f782d2f1afccdd6?utm_campaign=Data%20Analysis&utm_source=1103)** | LA Metro Area | Hybrid | Jan 04 |
 | **[Tatari](https://www.tatari.tv/)** | **[Data Science Analyst](https://jobright.ai/jobs/info/6949f94dc6f0e2546ceed1fe?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, New York, United States | Hybrid | Jan 04 |
@@ -200,7 +201,7 @@ For a complete list, click the following sortable link below:
 | **[Abbott](https://www.abbott.com)** | **[Associate Biostatistician](https://jobright.ai/jobs/info/6954a06af1f8465b79ebcfb4?utm_campaign=Data%20Analysis&utm_source=1103)** | Santa Clara, CA | On Site | Dec 30 |
 | **[State of Arkansas](https://portal.arkansas.gov/)** | **[DATA SCIENTIST](https://jobright.ai/jobs/info/695491d1aa05c26e7aaf0eb6?utm_campaign=Data%20Analysis&utm_source=1103)** | North Little Rock, AR | On Site | Dec 30 |
 | **[Swedish](http://www.swedish.org/)** | **[Oncology Data Specialist](https://jobright.ai/jobs/info/69589244aa05c26e7ab26eba?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | Remote | Dec 30 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Clinical Research Coordinator I](https://jobright.ai/jobs/info/69551da19f1b381eb26e8e35?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | Dec 30 |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Clinical Research Coordinator I](https://jobright.ai/jobs/info/69551e09f1f8465b79ec4825?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | Dec 30 |
 | ↳ | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/69551db4f1f8465b79ec4812?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | Dec 30 |
 | **[Q-Centrix](https://www.q-centrix.com/)** | **[Clinical Data Quality Specialist - Core Measures](https://jobright.ai/jobs/info/69545d47aa05c26e7aaed8c3?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 30 |
 | ↳ | **[Clinical Data Quality Specialist - Core Measures](https://jobright.ai/jobs/info/695457925bb7de448ef75024?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Remote | Dec 30 |
