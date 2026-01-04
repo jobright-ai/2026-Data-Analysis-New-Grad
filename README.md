@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RAPP](http://www.rapp.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/6920ed223f782d2f1afccdd6?utm_campaign=Data%20Analysis&utm_source=1103)** | LA Metro Area | Hybrid | Jan 04 |
+| **[Tatari](https://www.tatari.tv/)** | **[Data Science Analyst](https://jobright.ai/jobs/info/6949f94dc6f0e2546ceed1fe?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, New York, United States | Hybrid | Jan 04 |
+| **[Mastery Schools](https://masterycharter.org/)** | **[Data Systems Analyst](https://jobright.ai/jobs/info/69471f1e7d506e3808f2748a?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | On Site | Jan 04 |
+| **[adMarketplace](http://www.admarketplace.com)** | **[Pricing Analyst](https://jobright.ai/jobs/info/69209bda00c9ee50eaec6007?utm_campaign=Data%20Analysis&utm_source=1103)** | NYC Metro Area | On Site | Jan 04 |
+| **[Philip Morris International U.S.](https://www.uspmi.com/)** | **[Master Data Analyst](https://jobright.ai/jobs/info/6920f04da49a885af9a40bc9?utm_campaign=Data%20Analysis&utm_source=1103)** | Tampa, FL | Hybrid | Jan 04 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist, Mid](https://jobright.ai/jobs/info/68ea10c5cfc08e49089156b1?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, MD | Hybrid | Jan 04 |
 | **[CROSSMARK](https://crossmark.com/)** | **[Field Analyst](https://jobright.ai/jobs/info/695a22249f1b381eb272c146?utm_campaign=Data%20Analysis&utm_source=1103)** | Cherry Hill, NJ | On Site | Jan 04 |
 | **[Chinese-American Planning Council](https://www.cpc-nyc.org/)** | **[Database Assistant (Brooklyn Older Adult Center)](https://jobright.ai/jobs/info/695a3f74aa05c26e7ab3cea2?utm_campaign=Data%20Analysis&utm_source=1103)** | Brooklyn Older Adult Center - Brooklyn, NY 11232 | On Site | Jan 03 |
@@ -193,7 +198,7 @@ For a complete list, click the following sortable link below:
 | **[State of Arkansas](https://portal.arkansas.gov/)** | **[DATA SCIENTIST](https://jobright.ai/jobs/info/695491d1aa05c26e7aaf0eb6?utm_campaign=Data%20Analysis&utm_source=1103)** | North Little Rock, AR | On Site | Dec 30 |
 | **[Swedish](http://www.swedish.org/)** | **[Oncology Data Specialist](https://jobright.ai/jobs/info/69589244aa05c26e7ab26eba?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | Remote | Dec 30 |
 | **[OIC of Washington](https://www.yvoic.org)** | **[Data and Reporting Specialist (Full Time/Temporary)](https://jobright.ai/jobs/info/695737b59f1b381eb27048d4?utm_campaign=Data%20Analysis&utm_source=1103)** | Yakima, WA | On Site | Dec 30 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Clinical Research Coordinator I](https://jobright.ai/jobs/info/69551da19f1b381eb26e8e35?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | Dec 30 |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Clinical Research Coordinator I](https://jobright.ai/jobs/info/69551e09f1f8465b79ec4825?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | Dec 30 |
 | ↳ | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/69551db4f1f8465b79ec4812?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | Dec 30 |
 | **[Q-Centrix](https://www.q-centrix.com/)** | **[Clinical Data Quality Specialist - Core Measures](https://jobright.ai/jobs/info/69545d47aa05c26e7aaed8c3?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Dec 30 |
 | ↳ | **[Clinical Data Quality Specialist - Core Measures](https://jobright.ai/jobs/info/695457925bb7de448ef75024?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Remote | Dec 30 |
