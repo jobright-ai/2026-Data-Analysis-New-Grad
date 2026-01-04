@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CROSSMARK](https://crossmark.com/)** | **[Field Analyst](https://jobright.ai/jobs/info/695a22249f1b381eb272c146?utm_campaign=Data%20Analysis&utm_source=1103)** | Cherry Hill, NJ | On Site | Jan 04 |
 | **[California Health & Human Services Agency](http://chhs.ca.gov)** | **[RESEARCH DATA SPECIALIST I](https://jobright.ai/jobs/info/6959d42baa05c26e7ab37ea1?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento, CA | Hybrid | Jan 03 |
 | **[Applecart](http://applecart.co/)** | **[Research Specialist](https://jobright.ai/jobs/info/68efcd219821486c423c76b5?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, New York | Hybrid | Jan 03 |
 | **[BlackRock](http://www.blackrock.com)** | **[2026 Full-Time Analyst Program - AMERS](https://jobright.ai/jobs/info/695947899f1b381eb2721fae?utm_campaign=Data%20Analysis&utm_source=1103)** | ABQ-SF Metro Area | On Site | Jan 03 |
@@ -105,8 +106,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Category Analyst (CPG)](https://jobright.ai/jobs/info/69588e48aa05c26e7ab26b4e?utm_campaign=Data%20Analysis&utm_source=1103)** | North Andover, MA | Hybrid | Jan 02 |
 | **[WSFS Bank](http://www.wsfsbank.com/)** | **[Data Reporting Analyst](https://jobright.ai/jobs/info/69585ff6f1f8465b79eef4c8?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | On Site | Jan 02 |
 | **[Clemson University](http://www.clemson.edu)** | **[Research Associate](https://jobright.ai/jobs/info/6954132cf1f8465b79eb4292?utm_campaign=Data%20Analysis&utm_source=1103)** | Clemson, SC | On Site | Jan 02 |
-| **[WSFS Bank](http://www.wsfsbank.com/)** | **[Data Reporting Analyst](https://jobright.ai/jobs/info/69584615aa05c26e7ab232c1?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | On Site | Jan 02 |
 | **[NewLane Finance](https://newlanefinance.com/)** | **[Data Reporting Analyst](https://jobright.ai/jobs/info/695844d89f1b381eb2713304?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | On Site | Jan 02 |
+| **[WSFS Bank](http://www.wsfsbank.com/)** | **[Data Reporting Analyst](https://jobright.ai/jobs/info/6958412bf1f8465b79eee6a9?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | On Site | Jan 02 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Research Data Associate (Bi-lingual), Infectious Diseases](https://jobright.ai/jobs/info/69553d93aa05c26e7aafa1bf?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | Jan 02 |
 | **[TransUnion](http://www.transunion.com)** | **[Data Scientist](https://jobright.ai/jobs/info/6958359df1f8465b79eecfd2?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Jan 02 |
 | **[Oak Street Health, part of CVS Health](http://www.oakstreethealth.com)** | **[Specialist, Clinical Informatics](https://jobright.ai/jobs/info/69582d0aaa05c26e7ab209f7?utm_campaign=Data%20Analysis&utm_source=1103)** | Chandler, AZ | On Site | Jan 02 |
@@ -214,7 +215,6 @@ For a complete list, click the following sortable link below:
 | **[Western Union](http://westernunion.com)** | **[FIU Intelligence Analyst](https://jobright.ai/jobs/info/69380ad7aabec14a727cfcc7?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, CO | Hybrid | Dec 30 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Data Analyst (Financials)](https://jobright.ai/jobs/info/693769ec1c1c2161c13f4191?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Dec 30 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[LP Intelligence Analyst](https://jobright.ai/jobs/info/69379066a0dde7020e3042d8?utm_campaign=Data%20Analysis&utm_source=1103)** | Bolingbrook, IL | On Site | Dec 30 |
-| **[Octopus AI](https://myoctopus.ai)** | **[Junior FP&A Analyst (Remote)](https://jobright.ai/jobs/info/6953ba6af1f8465b79eaf1be?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, Texas Metropolitan Area | Remote | Dec 30 |
 | **[HockeyStack](https://hockeystack.com)** | **[Data Analyst](https://jobright.ai/jobs/info/693795a2aabec14a727c98af?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | Hybrid | Dec 30 |
 | **[The Voleon Group](http://voleon.com/)** | **[Data Scientist - Voleon Securities (New York)](https://jobright.ai/jobs/info/693774411c1c2161c13f49f3?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Dec 30 |
 | ↳ | **[Data Scientist - Voleon Securities](https://jobright.ai/jobs/info/693784d6a0dde7020e303b49?utm_campaign=Data%20Analysis&utm_source=1103)** | Berkeley, CA | On Site | Dec 30 |
