@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern University](https://www.northwestern.edu)** | **[Empirical Research Fellow, Research Support](https://jobright.ai/jobs/info/68ce6552dbd9fb154eddf190?utm_campaign=Data%20Analysis&utm_source=1103)** | Evanston, IL | On Site | Jan 22 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Epic Analyst II - Epic Certification Required (Grand Central, Prelude or RTE)](https://jobright.ai/jobs/info/68e5ebadae2b894b1d71567e?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Jan 22 |
 | **[Bureau Veritas Group](https://group.bureauveritas.com)** | **[Data & Quality Review I](https://jobright.ai/jobs/info/697206cc47b64f4e963e4074?utm_campaign=Data%20Analysis&utm_source=1103)** | Indianapolis, IN | On Site | Jan 22 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Postdoctoral Associate for Regional Gun Violence Research Consortium (RGVRC)](https://jobright.ai/jobs/info/68c15b18233c7d3e64d016ee?utm_campaign=Data%20Analysis&utm_source=1103)** | Albany, NY | On Site | Jan 22 |
@@ -161,8 +162,8 @@ For a complete list, click the following sortable link below:
 | **[ADP WFN Test Company](https://www.linkedin.com/company/106409645)** | **[BVT Analyst_01/21/2026](https://jobright.ai/jobs/info/69709591587dfa0bb55e2d02?utm_campaign=Data%20Analysis&utm_source=1103)** | Anchorage, AK, US | On Site | Jan 21 |
 | **[ADP WFN Test Company 1](https://www.linkedin.com/company/105053196/)** | **[BVT Analyst_01/21/2026](https://jobright.ai/jobs/info/69709566587dfa0bb55e2bf4?utm_campaign=Data%20Analysis&utm_source=1103)** | Anchorage, AK, US | On Site | Jan 21 |
 | **[Acosta Group](https://www.acosta.group)** | **[Category Analyst (CPG)](https://jobright.ai/jobs/info/6970b67851f726477182f52e?utm_campaign=Data%20Analysis&utm_source=1103)** | Richmond, KY | On Site | Jan 21 |
-| ↳ | **[Category Analyst (CPG)](https://jobright.ai/jobs/info/6970b54d51f726477182f4cf?utm_campaign=Data%20Analysis&utm_source=1103)** | The Colony, TX | On Site | Jan 21 |
 | ↳ | **[Category Analyst (CPG)](https://jobright.ai/jobs/info/6970bae7587dfa0bb55e48cf?utm_campaign=Data%20Analysis&utm_source=1103)** | Hanover, MD | On Site | Jan 21 |
+| ↳ | **[Category Analyst (CPG)](https://jobright.ai/jobs/info/6970b54d51f726477182f4cf?utm_campaign=Data%20Analysis&utm_source=1103)** | The Colony, TX | On Site | Jan 21 |
 | **[PepsiCo](http://www.pepsico.com)** | **[Sustainability Data Analyst - Agriculture](https://jobright.ai/jobs/info/69706ca7587dfa0bb55e13f8?utm_campaign=Data%20Analysis&utm_source=1103)** | Purchase, NY | On Site | Jan 20 |
 | **[Ipsos in US](http://ipsos-na.com)** | **[Research Analyst, Brand Health Tracking](https://jobright.ai/jobs/info/697052ea587dfa0bb55dd8ba?utm_campaign=Data%20Analysis&utm_source=1103)** | Troy, MI | Hybrid | Jan 20 |
 | ↳ | **[Research Analyst, Brand Health Tracking](https://jobright.ai/jobs/info/6970506e587dfa0bb55dd734?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Jan 20 |
@@ -187,6 +188,7 @@ For a complete list, click the following sortable link below:
 | **[Benton PUD](www.bentonpud.org)** | **[Geographic Information Systems (GIS) Specialist I or II](https://jobright.ai/jobs/info/69702781333b6343a14c9106?utm_campaign=Data%20Analysis&utm_source=1103)** | Kennewick, WA | On Site | Jan 20 |
 | **[Ipsos](http://www.ipsos.com)** | **[Research Analyst, Brand Health Tracking](https://jobright.ai/jobs/info/697079b9587dfa0bb55e185d?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Jan 20 |
 | **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[Data Scientist, Junior](https://jobright.ai/jobs/info/6970192c3ed06875134b15b5?utm_campaign=Data%20Analysis&utm_source=1103)** | Charleston, SC | On Site | Jan 20 |
+| **[University of California, San Francisco](http://www.ucsf.edu)** | **[005273 RSCH DATA ANL 2 RP](https://jobright.ai/jobs/info/69721193cda18b7438646385?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | Remote | Jan 20 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Bioinformatics Scientist](https://jobright.ai/jobs/info/697039fd51f7264771826abc?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston | Remote | Jan 20 |
 | **[SewerAI](http://www.sewerai.com)** | **[Data & Video Review Specialist](https://jobright.ai/jobs/info/6970af2f51f726477182f328?utm_campaign=Data%20Analysis&utm_source=1103)** | Madisonville Office | On Site | Jan 20 |
 | **[City of Charlotte](https://charlottenc.gov/)** | **[Aviation Business Intelligence Analyst](https://jobright.ai/jobs/info/697028e4587dfa0bb55daadc?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte, NC | On Site | Jan 20 |
@@ -305,7 +307,7 @@ For a complete list, click the following sortable link below:
 | **[Tatari](https://www.tatari.tv/)** | **[Data Science Analyst](https://jobright.ai/jobs/info/6949f94dc6f0e2546ceed1fe?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, New York, United States | On Site | Jan 17 |
 | **[Petco](https://www.petco.com/unleashed)** | **[Analyst, Data Science & Analytics - Consumables-Pricing](https://jobright.ai/jobs/info/6943f59b94730b73987715f5?utm_campaign=Data%20Analysis&utm_source=1103)** | San Diego, CA | On Site | Jan 17 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Epidemiologist I](https://jobright.ai/jobs/info/696c5231db26b618950fa0ec?utm_campaign=Data%20Analysis&utm_source=1103)** | El Paso, TX | On Site | Jan 16 |
-| **[disney](http://books.disney.com)** | **[Viewer Insights Analyst](https://jobright.ai/jobs/info/696b24d25fc86241853a856e?utm_campaign=Data%20Analysis&utm_source=1103)** | Santa Monica, CA | On Site | Jan 16 |
+| **[disney](http://radio.disney.com/)** | **[Viewer Insights Analyst](https://jobright.ai/jobs/info/696b24d25fc86241853a856e?utm_campaign=Data%20Analysis&utm_source=1103)** | Santa Monica, CA | On Site | Jan 16 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Analyst, Clinical Transformation](https://jobright.ai/jobs/info/696dc58e5fc86241853c9c40?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, CO | Hybrid | Jan 16 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Information Center Analyst](https://jobright.ai/jobs/info/696db71f350cf438031490d8?utm_campaign=Data%20Analysis&utm_source=1103)** | Urbana, IL | On Site | Jan 16 |
 | **[Schwazze](https://www.schwazze.com/home)** | **[Merchandising Data Analyst](https://jobright.ai/jobs/info/696b0cb3350cf43803124ff2?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, CO | Hybrid | Jan 16 |
@@ -395,6 +397,4 @@ For a complete list, click the following sortable link below:
 | **[The University of British Columbia](http://www.ubc.ca)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/6969a797f25a380066985eec?utm_campaign=Data%20Analysis&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Jan 15 |
 | **[Merit for Training](http://www.meritontario.com)** | **[Geospatial Data (Field & Analysis)](https://jobright.ai/jobs/info/6969b333639b452fb57fa256?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 15 |
 | **[1021 Creative](https://1021creative.com/)** | **[Events Data Specialist - full-time](https://jobright.ai/jobs/info/696963bf1703f05405ab3eab?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Jan 15 |
-| **[JANA Corporation](https://www.janacorporation.com/)** | **[Integrity Analyst](https://jobright.ai/jobs/info/69699c4a639b452fb57f8de3?utm_campaign=Data%20Analysis&utm_source=1103)** | Greater Toronto Area, Canada | Hybrid | Jan 15 |
-| **[Ovative Group](http://www.ovative.com)** | **[Analyst, Data & Software Engineering - February 2026 Start Date](https://jobright.ai/jobs/info/696956c0f25a38006697ea38?utm_campaign=Data%20Analysis&utm_source=1103)** | Minneapolis, MN | Hybrid | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
