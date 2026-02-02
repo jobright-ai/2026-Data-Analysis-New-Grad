@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Taku Health Services, LLC](http://www.goldbelt.com)** | **[SELRES Analysts](https://jobright.ai/jobs/info/68edcb8d6335d3323612bcf0?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Feb 02 |
+| **[East West Bank](http://eastwestbank.com)** | **[Data Analyst](https://jobright.ai/jobs/info/691ea1673f782d2f1afb6385?utm_campaign=Data%20Analysis&utm_source=1103)** | Pasadena, CA | On Site | Feb 02 |
 | **[ADP WFN Test Company 1](https://www.linkedin.com/company/105053196/)** | **[BVT Analyst_02/02/2026](https://jobright.ai/jobs/info/69806f2049964d25b5e33a17?utm_campaign=Data%20Analysis&utm_source=1103)** | Anchorage, AK, US | On Site | Feb 02 |
 | **[Chapman University School of Pharmacy](http://www.chapman.edu/pharmacy)** | **[Assistant, Statistical Research Programmer PT, Limited Term](https://jobright.ai/jobs/info/6980087ace48107c054430cb?utm_campaign=Data%20Analysis&utm_source=1103)** | Irvine, CA | On Site | Feb 01 |
 | **[University of California, San Francisco](http://www.ucsf.edu)** | **[Data Analyst](https://jobright.ai/jobs/info/697e4e53abff4c399a9d09d4?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | Hybrid | Feb 01 |
@@ -141,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[YES! Communities](http://www.yescommunities.com/)** | **[*Data Analyst, FP&A](https://jobright.ai/jobs/info/697d2e913f57a3356966f709?utm_campaign=Data%20Analysis&utm_source=1103)** | 5050 S Syracuse St, Denver, CO 80237, USA | On Site | Jan 30 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Insights Analyst (ROPS Reporting Analyst)](https://jobright.ai/jobs/info/697d4748727747250d581714?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, CO | On Site | Jan 30 |
 | **[Yale University](https://www.yale.edu)** | **[Clinical Research Analyst](https://jobright.ai/jobs/info/697cd0673f57a33569668330?utm_campaign=Data%20Analysis&utm_source=1103)** | The Anlyan Center | Hybrid | Jan 30 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[Data Scientist I](https://jobright.ai/jobs/info/698071647f40342e15d949a5?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | On Site | Jan 30 |
 | **[Ipsos in US](http://ipsos-na.com)** | **[Research Analyst, Innovation](https://jobright.ai/jobs/info/696075aaa112b402660f3258?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Jan 30 |
 | **[EverQuote](https://www.everquote.com/)** | **[Quantitative Analyst](https://jobright.ai/jobs/info/6944c1ec50bbaf765056d7ea?utm_campaign=Data%20Analysis&utm_source=1103)** | Cambridge, MA | Hybrid | Jan 30 |
 | **[StackAdapt](https://www.stackadapt.com)** | **[Intermediate Enterprise BI Developer](https://jobright.ai/jobs/info/691dca68ad5a517034796750?utm_campaign=Data%20Analysis&utm_source=1103)** | Canada | Remote | Jan 30 |
@@ -426,8 +427,4 @@ For a complete list, click the following sortable link below:
 | **[Hydromax USA](https://www.hydromaxusa.com/)** | **[Data Analyst I](https://jobright.ai/jobs/info/6977fd9252f3c27ec6443719?utm_campaign=Data%20Analysis&utm_source=1103)** | Louisville, KY | Remote | Jan 26 |
 | **[Ameriprise Financial Services, LLC](https://www.kpsinc.net)** | **[Associate Data Scientist](https://jobright.ai/jobs/info/69784caf52f3c27ec6449ae4?utm_campaign=Data%20Analysis&utm_source=1103)** | Minneapolis, Minnesota | Hybrid | Jan 26 |
 | **[ETS](http://www.ets.org)** | **[Statistical Data Analyst - 6 Month Contract](https://jobright.ai/jobs/info/6977f8b1fdeb8243a27afd00?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jan 26 |
-| **[Auburn University](https://www.auburn.edu/)** | **[Research Associate I/II](https://jobright.ai/jobs/info/6972a38d584a1c1ef6fdb45e?utm_campaign=Data%20Analysis&utm_source=1103)** | Auburn, AL | On Site | Jan 26 |
-| **[iSoftStone](https://www.isoftstoneinc.com)** | **[Data Analyst](https://jobright.ai/jobs/info/6977cd3afdeb8243a27aba67?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Jan 26 |
-| **[Cornell University](https://gradschool.weill.cornell.edu)** | **[Temporary Informatics and Data Analyst - QMPS](https://jobright.ai/jobs/info/6977ecf2fdeb8243a27ae499?utm_campaign=Data%20Analysis&utm_source=1103)** | Ithaca (Main Campus) | On Site | Jan 26 |
-| **[StackAdapt](https://www.stackadapt.com)** | **[Intermediate Enterprise BI Developer](https://jobright.ai/jobs/info/6920811700c9ee50eaec4b63?utm_campaign=Data%20Analysis&utm_source=1103)** | Canada | Remote | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
