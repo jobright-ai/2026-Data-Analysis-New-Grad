@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acosta](https://www.acosta.com)** | **[Analyst, Business Intelligence](https://jobright.ai/jobs/info/69815af6abff4c399aa051c5?utm_campaign=Data%20Analysis&utm_source=1103)** | Cincinnati, OH | Hybrid | Feb 02 |
+| **[Research Foundation for Mental Hygiene, Inc.](http://corporate.rfmh.org/)** | **[Research Assistant V](https://jobright.ai/jobs/info/69815aca7f40342e15da5d7d?utm_campaign=Data%20Analysis&utm_source=1103)** | New York,NY,US | On Site | Feb 02 |
 | **[Casella Waste Systems, Inc.](http://www.casella.com/)** | **[Customer Care Data Analyst](https://jobright.ai/jobs/info/698155477f40342e15da5786?utm_campaign=Data%20Analysis&utm_source=1103)** | US-VT-Rutland | On Site | Feb 02 |
 | **[The RealReal](http://www.therealreal.com)** | **[Financial Data Analyst](https://jobright.ai/jobs/info/6981509aabff4c399aa0495d?utm_campaign=Data%20Analysis&utm_source=1103)** | Bellflower, CA | On Site | Feb 02 |
 | **[Casella Waste Systems, Inc.](http://www.casella.com/)** | **[Customer Care Data Analyst](https://jobright.ai/jobs/info/69814f97abff4c399aa04873?utm_campaign=Data%20Analysis&utm_source=1103)** | Rutland, VT | On Site | Feb 02 |
@@ -64,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Boeing](https://www.boeing.co.uk)** | **[Data Scientist (Associate or Experienced)](https://jobright.ai/jobs/info/698145fa7f40342e15da375d?utm_campaign=Data%20Analysis&utm_source=1103)** | USA - Everett, WA | On Site | Feb 02 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Business Data Analyst II](https://jobright.ai/jobs/info/698124b37f40342e15da029b?utm_campaign=Data%20Analysis&utm_source=1103)** | Whiteland, IN | On Site | Feb 02 |
 | **[Catholic Health](https://www.catholichealthli.org)** | **[Research Coordinator](https://jobright.ai/jobs/info/6981428a49964d25b5e4262b?utm_campaign=Data%20Analysis&utm_source=1103)** | Roslyn, NY | On Site | Feb 02 |
+| **[Casella Waste Systems, Inc.](http://www.casella.com/)** | **[Customer Care Data Analyst](https://jobright.ai/jobs/info/69815c4f49964d25b5e45051?utm_campaign=Data%20Analysis&utm_source=1103)** | Rutland, VT, US | On Site | Feb 02 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Healthcare Data Analyst I (Hybrid)](https://jobright.ai/jobs/info/6981389349964d25b5e41cba?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | Feb 02 |
 | **[Humana](http://www.humana.com)** | **[Business Intelligence Engineer](https://jobright.ai/jobs/info/698134e749964d25b5e41740?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote Nationwide | Remote | Feb 02 |
 | **[MPHI](https://mphi.org)** | **[Genomic Epidemiologist](https://jobright.ai/jobs/info/69812ff07f40342e15da1f5a?utm_campaign=Data%20Analysis&utm_source=1103)** | Greater Lansing | Hybrid | Feb 02 |
@@ -139,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[Freddie Mac](https://www.freddiemac.com/)** | **[Risk Analytics System Development Associate II](https://jobright.ai/jobs/info/697d8811ce48107c0541b956?utm_campaign=Data%20Analysis&utm_source=1103)** | McLean, VA | On Site | Jan 30 |
 | **[University of California, San Francisco](http://www.ucsf.edu)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/697ed18b7f40342e15d78209?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Jan 30 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Analyst, Finance Business Intelligence](https://jobright.ai/jobs/info/697d7c5c727747250d586608?utm_campaign=Data%20Analysis&utm_source=1103)** | Loveland, CO | On Site | Jan 30 |
-| **[STI](http://www.sti.edu)** | **[Epidemiologist I Experienced Entry](https://jobright.ai/jobs/info/697d7b713f57a335696764a9?utm_campaign=Data%20Analysis&utm_source=1103)** | Cayce, SC | On Site | Jan 30 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Salesforce & Data Analyst](https://jobright.ai/jobs/info/697d783d727747250d5860cd?utm_campaign=Data%20Analysis&utm_source=1103)** | Auburn, AL | On Site | Jan 30 |
 | **[Leidos](https://www.leidos.com/)** | **[Biomedical Data Scientist](https://jobright.ai/jobs/info/698138757f40342e15da2a83?utm_campaign=Data%20Analysis&utm_source=1103)** | MD | Hybrid | Jan 30 |
 | **[University Health Network](https://www.uhn.ca/)** | **[Clinical Research Study Assistant](https://jobright.ai/jobs/info/697d93ab7f40342e15d674f1?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jan 30 |
@@ -277,8 +279,8 @@ For a complete list, click the following sortable link below:
 | **[PitchBook](http://www.pitchbook.com)** | **[Associate Analyst, Industry & Technology Research](https://jobright.ai/jobs/info/697aa9819d60e431a16c4321?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Jan 28 |
 | **[University of Florida](https://www.ufl.edu)** | **[Postdoctoral Associate - Vascular Surgery](https://jobright.ai/jobs/info/697bebf61136d179eeef8a2c?utm_campaign=Data%20Analysis&utm_source=1103)** | Gainesville, FL | On Site | Jan 28 |
 | **[Imperial Dade](https://www.imperialdade.com)** | **[Jr. Data Analyst](https://jobright.ai/jobs/info/697cec23727747250d5796cb?utm_campaign=Data%20Analysis&utm_source=1103)** | Imperial Dade, 255 US Highway 1 and 9, Jersey City, New Jersey, United States of America | On Site | Jan 28 |
-| **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Data Analyst I](https://jobright.ai/jobs/info/697acbda8dbbf73badc81a9b?utm_campaign=Data%20Analysis&utm_source=1103)** | US-KS-Overland Park | On Site | Jan 28 |
-| ↳ | **[Data Analyst I](https://jobright.ai/jobs/info/697ac8189d60e431a16c705a?utm_campaign=Data%20Analysis&utm_source=1103)** | Overland Park, KS, US | On Site | Jan 28 |
+| **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Data Analyst I](https://jobright.ai/jobs/info/697ac8189d60e431a16c705a?utm_campaign=Data%20Analysis&utm_source=1103)** | Overland Park, KS, US | On Site | Jan 28 |
+| ↳ | **[Data Analyst I](https://jobright.ai/jobs/info/697acbda8dbbf73badc81a9b?utm_campaign=Data%20Analysis&utm_source=1103)** | US-KS-Overland Park | On Site | Jan 28 |
 | **[University of California, San Francisco](http://www.ucsf.edu)** | **[005273 RSCH DATA ANL 2 RP](https://jobright.ai/jobs/info/697db994abff4c399a9c8d3e?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Jan 28 |
 | **[EarthCam](http://www.earthcam.net/)** | **[Jr. Data Scientist](https://jobright.ai/jobs/info/697aa3919d60e431a16c3a1f?utm_campaign=Data%20Analysis&utm_source=1103)** | Upper Saddle River, NJ | On Site | Jan 28 |
 | **[Affirm](https://www.affirm.com)** | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ec2ac08ab990f282a0cfb?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Jan 28 |
@@ -404,5 +406,4 @@ For a complete list, click the following sortable link below:
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[Data Scientist [Multiple Positions Available]](https://jobright.ai/jobs/info/6978d2e439f7f96cc6d1312b?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Jan 27 |
 | ↳ | **[Quantitative Research [Multiple Positions Available]](https://jobright.ai/jobs/info/6978e62139f7f96cc6d13b93?utm_campaign=Data%20Analysis&utm_source=1103)** | 270 Park Ave, New York, NY, 10017, US | On Site | Jan 27 |
 | **[Chase](https://www.chase.com/)** | **[Quantitative Research [Multiple Positions Available]](https://jobright.ai/jobs/info/697d8e09abff4c399a9c5e27?utm_campaign=Data%20Analysis&utm_source=1103)** | 270 Park Ave, New York, NY, 10017, US | On Site | Jan 27 |
-| **[Ipsos](http://www.ipsos.com)** | **[Research Analyst - Innovation](https://jobright.ai/jobs/info/697a18fca8de441ca7354443?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
