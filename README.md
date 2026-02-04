@@ -60,6 +60,8 @@ For a complete list, click the following sortable link below:
 | **[BCG X](https://www.bcg.com/x)** | **[Analyst, GeoAnalytics - X Delivery](https://jobright.ai/jobs/info/68daf7220dffed6f83d2b686?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Feb 04 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Oncology Data Specialist- Per-Diem, Varies Evenings, Hybrid, Morristown, NJ](https://jobright.ai/jobs/info/698353a101214b4cdacaffba?utm_campaign=Data%20Analysis&utm_source=1103)** | 100 Madison Ave, Morristown, NJ, 07960, US | Hybrid | Feb 04 |
 | **[Celestica](https://www.celestica.com/)** | **[Analyst, SCM Data](https://jobright.ai/jobs/info/694bef515d7312113470710a?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Feb 04 |
+| **[StackAdapt](https://www.stackadapt.com)** | **[Analyst, Solutions](https://jobright.ai/jobs/info/691707d9370fde633d07c713?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Feb 04 |
+| **[Gravity Research](https://www.gravityresearch.com)** | **[Survey Research Analyst](https://jobright.ai/jobs/info/6966e7405ad3a93f82325356?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | Hybrid | Feb 04 |
 | **[DISH TV](https://www.dish.com)** | **[Data and Business Operations Analyst](https://jobright.ai/jobs/info/69671d00639b452fb57cbb6b?utm_campaign=Data%20Analysis&utm_source=1103)** | Englewood, CO | On Site | Feb 04 |
 | **[Planet Technologies](http://go-planet.com/)** | **[Data Analyst](https://jobright.ai/jobs/info/692f6db44c474121999dee16?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | On Site | Feb 04 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[Digital Experimentation, Analyst II](https://jobright.ai/jobs/info/698342950f6f7e7a2cdca029?utm_campaign=Data%20Analysis&utm_source=1103)** | Bolingbrook, IL | On Site | Feb 04 |
@@ -116,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Trace3](http://trace3.com/)** | **[Innovation Researcher (Remote)](https://jobright.ai/jobs/info/698294a00a9e07331f8dadba?utm_campaign=Data%20Analysis&utm_source=1103)** | Irvine, CA, United States | Remote | Feb 03 |
 | **[Dana-Farber Cancer Institute](http://www.dana-farber.org)** | **[Bioinformatics Analyst](https://jobright.ai/jobs/info/69826f9b348f733a5c3548bc?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | On Site | Feb 03 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Analyst](https://jobright.ai/jobs/info/698267e2348f733a5c353a16?utm_campaign=Data%20Analysis&utm_source=1103)** | Jacksonville, NC | On Site | Feb 03 |
-| **[SailPoint](http://www.sailpoint.com)** | **[Business Intelligence Analyst](https://jobright.ai/jobs/info/698267140f6f7e7a2cdb91dc?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX | On Site | Feb 03 |
 | **[UC Davis Health Informatics](https://health.ucdavis.edu/informatics/)** | **[BIOINFORMATICS SUPERVISOR 2](https://jobright.ai/jobs/info/698265c30a9e07331f8d6860?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento, CA | Hybrid | Feb 03 |
 | **[Garner Health, LLC](https://www.getgarner.com/about)** | **[Associate Data Scientist](https://jobright.ai/jobs/info/69826216348f733a5c3532d4?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Feb 03 |
 | **[Trace3](http://trace3.com/)** | **[Innovation Researcher (Remote)](https://jobright.ai/jobs/info/69827d1d0f6f7e7a2cdbbc0e?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Feb 03 |
@@ -351,13 +352,4 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - Data Scientist](https://jobright.ai/jobs/info/697ac7a28dbbf73badc81702?utm_campaign=Data%20Analysis&utm_source=1103)** | McLean, VA | Hybrid | Jan 28 |
 | **[Affirm](https://www.affirm.com)** | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ec5500badca5763af3bc7?utm_campaign=Data%20Analysis&utm_source=1103)** | Raleigh, NC | Hybrid | Jan 28 |
 | **[University of Utah](http://utah.edu)** | **[Post Doc Res Assoc](https://jobright.ai/jobs/info/697ae4e21423772304eacd49?utm_campaign=Data%20Analysis&utm_source=1103)** | Salt Lake City, UT | On Site | Jan 28 |
-| **[Affirm](https://www.affirm.com)** | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695edf2308ab990f282a2d29?utm_campaign=Data%20Analysis&utm_source=1103)** | London, Ontario, Canada | Hybrid | Jan 28 |
-| **[Rockwood Company, LLC](https://www.rockwoodcompany.com/)** | **[Data Analyst -Secret Clearance Required](https://jobright.ai/jobs/info/6982bfbf8232105a2d0b13e3?utm_campaign=Data%20Analysis&utm_source=1103)** | DC-Baltimore Area | On Site | Jan 28 |
-| **[Affirm](https://www.affirm.com)** | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ed97d08ab990f282a25ad?utm_campaign=Data%20Analysis&utm_source=1103)** | Oshawa, Ontario, Canada | Hybrid | Jan 28 |
-| ↳ | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ee0050badca5763af5a82?utm_campaign=Data%20Analysis&utm_source=1103)** | Miami, FL | Hybrid | Jan 28 |
-| ↳ | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ee53a0badca5763af62bc?utm_campaign=Data%20Analysis&utm_source=1103)** | Calgary, Alberta, Canada | Hybrid | Jan 28 |
-| ↳ | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ede0b08ab990f282a2bbb?utm_campaign=Data%20Analysis&utm_source=1103)** | Edmonton, Alberta, Canada | Hybrid | Jan 28 |
-| ↳ | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ebdf60badca5763af3389?utm_campaign=Data%20Analysis&utm_source=1103)** | Nashville, TN | Hybrid | Jan 28 |
-| ↳ | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ec9f008ab990f282a153c?utm_campaign=Data%20Analysis&utm_source=1103)** | Pittsburgh, PA | Hybrid | Jan 28 |
-| ↳ | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ec20ba112b402660d774e?utm_campaign=Data%20Analysis&utm_source=1103)** | Boise, ID | Hybrid | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
