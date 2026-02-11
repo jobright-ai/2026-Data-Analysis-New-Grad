@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vision Government Solutions, Inc.](http://www.vgsi.com/Vision/Corporate/corporate.aspx)** | **[Data Collector - Pike County](https://jobright.ai/jobs/info/698cf101f64d441a164ecdc2?utm_campaign=Data%20Analysis&utm_source=1103)** | Milford, PA | On Site | Feb 11 |
+| **[Accenture Federal Services](https://www.afs.com)** | **[Power BI Developer](https://jobright.ai/jobs/info/698cee37f64d441a164ecb72?utm_campaign=Data%20Analysis&utm_source=1103)** | San Antonio, TX | On Site | Feb 11 |
 | **[Research Foundation for Mental Hygiene, Inc.](http://corporate.rfmh.org/)** | **[Research Assistant V](https://jobright.ai/jobs/info/698ce1630f6f7e7a2ce8937c?utm_campaign=Data%20Analysis&utm_source=1103)** | New York,NY,US | On Site | Feb 11 |
 | **[International Registries, Inc.](https://www.register-iri.com/)** | **[Commercial Operations Data Analyst](https://jobright.ai/jobs/info/698ce14578b4502f12a3595e?utm_campaign=Data%20Analysis&utm_source=1103)** | Annapolis, MD | On Site | Feb 11 |
 | **[Connor, Clark & Lunn Investment Management (CC&L)](https://cclinvest.cclgroup.com)** | **[Quantitative Data Analyst, Investment Data](https://jobright.ai/jobs/info/698cd5120f6f7e7a2ce88966?utm_campaign=Data%20Analysis&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Feb 11 |
+| **[California Department of Justice](http://www.oag.ca.gov)** | **[Analyst II](https://jobright.ai/jobs/info/698ceac50f6f7e7a2ce89ac5?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento, CA | Hybrid | Feb 11 |
+| **[Navitus Health Solutions](https://www.navitus.com/)** | **[Business Intelligence Developer - Navitus](https://jobright.ai/jobs/info/698cf3400f6f7e7a2ce8a111?utm_campaign=Data%20Analysis&utm_source=1103)** | US- | Remote | Feb 11 |
+| **[StackAdapt](https://www.stackadapt.com)** | **[Data Technical Analyst (Toronto)](https://jobright.ai/jobs/info/698cf2a778b4502f12a366e1?utm_campaign=Data%20Analysis&utm_source=1103)** | Canada | Remote | Feb 11 |
+| **[Michigan Farm Bureau Family of Companies](https://www.michfb.com/)** | **[Associate IT Data Analyst](https://jobright.ai/jobs/info/698cf1350f6f7e7a2ce89f9a?utm_campaign=Data%20Analysis&utm_source=1103)** | Lansing, MI | On Site | Feb 11 |
+| **[Connor, Clark & Lunn Investment Management (CC&L)](https://cclinvest.cclgroup.com)** | **[Quantitative Equity Technology, Quantitative Developer](https://jobright.ai/jobs/info/698cec76f64d441a164eca09?utm_campaign=Data%20Analysis&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Feb 11 |
+| ↳ | **[Quantitative Equity Analyst – Data Science](https://jobright.ai/jobs/info/698cf341f64d441a164ed000?utm_campaign=Data%20Analysis&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Feb 11 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Research & Data Analyst](https://jobright.ai/jobs/info/698cdda50f6f7e7a2ce8911f?utm_campaign=Data%20Analysis&utm_source=1103)** | Tampa, FL | On Site | Feb 11 |
 | **[DHL](http://www.dhl.com)** | **[Business Data Analyst I](https://jobright.ai/jobs/info/698ce1150f6f7e7a2ce89345?utm_campaign=Data%20Analysis&utm_source=1103)** | Whiteland, IN | On Site | Feb 11 |
 | **[SewerAI](http://www.sewerai.com)** | **[Data & Video Review Specialist](https://jobright.ai/jobs/info/6970c428333b6343a14d3abf?utm_campaign=Data%20Analysis&utm_source=1103)** | Madisonville, LA | On Site | Feb 11 |
@@ -175,9 +183,9 @@ For a complete list, click the following sortable link below:
 | **[Interactions Marketing](https://www.interactionsmarketing.com/)** | **[Retail Data Collector](https://jobright.ai/jobs/info/698b77d5c5761b521a9af9bc?utm_campaign=Data%20Analysis&utm_source=1103)** | Bozeman, MT | On Site | Feb 10 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/698b77b10f6f7e7a2ce6e3c5?utm_campaign=Data%20Analysis&utm_source=1103)** | Butte, MT | On Site | Feb 10 |
 | **[The Voleon Group](http://voleon.com/)** | **[Data Scientist - Voleon Securities](https://jobright.ai/jobs/info/693784d6a0dde7020e303b49?utm_campaign=Data%20Analysis&utm_source=1103)** | Berkeley, CA | Hybrid | Feb 10 |
-| **[Chord](https://www.chordcommerce.com)** | **[Data Analyst](https://jobright.ai/jobs/info/698b84be06d9b0622495a6bf?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote (Georgia, US) | Remote | Feb 10 |
+| **[Chord](https://www.chordcommerce.com)** | **[Data Analyst](https://jobright.ai/jobs/info/698b8e5fc5761b521a9b1cc7?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote (California, US) | Remote | Feb 10 |
 | ↳ | **[Data Analyst](https://jobright.ai/jobs/info/698b78d40f6f7e7a2ce6e5aa?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote (Montreal, Quebec, CA) | Remote | Feb 10 |
-| ↳ | **[Data Analyst](https://jobright.ai/jobs/info/698b8e5fc5761b521a9b1cc7?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote (California, US) | Remote | Feb 10 |
+| ↳ | **[Data Analyst](https://jobright.ai/jobs/info/698b84be06d9b0622495a6bf?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote (Georgia, US) | Remote | Feb 10 |
 | ↳ | **[Data Analyst](https://jobright.ai/jobs/info/698b9fcbc5761b521a9b302a?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote (Illinois, US) | Remote | Feb 10 |
 | **[Zelis](https://www.zelis.com)** | **[Client Data Specialist](https://jobright.ai/jobs/info/698b42924db8972cec00b894?utm_campaign=Data%20Analysis&utm_source=1103)** | US MA Boston | On Site | Feb 10 |
 | ↳ | **[Client Data Specialist](https://jobright.ai/jobs/info/698b5ab8c5761b521a9acd87?utm_campaign=Data%20Analysis&utm_source=1103)** | US UT Cottonwood Heights | On Site | Feb 10 |
@@ -302,7 +310,6 @@ For a complete list, click the following sortable link below:
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[ANALYST I](https://jobright.ai/jobs/info/6986deeb8da7a6120461ed99?utm_campaign=Data%20Analysis&utm_source=1103)** | San Luis Obispo County, CA | Hybrid | Feb 06 |
 | ↳ | **[ANALYST II](https://jobright.ai/jobs/info/698ad0a44db8972cec004cef?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento, CA | Hybrid | Feb 06 |
 | **[Dialpad Japan](http://dialpad.com/jp)** | **[Analytics Engineer](https://jobright.ai/jobs/info/6986f2618da7a612046203b3?utm_campaign=Data%20Analysis&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Feb 06 |
-| **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Analyst, Data Governance & Quality](https://jobright.ai/jobs/info/6986be1d8da7a6120461aa23?utm_campaign=Data%20Analysis&utm_source=1103)** | Dallas, Texas, United States of America | On Site | Feb 06 |
 | **[Employment Development Department](https://www.edd.ca.gov/About_EDD/Career_Opportunities.htm)** | **[RESEARCH DATA ANALYST I](https://jobright.ai/jobs/info/6986bba48da7a6120461a75e?utm_campaign=Data%20Analysis&utm_source=1103)** | Alameda County, CA | Hybrid | Feb 06 |
 | **[Modulate](https://modulate.ai/)** | **[Analyst - Data & Product Insights](https://jobright.ai/jobs/info/6986af018ca8121a3a690ccc?utm_campaign=Data%20Analysis&utm_source=1103)** | Somerville, MA | Hybrid | Feb 06 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Analyst, Data Governance & Quality](https://jobright.ai/jobs/info/6986d1d98da7a6120461d685?utm_campaign=Data%20Analysis&utm_source=1103)** | Dallas, TX | On Site | Feb 06 |
@@ -432,5 +439,4 @@ For a complete list, click the following sortable link below:
 | **[Slalom](http://www.slalom.com)** | **[Slalom Flex (Project Based) - GIS Data Analyst](https://jobright.ai/jobs/info/698464e40f6f7e7a2cdebf7a?utm_campaign=Data%20Analysis&utm_source=1103)** | California, United States | On Site | Feb 05 |
 | **[Acosta](https://www.acosta.com)** | **[Category Analyst (CPG)](https://jobright.ai/jobs/info/69845d738da7a612045e8163?utm_campaign=Data%20Analysis&utm_source=1103)** | Dallas, TX | Hybrid | Feb 05 |
 | **[Latitude](https://lumiere.is)** | **[Research Assistant](https://jobright.ai/jobs/info/698449e18da7a612045e634f?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Feb 04 |
-| **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[ANALYST II](https://jobright.ai/jobs/info/69843546348f733a5c382333?utm_campaign=Data%20Analysis&utm_source=1103)** | Alameda, CA | Hybrid | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
