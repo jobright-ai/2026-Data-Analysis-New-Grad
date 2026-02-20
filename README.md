@@ -57,10 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Warner Bros. Discovery](https://wbd.com)** | **[Coordinator, Digital Analytics (Temporary)](https://jobright.ai/jobs/info/6997de70e0bddb6acac6b212?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | Remote | Feb 19 |
+| **[Novartis Norge](https://www.novartis.no/)** | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6997dcdf81476f6176b0171a?utm_campaign=Data%20Analysis&utm_source=1103)** | Irvine, CA | Remote | Feb 19 |
+| **[Nordstrom](http://www.nordstrom.com)** | **[Data Analyst 1, Nordstrom Media Network (Hybrid, Seattle)](https://jobright.ai/jobs/info/6997db1ce0bddb6acac6aba5?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | Hybrid | Feb 19 |
+| **[Warner Bros. Discovery](https://wbd.com)** | **[Coordinator, Digital Analytics (Temporary)](https://jobright.ai/jobs/info/6997d41981476f6176b007d1?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Remote | Feb 19 |
+| **[BC Housing](https://bchousing.org)** | **[Research Analyst](https://jobright.ai/jobs/info/6997d41581476f6176b007cc?utm_campaign=Data%20Analysis&utm_source=1103)** | Burnaby, British Columbia, Canada | On Site | Feb 19 |
+| **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Business Data Analyst II](https://jobright.ai/jobs/info/6997d248ce78e77b4fdc3e66?utm_campaign=Data%20Analysis&utm_source=1103)** | Zebulon, NC | On Site | Feb 19 |
+| **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Master Data Management Analyst](https://jobright.ai/jobs/info/6997d16ee0bddb6acac69bbe?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Remote | Feb 19 |
 | **[University of Pennsylvania](http://www.upenn.edu)** | **[Statistician](https://jobright.ai/jobs/info/6997cf8be0bddb6acac698d2?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | On Site | Feb 19 |
 | **[Prophet](http://www.prophet.com)** | **[Insights Associate](https://jobright.ai/jobs/info/6997ce84ce78e77b4fdc3839?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin | On Site | Feb 19 |
 | **[Brown University Health](https://www.brownhealth.org)** | **[HRIS Analyst](https://jobright.ai/jobs/info/6997d022ce78e77b4fdc3ab6?utm_campaign=Data%20Analysis&utm_source=1103)** | Providence, RI | On Site | Feb 19 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Assoc Data Analyst](https://jobright.ai/jobs/info/6997b2cd81476f6176afd3b8?utm_campaign=Data%20Analysis&utm_source=1103)** | Collierville, TN | Hybrid | Feb 19 |
+| **[API - American Petroleum Institute](http://www.api.org)** | **[Energy Market Data Analyst](https://jobright.ai/jobs/info/6997dc46e0bddb6acac6ad67?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC, US | On Site | Feb 19 |
 | **[DM Clinical Research](https://www.dmclinicalresearch.com/)** | **[Research Assistant I (2958)](https://jobright.ai/jobs/info/6997cf05e0bddb6acac69800?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago - Melrose Park, IL 60160 | On Site | Feb 19 |
 | **[American Restoration](https://www.amrestoration.com)** | **[Operations Reporting Analyst](https://jobright.ai/jobs/info/6997cc70ce78e77b4fdc35d8?utm_campaign=Data%20Analysis&utm_source=1103)** | Farmers Branch, TX, US | Remote | Feb 19 |
 | **[Montrose Environmental Group](https://montrose-env.com)** | **[GIS Analyst](https://jobright.ai/jobs/info/6997a240e0bddb6acac65629?utm_campaign=Data%20Analysis&utm_source=1103)** | Invermay, Saskatchewan, Canada | Hybrid | Feb 19 |
@@ -69,12 +77,12 @@ For a complete list, click the following sortable link below:
 | **[Omnicom Media](http://www.omnicommedia.com)** | **[Analytics Strategist- Ptarmigan Media](https://jobright.ai/jobs/info/6997c5cb81476f6176aff232?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | Hybrid | Feb 19 |
 | **[The Wendy's Company](http://www.wendys.com)** | **[Analyst - Restaurant Technology Vendor Management](https://jobright.ai/jobs/info/6997c53481476f6176aff129?utm_campaign=Data%20Analysis&utm_source=1103)** | Dublin, OH | Hybrid | Feb 19 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Statistical Programmer/Sr. Statistical Programmer](https://jobright.ai/jobs/info/6997ad8de0bddb6acac667fc?utm_campaign=Data%20Analysis&utm_source=1103)** | Pasadena, California, United States | On Site | Feb 19 |
-| **[Montrose Environmental Group](https://montrose-env.com)** | **[GIS Analyst](https://jobright.ai/jobs/info/6997b5bf81476f6176afd6e6?utm_campaign=Data%20Analysis&utm_source=1103)** | CAN-ON-Remote | Remote | Feb 19 |
-| ↳ | **[GIS Analyst](https://jobright.ai/jobs/info/6997bbae81476f6176afe0c8?utm_campaign=Data%20Analysis&utm_source=1103)** | CAN-NS-Remote | Remote | Feb 19 |
-| ↳ | **[GIS Analyst](https://jobright.ai/jobs/info/6997bb0ece78e77b4fdc18a0?utm_campaign=Data%20Analysis&utm_source=1103)** | CAN-BC-Remote | Remote | Feb 19 |
-| ↳ | **[GIS Analyst](https://jobright.ai/jobs/info/6997c0dae0bddb6acac68468?utm_campaign=Data%20Analysis&utm_source=1103)** | CAN-AB-Remote | Remote | Feb 19 |
+| **[Montrose Environmental Group](https://montrose-env.com)** | **[GIS Analyst](https://jobright.ai/jobs/info/6997c0dae0bddb6acac68468?utm_campaign=Data%20Analysis&utm_source=1103)** | CAN-AB-Remote | Remote | Feb 19 |
 | ↳ | **[GIS Analyst](https://jobright.ai/jobs/info/6997bd7ece78e77b4fdc1d56?utm_campaign=Data%20Analysis&utm_source=1103)** | CAN-MB-Remote | Remote | Feb 19 |
+| ↳ | **[GIS Analyst](https://jobright.ai/jobs/info/6997bb0ece78e77b4fdc18a0?utm_campaign=Data%20Analysis&utm_source=1103)** | CAN-BC-Remote | Remote | Feb 19 |
+| ↳ | **[GIS Analyst](https://jobright.ai/jobs/info/6997bbae81476f6176afe0c8?utm_campaign=Data%20Analysis&utm_source=1103)** | CAN-NS-Remote | Remote | Feb 19 |
 | ↳ | **[GIS Analyst](https://jobright.ai/jobs/info/6997bc0de0bddb6acac67b62?utm_campaign=Data%20Analysis&utm_source=1103)** | CAN-SK-Remote | Remote | Feb 19 |
+| ↳ | **[GIS Analyst](https://jobright.ai/jobs/info/6997b5bf81476f6176afd6e6?utm_campaign=Data%20Analysis&utm_source=1103)** | CAN-ON-Remote | Remote | Feb 19 |
 | **[Collin College](http://www.collin.edu/)** | **[Data Analyst - Institutional Research](https://jobright.ai/jobs/info/6997be8ece78e77b4fdc1f5c?utm_campaign=Data%20Analysis&utm_source=1103)** | Collin Higher Education Center | On Site | Feb 19 |
 | **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Master Data Management Analyst](https://jobright.ai/jobs/info/6997bed681476f6176afe703?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Feb 19 |
 | ↳ | **[Master Data Management Analyst](https://jobright.ai/jobs/info/6997baa5ce78e77b4fdc17d7?utm_campaign=Data%20Analysis&utm_source=1103)** | 960 Massachusetts Ave | On Site | Feb 19 |
@@ -107,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Cox Automotive Inc.](http://www.coxautoinc.com)** | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/69976039ce78e77b4fdbba2a?utm_campaign=Data%20Analysis&utm_source=1103)** | Santa Ana | Remote | Feb 19 |
 | **[Borrowell](http://borrowell.com)** | **[Data Analyst](https://jobright.ai/jobs/info/6997835ace78e77b4fdbd5cc?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Feb 19 |
 | **[University of Washington](http://www.washington.edu)** | **[Research Analyst - Division of Plastic Surgery - Crowe Lab (Temporary)](https://jobright.ai/jobs/info/69977b4a81476f6176af97db?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | Hybrid | Feb 19 |
-| ↳ | **[Research Analyst - Division of Plastic Surgery - Friedrich Lab (Temporary)](https://jobright.ai/jobs/info/6997814e81476f6176af9b99?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | Hybrid | Feb 19 |
 | ↳ | **[Research Analyst - Division of Plastic Surgery - Liu Lab (Temporary)](https://jobright.ai/jobs/info/699783db81476f6176af9d0f?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | Hybrid | Feb 19 |
+| ↳ | **[Research Analyst - Division of Plastic Surgery - Friedrich Lab (Temporary)](https://jobright.ai/jobs/info/6997814e81476f6176af9b99?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | Hybrid | Feb 19 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Data Integrity Specialist](https://jobright.ai/jobs/info/69975a25ce78e77b4fdbb674?utm_campaign=Data%20Analysis&utm_source=1103)** | PA, Working at Home - Pennsylvania | Hybrid | Feb 19 |
 | **[Komen Graduate Training Program UT MDACC](http://www.mdanderson.org/komentrainingprogram)** | **[Research Assistant II](https://jobright.ai/jobs/info/6997b922e0bddb6acac675c0?utm_campaign=Data%20Analysis&utm_source=1103)** | Houston, TX | On Site | Feb 19 |
 | **[Novartis Norge](https://www.novartis.no/)** | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6997531d81476f6176af7a26?utm_campaign=Data%20Analysis&utm_source=1103)** | Stockton, CA | Remote | Feb 19 |
@@ -162,14 +170,14 @@ For a complete list, click the following sortable link below:
 | **[Affirm](https://www.affirm.com)** | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ec2ac08ab990f282a0cfb?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Feb 19 |
 | ↳ | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ecd6c0badca5763af44db?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte, NC | Hybrid | Feb 19 |
 | ↳ | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ec0190badca5763af35e1?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | Hybrid | Feb 19 |
-| ↳ | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ec0f708ab990f282a0afc?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | Hybrid | Feb 19 |
 | ↳ | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ec6dc0badca5763af3d5f?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 19 |
+| ↳ | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ec0f708ab990f282a0afc?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | Hybrid | Feb 19 |
 | ↳ | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ee0050badca5763af5a82?utm_campaign=Data%20Analysis&utm_source=1103)** | Miami, FL | Hybrid | Feb 19 |
 | ↳ | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695eca85a112b402660d8152?utm_campaign=Data%20Analysis&utm_source=1103)** | Palo Alto, CA | Hybrid | Feb 19 |
 | ↳ | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ec60d0badca5763af3c78?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 19 |
-| ↳ | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ec20ba112b402660d774e?utm_campaign=Data%20Analysis&utm_source=1103)** | Boise, ID | Hybrid | Feb 19 |
 | ↳ | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ec9d40badca5763af40d1?utm_campaign=Data%20Analysis&utm_source=1103)** | Minneapolis, MN | Hybrid | Feb 19 |
 | ↳ | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ecb3508ab990f282a16a1?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Feb 19 |
+| ↳ | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ec20ba112b402660d774e?utm_campaign=Data%20Analysis&utm_source=1103)** | Boise, ID | Hybrid | Feb 19 |
 | ↳ | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ecb500badca5763af427c?utm_campaign=Data%20Analysis&utm_source=1103)** | Salt Lake City, UT | Hybrid | Feb 19 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - Data Scientist](https://jobright.ai/jobs/info/697ac7a28dbbf73badc81702?utm_campaign=Data%20Analysis&utm_source=1103)** | McLean, VA | Hybrid | Feb 19 |
 | **[Affirm](https://www.affirm.com)** | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ebf9708ab990f282a0978?utm_campaign=Data%20Analysis&utm_source=1103)** | Detroit, MI | Hybrid | Feb 19 |
@@ -186,6 +194,7 @@ For a complete list, click the following sortable link below:
 | **[Partnership HealthPlan of California](http://partnershiphp.org)** | **[Health Services Analyst I](https://jobright.ai/jobs/info/69966daf81476f6176ae3f58?utm_campaign=Data%20Analysis&utm_source=1103)** | Shasta County, CA | On Site | Feb 18 |
 | **[Labcorp](https://www.labcorp.com)** | **[Analyst](https://jobright.ai/jobs/info/69968919ce78e77b4fda9f3b?utm_campaign=Data%20Analysis&utm_source=1103)** | Madison, WI | On Site | Feb 18 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Biostatistician (Senior Associate)](https://jobright.ai/jobs/info/69965d07e0bddb6acac4ce29?utm_campaign=Data%20Analysis&utm_source=1103)** | Pasadena, California, United States | On Site | Feb 18 |
+| **[Rockwood Company, LLC](https://www.rockwoodcompany.com/)** | **[Analyst   (No Clearance Required)](https://jobright.ai/jobs/info/6997d7d781476f6176b00dd8?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington Metropolitan Area, USA | On Site | Feb 18 |
 | **[AIPAC](http://www.aipac.org)** | **[Associate, Digital Data Analyst](https://jobright.ai/jobs/info/69969539ce78e77b4fdab46d?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, District of Columbia, United States | Hybrid | Feb 18 |
 | **[Crete Professionals Alliance](https://cretepa.com/)** | **[Data Visualization Specialist](https://jobright.ai/jobs/info/69972e3181476f6176af4842?utm_campaign=Data%20Analysis&utm_source=1103)** | Honolulu, HI | On Site | Feb 18 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Biostatistician (Senior Associate)](https://jobright.ai/jobs/info/699666c7e0bddb6acac4dbea?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Feb 18 |
@@ -194,6 +203,7 @@ For a complete list, click the following sortable link below:
 | **[S&P Global](https://www.spglobal.com)** | **[Analytic Quality & Validation (AQV) Analyst](https://jobright.ai/jobs/info/69975a42ce78e77b4fdbb678?utm_campaign=Data%20Analysis&utm_source=1103)** | Colorado, US | Hybrid | Feb 18 |
 | **[University of Maryland Center for Environmental Science](https://www.umces.edu)** | **[Faculty Research Assistant-Modeling and Data Analysis](https://jobright.ai/jobs/info/69967c8981476f6176ae548f?utm_campaign=Data%20Analysis&utm_source=1103)** | UMCES Horn Point Laboratory | On Site | Feb 18 |
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Business Data Analyst I](https://jobright.ai/jobs/info/69963229e0bddb6acac4934a?utm_campaign=Data%20Analysis&utm_source=1103)** | Goodyear, AZ | On Site | Feb 18 |
+| **[Orchard](https://www.orchard.ai/)** | **[Data Scientist](https://jobright.ai/jobs/info/6997d85781476f6176b00f01?utm_campaign=Data%20Analysis&utm_source=1103)** | Chantilly, VA, US | On Site | Feb 18 |
 | **[Amentum](https://www.amentum.com/)** | **[Junior Analyst](https://jobright.ai/jobs/info/69965795ce78e77b4fda5d24?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | On Site | Feb 18 |
 | **[Southwest Airlines](http://www.southwest.com/)** | **[Associate CASS Data Scientist](https://jobright.ai/jobs/info/69966498e0bddb6acac4d914?utm_campaign=Data%20Analysis&utm_source=1103)** | Dallas, TX | On Site | Feb 18 |
 | **[Physics World](https://physicsworld.com/)** | **[Quantitative Researcher – Master's: 2026](https://jobright.ai/jobs/info/699646eece78e77b4fda4310?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, NY | On Site | Feb 18 |
@@ -233,20 +243,20 @@ For a complete list, click the following sortable link below:
 | **[Cox Automotive Inc.](http://www.coxautoinc.com)** | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995d847e0bddb6acac449f5?utm_campaign=Data%20Analysis&utm_source=1103)** | Henderson | Remote | Feb 18 |
 | **[Cambridge Investment Research, Inc.](http://www.joincambridge.com)** | **[Data Integrity Specialist](https://jobright.ai/jobs/info/69794dfa88e2b47213bd8608?utm_campaign=Data%20Analysis&utm_source=1103)** | Fairfield, IA | Hybrid | Feb 18 |
 | **[Golub Capital](http://golubcapital.com)** | **[Junior Analyst, Data Management Team](https://jobright.ai/jobs/info/69961a6e81476f6176add4f4?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago | Hybrid | Feb 18 |
-| **[Cox Automotive Inc.](http://www.coxautoinc.com)** | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/69962a08e0bddb6acac48968?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/69961e81e0bddb6acac47d86?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver | Remote | Feb 18 |
+| **[Cox Automotive Inc.](http://www.coxautoinc.com)** | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f88dce78e77b4fd9f2b6?utm_campaign=Data%20Analysis&utm_source=1103)** | Indianapolis | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f2afce78e77b4fd9ef01?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995fa81ce78e77b4fd9f46c?utm_campaign=Data%20Analysis&utm_source=1103)** | Columbus | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/69961ee6e0bddb6acac47dd7?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/69960193ce78e77b4fd9fa87?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f88dce78e77b4fd9f2b6?utm_campaign=Data%20Analysis&utm_source=1103)** | Indianapolis | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/69962a08e0bddb6acac48968?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/69961ee6e0bddb6acac47dd7?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995fa81ce78e77b4fd9f46c?utm_campaign=Data%20Analysis&utm_source=1103)** | Columbus | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/69961e81e0bddb6acac47d86?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote (copy)](https://jobright.ai/jobs/info/69960265e0bddb6acac46551?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6996047181476f6176adc13f?utm_campaign=Data%20Analysis&utm_source=1103)** | Las Vegas | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/69960792ce78e77b4fd9ff2d?utm_campaign=Data%20Analysis&utm_source=1103)** | Nashville | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/699629dee0bddb6acac48944?utm_campaign=Data%20Analysis&utm_source=1103)** | Oklahoma City | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6996140be0bddb6acac47382?utm_campaign=Data%20Analysis&utm_source=1103)** | El Paso | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/69960a48e0bddb6acac46adf?utm_campaign=Data%20Analysis&utm_source=1103)** | Louisville | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995feec81476f6176adbcff?utm_campaign=Data%20Analysis&utm_source=1103)** | Detroit | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6996140be0bddb6acac47382?utm_campaign=Data%20Analysis&utm_source=1103)** | El Paso | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f1a281476f6176adb1a0?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/69961a50e0bddb6acac47943?utm_campaign=Data%20Analysis&utm_source=1103)** | Memphis | Remote | Feb 18 |
 | **[Roblox](https://corp.roblox.com)** | **[[2026] Data Scientist, Social - PhD Early Career](https://jobright.ai/jobs/info/6942569f50bbaf7650544e3c?utm_campaign=Data%20Analysis&utm_source=1103)** | San Mateo, CA | Hybrid | Feb 18 |
@@ -254,102 +264,101 @@ For a complete list, click the following sortable link below:
 | **[Two Sigma](https://www.twosigma.com/)** | **[Data Scientist - Campus Full-Time](https://jobright.ai/jobs/info/695d7836f1f8465b79f3a552?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | Hybrid | Feb 18 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Data Quality Analyst, Statistical Reporting](https://jobright.ai/jobs/info/6941f7f850bbaf765053cb7a?utm_campaign=Data%20Analysis&utm_source=1103)** | Greater Philadelphia | Hybrid | Feb 18 |
 | **[Ipsos in US](http://ipsos-na.com)** | **[Research Analyst - Innovation](https://jobright.ai/jobs/info/697987bb0791bc1d723037a2?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Feb 18 |
-| **[Quantium](http://www.quantium.com)** | **[Data Scientist](https://jobright.ai/jobs/info/6924736fc0cefa13343dec64?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | Hybrid | Feb 18 |
 | **[Cox Automotive Inc.](http://www.coxautoinc.com)** | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f9d1e0bddb6acac45f6f?utm_campaign=Data%20Analysis&utm_source=1103)** | Miami | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6996059a81476f6176adc213?utm_campaign=Data%20Analysis&utm_source=1103)** | Kansas City | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e5d1e0bddb6acac4529b?utm_campaign=Data%20Analysis&utm_source=1103)** | Arlington | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995fe56ce78e77b4fd9f7b6?utm_campaign=Data%20Analysis&utm_source=1103)** | Lexington | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995ffefce78e77b4fd9f8e7?utm_campaign=Data%20Analysis&utm_source=1103)** | Virginia Beach | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995fbeace78e77b4fd9f5b2?utm_campaign=Data%20Analysis&utm_source=1103)** | Anaheim | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f3b4e0bddb6acac45c20?utm_campaign=Data%20Analysis&utm_source=1103)** | Tampa | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f4b081476f6176adb3ec?utm_campaign=Data%20Analysis&utm_source=1103)** | Albuquerque | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995fbeace78e77b4fd9f5b2?utm_campaign=Data%20Analysis&utm_source=1103)** | Anaheim | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6996005381476f6176adbe19?utm_campaign=Data%20Analysis&utm_source=1103)** | Mesa | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e68dce78e77b4fd9e766?utm_campaign=Data%20Analysis&utm_source=1103)** | Milwaukee | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f305e0bddb6acac45b90?utm_campaign=Data%20Analysis&utm_source=1103)** | Tucson | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f5b4ce78e77b4fd9f078?utm_campaign=Data%20Analysis&utm_source=1103)** | Tulsa | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995ece4ce78e77b4fd9eba9?utm_campaign=Data%20Analysis&utm_source=1103)** | Cleveland | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f70a81476f6176adb610?utm_campaign=Data%20Analysis&utm_source=1103)** | Baltimore | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995fd73ce78e77b4fd9f715?utm_campaign=Data%20Analysis&utm_source=1103)** | Colorado Springs | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6996014bce78e77b4fd9fa29?utm_campaign=Data%20Analysis&utm_source=1103)** | Minneapolis | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/699601c3ce78e77b4fd9faa1?utm_campaign=Data%20Analysis&utm_source=1103)** | Orlando | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f5a081476f6176adb4ea?utm_campaign=Data%20Analysis&utm_source=1103)** | New Orleans | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f658ce78e77b4fd9f101?utm_campaign=Data%20Analysis&utm_source=1103)** | Raleigh | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f02ee0bddb6acac45976?utm_campaign=Data%20Analysis&utm_source=1103)** | Newark | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995fe0e81476f6176adbc4d?utm_campaign=Data%20Analysis&utm_source=1103)** | Long Beach | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e409ce78e77b4fd9e55e?utm_campaign=Data%20Analysis&utm_source=1103)** | Fresno | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f4d8e0bddb6acac45cee?utm_campaign=Data%20Analysis&utm_source=1103)** | Oakland | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f6f6ce78e77b4fd9f173?utm_campaign=Data%20Analysis&utm_source=1103)** | Brookhaven | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f5b4ce78e77b4fd9f078?utm_campaign=Data%20Analysis&utm_source=1103)** | Tulsa | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e793e0bddb6acac453dd?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e409ce78e77b4fd9e55e?utm_campaign=Data%20Analysis&utm_source=1103)** | Fresno | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6996014bce78e77b4fd9fa29?utm_campaign=Data%20Analysis&utm_source=1103)** | Minneapolis | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f4d8e0bddb6acac45cee?utm_campaign=Data%20Analysis&utm_source=1103)** | Oakland | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/699601c3ce78e77b4fd9faa1?utm_campaign=Data%20Analysis&utm_source=1103)** | Orlando | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995ece4ce78e77b4fd9eba9?utm_campaign=Data%20Analysis&utm_source=1103)** | Cleveland | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f5a081476f6176adb4ea?utm_campaign=Data%20Analysis&utm_source=1103)** | New Orleans | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e68dce78e77b4fd9e766?utm_campaign=Data%20Analysis&utm_source=1103)** | Milwaukee | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995fe0e81476f6176adbc4d?utm_campaign=Data%20Analysis&utm_source=1103)** | Long Beach | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995fd73ce78e77b4fd9f715?utm_campaign=Data%20Analysis&utm_source=1103)** | Colorado Springs | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f02ee0bddb6acac45976?utm_campaign=Data%20Analysis&utm_source=1103)** | Newark | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f6f6ce78e77b4fd9f173?utm_campaign=Data%20Analysis&utm_source=1103)** | Brookhaven | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6996005381476f6176adbe19?utm_campaign=Data%20Analysis&utm_source=1103)** | Mesa | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f305e0bddb6acac45b90?utm_campaign=Data%20Analysis&utm_source=1103)** | Tucson | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f658ce78e77b4fd9f101?utm_campaign=Data%20Analysis&utm_source=1103)** | Raleigh | Remote | Feb 18 |
 | **[Novartis Norge](https://www.novartis.no/)** | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995c1bace78e77b4fd9d0a9?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Remote | Feb 18 |
 | **[University of Pennsylvania](http://www.upenn.edu)** | **[Research Coordinator](https://jobright.ai/jobs/info/6996000ece78e77b4fd9f90c?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | On Site | Feb 18 |
 | **[Everest Clinical Research](https://www.ecrscorp.com/)** | **[Statistical Programmer I](https://jobright.ai/jobs/info/695d9617f5f3c43f38e27be3?utm_campaign=Data%20Analysis&utm_source=1103)** | Markham, Ontario, Canada | Hybrid | Feb 18 |
 | **[University of California, San Francisco](http://www.ucsf.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/6996035bce78e77b4fd9fc0f?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Feb 18 |
 | **[Novartis Norge](https://www.novartis.no/)** | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995d883e0bddb6acac44a16?utm_campaign=Data%20Analysis&utm_source=1103)** | Lexington, KY | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f812e0bddb6acac45e13?utm_campaign=Data%20Analysis&utm_source=1103)** | Kansas City, MO | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995fe48ce78e77b4fd9f7ae?utm_campaign=Data%20Analysis&utm_source=1103)** | Nashville, TN | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f8b5e0bddb6acac45e72?utm_campaign=Data%20Analysis&utm_source=1103)** | Bakersfield, CA | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995ecd981476f6176adaf56?utm_campaign=Data%20Analysis&utm_source=1103)** | Raleigh, NC | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e4b3ce78e77b4fd9e5d3?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento, CA | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f32c81476f6176adb2c9?utm_campaign=Data%20Analysis&utm_source=1103)** | Houston, TX | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995d832e0bddb6acac449e2?utm_campaign=Data%20Analysis&utm_source=1103)** | Jacksonville, FL | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/699602bcce78e77b4fd9fb85?utm_campaign=Data%20Analysis&utm_source=1103)** | Miami, FL | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e304e0bddb6acac450d5?utm_campaign=Data%20Analysis&utm_source=1103)** | Orlando, FL | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e4b3ce78e77b4fd9e5d3?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento, CA | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995fe48ce78e77b4fd9f7ae?utm_campaign=Data%20Analysis&utm_source=1103)** | Nashville, TN | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/69960397ce78e77b4fd9fc38?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e1db81476f6176ada762?utm_campaign=Data%20Analysis&utm_source=1103)** | Oakland, CA | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/699602e581476f6176adc001?utm_campaign=Data%20Analysis&utm_source=1103)** | Tampa, FL | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e747ce78e77b4fd9e7e7?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Worth, TX | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6996067881476f6176adc2ad?utm_campaign=Data%20Analysis&utm_source=1103)** | San Antonio, TX | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/69960732ce78e77b4fd9fedb?utm_campaign=Data%20Analysis&utm_source=1103)** | Baltimore, MD | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f3ef81476f6176adb37c?utm_campaign=Data%20Analysis&utm_source=1103)** | Albuquerque, NM | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f18fce78e77b4fd9eeb0?utm_campaign=Data%20Analysis&utm_source=1103)** | Wichita, KS | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/69960052ce78e77b4fd9f942?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, CO | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e39681476f6176ada8bf?utm_campaign=Data%20Analysis&utm_source=1103)** | Portland, OR | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/699602bcce78e77b4fd9fb85?utm_campaign=Data%20Analysis&utm_source=1103)** | Miami, FL | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995d832e0bddb6acac449e2?utm_campaign=Data%20Analysis&utm_source=1103)** | Jacksonville, FL | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e1db81476f6176ada762?utm_campaign=Data%20Analysis&utm_source=1103)** | Oakland, CA | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e304e0bddb6acac450d5?utm_campaign=Data%20Analysis&utm_source=1103)** | Orlando, FL | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/699602e581476f6176adc001?utm_campaign=Data%20Analysis&utm_source=1103)** | Tampa, FL | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6996067881476f6176adc2ad?utm_campaign=Data%20Analysis&utm_source=1103)** | San Antonio, TX | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e747ce78e77b4fd9e7e7?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Worth, TX | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995fabce0bddb6acac46027?utm_campaign=Data%20Analysis&utm_source=1103)** | Newark, NJ | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e8e9e0bddb6acac454a3?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995facace78e77b4fd9f4a4?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f4c5e0bddb6acac45cd9?utm_campaign=Data%20Analysis&utm_source=1103)** | Tucson, AZ | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f3ef81476f6176adb37c?utm_campaign=Data%20Analysis&utm_source=1103)** | Albuquerque, NM | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e7d7e0bddb6acac45404?utm_campaign=Data%20Analysis&utm_source=1103)** | Mesa, AZ | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f940e0bddb6acac45ee5?utm_campaign=Data%20Analysis&utm_source=1103)** | Memphis, TN | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995facace78e77b4fd9f4a4?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/69960052ce78e77b4fd9f942?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, CO | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e586e0bddb6acac4527a?utm_campaign=Data%20Analysis&utm_source=1103)** | El Paso, TX | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f940e0bddb6acac45ee5?utm_campaign=Data%20Analysis&utm_source=1103)** | Memphis, TN | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e39681476f6176ada8bf?utm_campaign=Data%20Analysis&utm_source=1103)** | Portland, OR | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f18fce78e77b4fd9eeb0?utm_campaign=Data%20Analysis&utm_source=1103)** | Wichita, KS | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/69960772ce78e77b4fd9ff0b?utm_campaign=Data%20Analysis&utm_source=1103)** | Oklahoma City, OK | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e81cce78e77b4fd9e867?utm_campaign=Data%20Analysis&utm_source=1103)** | Colorado Springs, CO | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/69960178ce78e77b4fd9fa6b?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte, AR | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/69960772ce78e77b4fd9ff0b?utm_campaign=Data%20Analysis&utm_source=1103)** | Oklahoma City, OK | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f5e381476f6176adb523?utm_campaign=Data%20Analysis&utm_source=1103)** | Tulsa, OK | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995fc60ce78e77b4fd9f62f?utm_campaign=Data%20Analysis&utm_source=1103)** | Cleveland, OH | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e410ce78e77b4fd9e567?utm_campaign=Data%20Analysis&utm_source=1103)** | Anaheim, CA | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995ed52ce78e77b4fd9ebdf?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e26ee0bddb6acac4506c?utm_campaign=Data%20Analysis&utm_source=1103)** | Long Beach, CA | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f7b581476f6176adb67f?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, CO | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f392e0bddb6acac45c08?utm_campaign=Data%20Analysis&utm_source=1103)** | Indianapolis, IN | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e6fc81476f6176adab0c?utm_campaign=Data%20Analysis&utm_source=1103)** | Dallas, TX | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f143ce78e77b4fd9ee8d?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995fe9bce78e77b4fd9f7e3?utm_campaign=Data%20Analysis&utm_source=1103)** | Milwaukee, WI | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f5e381476f6176adb523?utm_campaign=Data%20Analysis&utm_source=1103)** | Tulsa, OK | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995ed52ce78e77b4fd9ebdf?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e26ee0bddb6acac4506d?utm_campaign=Data%20Analysis&utm_source=1103)** | San Diego, CA | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e26ee0bddb6acac4506c?utm_campaign=Data%20Analysis&utm_source=1103)** | Long Beach, CA | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995fe9bce78e77b4fd9f7e3?utm_campaign=Data%20Analysis&utm_source=1103)** | Milwaukee, WI | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f143ce78e77b4fd9ee8d?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f392e0bddb6acac45c08?utm_campaign=Data%20Analysis&utm_source=1103)** | Indianapolis, IN | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e410ce78e77b4fd9e567?utm_campaign=Data%20Analysis&utm_source=1103)** | Anaheim, CA | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995fc60ce78e77b4fd9f62f?utm_campaign=Data%20Analysis&utm_source=1103)** | Cleveland, OH | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995fa5981476f6176adb8b3?utm_campaign=Data%20Analysis&utm_source=1103)** | Las Vegas, NV | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/699605f0ce78e77b4fd9fdef?utm_campaign=Data%20Analysis&utm_source=1103)** | Brookhaven, GA | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e5d1e0bddb6acac45299?utm_campaign=Data%20Analysis&utm_source=1103)** | Columbus, OH | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote (copy)](https://jobright.ai/jobs/info/6995f09dce78e77b4fd9ee27?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, United States | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995ea26e0bddb6acac4557e?utm_campaign=Data%20Analysis&utm_source=1103)** | New Orleans, LA | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995fea881476f6176adbcbb?utm_campaign=Data%20Analysis&utm_source=1103)** | Arlington, VA | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995eccce0bddb6acac45729?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995ecc2e0bddb6acac45720?utm_campaign=Data%20Analysis&utm_source=1103)** | Phoenix, AZ | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995ea26e0bddb6acac4557e?utm_campaign=Data%20Analysis&utm_source=1103)** | New Orleans, LA | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995df9fce78e77b4fd9e25e?utm_campaign=Data%20Analysis&utm_source=1103)** | Minneapolis, MN | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995ecc2e0bddb6acac45720?utm_campaign=Data%20Analysis&utm_source=1103)** | Phoenix, AZ | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/699605f0ce78e77b4fd9fdef?utm_campaign=Data%20Analysis&utm_source=1103)** | Brookhaven, GA | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995fea881476f6176adbcbb?utm_campaign=Data%20Analysis&utm_source=1103)** | Arlington, VA | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995ea55e0bddb6acac455ae?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote (copy)](https://jobright.ai/jobs/info/6995f09dce78e77b4fd9ee27?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, United States | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995ed37e0bddb6acac45779?utm_campaign=Data%20Analysis&utm_source=1103)** | Aurora, IL | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f14f81476f6176adb190?utm_campaign=Data%20Analysis&utm_source=1103)** | Virginia Beach, VA | Remote | Feb 18 |
 | **[Partnership HealthPlan of California](http://partnershiphp.org)** | **[Health Services Analyst I](https://jobright.ai/jobs/info/698596580f6f7e7a2ce0722c?utm_campaign=Data%20Analysis&utm_source=1103)** | Fairfield, CA | On Site | Feb 18 |
 | **[Novartis Norge](https://www.novartis.no/)** | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995ce6681476f6176ad9b85?utm_campaign=Data%20Analysis&utm_source=1103)** | Louisville, KY | Remote | Feb 18 |
 | **[Cox Automotive Inc.](http://www.coxautoinc.com)** | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e83ace78e77b4fd9e87a?utm_campaign=Data%20Analysis&utm_source=1103)** | New York City | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995d7f7e0bddb6acac449af?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f50581476f6176adb43e?utm_campaign=Data%20Analysis&utm_source=1103)** | Houston | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995ebbcce78e77b4fd9ead0?utm_campaign=Data%20Analysis&utm_source=1103)** | San Antonio | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995d7f7e0bddb6acac449af?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e83481476f6176adabcd?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995ef4381476f6176adb118?utm_campaign=Data%20Analysis&utm_source=1103)** | Jacksonville | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e32981476f6176ada88c?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995fbee81476f6176adba75?utm_campaign=Data%20Analysis&utm_source=1103)** | San Diego | Remote | Feb 18 |
-| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e652e0bddb6acac45315?utm_campaign=Data%20Analysis&utm_source=1103)** | Phoenix | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995f1be81476f6176adb1b0?utm_campaign=Data%20Analysis&utm_source=1103)** | Dallas | Remote | Feb 18 |
 | ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e5f7ce78e77b4fd9e6ed?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Worth | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e32981476f6176ada88c?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia | Remote | Feb 18 |
+| ↳ | **[Junior Quantitative Analyst - Remote](https://jobright.ai/jobs/info/6995e652e0bddb6acac45315?utm_campaign=Data%20Analysis&utm_source=1103)** | Phoenix | Remote | Feb 18 |
 | **[Roux](http://www.rouxinc.com/)** | **[GIS Database Analyst](https://jobright.ai/jobs/info/69798aaa0791bc1d723039da?utm_campaign=Data%20Analysis&utm_source=1103)** | Logan, NJ | Hybrid | Feb 18 |
 | **[HockeyStack](https://hockeystack.com)** | **[Data Analyst](https://jobright.ai/jobs/info/69793d8339f7f96cc6d1afd7?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Feb 18 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Spatial Data Analyst](https://jobright.ai/jobs/info/698e0d0a78b4502f12a4d776?utm_campaign=Data%20Analysis&utm_source=1103)** | St Louis, MO | On Site | Feb 18 |
@@ -360,6 +369,7 @@ For a complete list, click the following sortable link below:
 | **[Dignity Health](https://www.dignityhealth.org)** | **[Research Assistant](https://jobright.ai/jobs/info/699586e8e0bddb6acac41ccb?utm_campaign=Data%20Analysis&utm_source=1103)** | Phoenix, AZ | On Site | Feb 17 |
 | **[LMI](http://www.lmi.org)** | **[Junior Data Scientist](https://jobright.ai/jobs/info/69958d7ae0bddb6acac420a1?utm_campaign=Data%20Analysis&utm_source=1103)** | Colorado Springs, CO | On Site | Feb 17 |
 | **[Arrowstreet Capital, Limited Partnership](http://arrowstreetcapital.com)** | **[Quantitative Researcher](https://jobright.ai/jobs/info/6995798581476f6176ad67e7?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | On Site | Feb 17 |
+| **[Fund for the Public Interest](http://www.fundforthepublicinterest.org)** | **[Research Assistant](https://jobright.ai/jobs/info/6997d459e0bddb6acac6a049?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, CO | On Site | Feb 17 |
 | **[Rhode Island Department of Corrections](https://doc.ri.gov/)** | **[Data Analyst I](https://jobright.ai/jobs/info/6995eaface78e77b4fd9ea73?utm_campaign=Data%20Analysis&utm_source=1103)** | Rhode Island State Health Laboratory | On Site | Feb 17 |
 | **[California Department of State Hospitals](https://www.dsh.ca.gov/)** | **[ANALYST I](https://jobright.ai/jobs/info/699536d8ce78e77b4fd95238?utm_campaign=Data%20Analysis&utm_source=1103)** | Fresno, CA | On Site | Feb 17 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Quality Data Analyst](https://jobright.ai/jobs/info/6995542fe0bddb6acac3e3cd?utm_campaign=Data%20Analysis&utm_source=1103)** | Redmond, WA | Hybrid | Feb 17 |
@@ -393,37 +403,37 @@ For a complete list, click the following sortable link below:
 | **[Healthy Brains Global Initiative (HBGI)](https://www.hbgi.org/)** | **[Power BI Associate / Manager - California Behavioral Health](https://jobright.ai/jobs/info/6994b6c4ce78e77b4fd8b612?utm_campaign=Data%20Analysis&utm_source=1103)** | California, United States | Remote | Feb 17 |
 | **[iSoftStone](https://www.isoftstoneinc.com)** | **[Data Analyst](https://jobright.ai/jobs/info/6977cd3afdeb8243a27aba67?utm_campaign=Data%20Analysis&utm_source=1103)** | Menlo Park, CA | On Site | Feb 17 |
 | **[Ipsos in US](http://ipsos-na.com)** | **[Research Analyst, Innovation](https://jobright.ai/jobs/info/695c4850aa05c26e7ab5a1dd?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Feb 17 |
-| **[Hudson IT and Manpower](http://www.hudsonmanpower.com)** | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699615d581476f6176add092?utm_campaign=Data%20Analysis&utm_source=1103)** | Coppell, Texas, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69960aef81476f6176adc5b1?utm_campaign=Data%20Analysis&utm_source=1103)** | Buffalo Grove, Illinois, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699604c8e0bddb6acac466d3?utm_campaign=Data%20Analysis&utm_source=1103)** | Cincinnati, Ohio, United States | Hybrid | Feb 17 |
+| **[Hudson IT and Manpower](http://www.hudsonmanpower.com)** | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699601d9e0bddb6acac46500?utm_campaign=Data%20Analysis&utm_source=1103)** | Blue Ash, Ohio, United States | Hybrid | Feb 17 |
 | ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6995fefbe0bddb6acac462b5?utm_campaign=Data%20Analysis&utm_source=1103)** | Arlington, Texas, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699628bb81476f6176ade4f2?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, California, United States | Hybrid | Feb 17 |
 | ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69960c2481476f6176adc68e?utm_campaign=Data%20Analysis&utm_source=1103)** | Gainesville, Georgia, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6995fa62e0bddb6acac45fdf?utm_campaign=Data%20Analysis&utm_source=1103)** | Grand Rapids, Michigan, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699600aa81476f6176adbe69?utm_campaign=Data%20Analysis&utm_source=1103)** | Bolingbrook, Illinois, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69961c93ce78e77b4fda11d4?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte, North Carolina, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699601d9e0bddb6acac46500?utm_campaign=Data%20Analysis&utm_source=1103)** | Blue Ash, Ohio, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69962b4c81476f6176ade865?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69960a5ee0bddb6acac46afa?utm_campaign=Data%20Analysis&utm_source=1103)** | Harrisburg, Pennsylvania, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6995f758ce78e77b4fd9f1cd?utm_campaign=Data%20Analysis&utm_source=1103)** | Cleaveland, Ohio, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69960aef81476f6176adc5b1?utm_campaign=Data%20Analysis&utm_source=1103)** | Buffalo Grove, Illinois, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69960923e0bddb6acac469f1?utm_campaign=Data%20Analysis&utm_source=1103)** | Costa Mesa, California, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6995f8f481476f6176adb780?utm_campaign=Data%20Analysis&utm_source=1103)** | Greenville, South Carolina, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699613ffce78e77b4fda094b?utm_campaign=Data%20Analysis&utm_source=1103)** | Houston, Texas, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69961406e0bddb6acac47378?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, California, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69961ab0ce78e77b4fda0f81?utm_campaign=Data%20Analysis&utm_source=1103)** | Dallas, Texas, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69962a0ace78e77b4fda2015?utm_campaign=Data%20Analysis&utm_source=1103)** | Dayton, Ohio, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69961258e0bddb6acac47210?utm_campaign=Data%20Analysis&utm_source=1103)** | Spring, Texas, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6996197fce78e77b4fda0de2?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, Georgia, United States | Hybrid | Feb 17 |
 | ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69962f97ce78e77b4fda2689?utm_campaign=Data%20Analysis&utm_source=1103)** | Bridgewater, New Jersey, United States | Hybrid | Feb 17 |
 | ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6995f24781476f6176adb1f5?utm_campaign=Data%20Analysis&utm_source=1103)** | Colorado Springs, Colorado, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6995f5ecce78e77b4fd9f0a3?utm_campaign=Data%20Analysis&utm_source=1103)** | Greeley, Colorado, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69961b5181476f6176add615?utm_campaign=Data%20Analysis&utm_source=1103)** | Albany, New York, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6996144c81476f6176adcf17?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, Texas, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6995f8f481476f6176adb780?utm_campaign=Data%20Analysis&utm_source=1103)** | Greenville, South Carolina, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69961406e0bddb6acac47378?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, California, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699613ffce78e77b4fda094b?utm_campaign=Data%20Analysis&utm_source=1103)** | Houston, Texas, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69962a0ace78e77b4fda2015?utm_campaign=Data%20Analysis&utm_source=1103)** | Dayton, Ohio, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699624c7ce78e77b4fda1a84?utm_campaign=Data%20Analysis&utm_source=1103)** | Bothell, Washington, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699627acce78e77b4fda1d89?utm_campaign=Data%20Analysis&utm_source=1103)** | Franklin, Tennessee, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699604c8e0bddb6acac466d3?utm_campaign=Data%20Analysis&utm_source=1103)** | Cincinnati, Ohio, United States | Hybrid | Feb 17 |
 | ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69962f66ce78e77b4fda2642?utm_campaign=Data%20Analysis&utm_source=1103)** | Hoboken, New Jersey, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69961ab0ce78e77b4fda0f81?utm_campaign=Data%20Analysis&utm_source=1103)** | Dallas, Texas, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69961258e0bddb6acac47210?utm_campaign=Data%20Analysis&utm_source=1103)** | Spring, Texas, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699628bb81476f6176ade4f2?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, California, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6996144c81476f6176adcf17?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, Texas, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699600aa81476f6176adbe69?utm_campaign=Data%20Analysis&utm_source=1103)** | Bolingbrook, Illinois, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699615d581476f6176add092?utm_campaign=Data%20Analysis&utm_source=1103)** | Coppell, Texas, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699624c7ce78e77b4fda1a84?utm_campaign=Data%20Analysis&utm_source=1103)** | Bothell, Washington, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69961c93ce78e77b4fda11d4?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte, North Carolina, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6995f5ecce78e77b4fd9f0a3?utm_campaign=Data%20Analysis&utm_source=1103)** | Greeley, Colorado, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6995fa62e0bddb6acac45fdf?utm_campaign=Data%20Analysis&utm_source=1103)** | Grand Rapids, Michigan, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69960a5ee0bddb6acac46afa?utm_campaign=Data%20Analysis&utm_source=1103)** | Harrisburg, Pennsylvania, United States | Hybrid | Feb 17 |
 | ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699611d9e0bddb6acac47184?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, Massachusetts, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6996197fce78e77b4fda0de2?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, Georgia, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69960923e0bddb6acac469f1?utm_campaign=Data%20Analysis&utm_source=1103)** | Costa Mesa, California, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69961b5181476f6176add615?utm_campaign=Data%20Analysis&utm_source=1103)** | Albany, New York, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699627acce78e77b4fda1d89?utm_campaign=Data%20Analysis&utm_source=1103)** | Franklin, Tennessee, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69962b4c81476f6176ade865?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Feb 17 |
 | ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69961640e0bddb6acac47547?utm_campaign=Data%20Analysis&utm_source=1103)** | Fairfax, Virginia, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6995f758ce78e77b4fd9f1cd?utm_campaign=Data%20Analysis&utm_source=1103)** | Cleaveland, Ohio, United States | Hybrid | Feb 17 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Ascent Family Office Data Analyst](https://jobright.ai/jobs/info/6994ee13e0bddb6acac36fd2?utm_campaign=Data%20Analysis&utm_source=1103)** | Minneapolis, MN | On Site | Feb 17 |
 | **[WCB-Alberta](https://wcb.ab.ca/)** | **[Data Scientist](https://jobright.ai/jobs/info/6994ae8681476f6176ac71f2?utm_campaign=Data%20Analysis&utm_source=1103)** | Alberta, Canada | Hybrid | Feb 17 |
 | **[Ipsos in US](http://ipsos-na.com)** | **[Research Analyst, Innovation](https://jobright.ai/jobs/info/695c4157aa05c26e7ab593a2?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Feb 17 |
@@ -431,7 +441,6 @@ For a complete list, click the following sortable link below:
 | **[KoBold Metals](https://www.koboldmetals.com)** | **[Commercial & Scientific Analyst](https://jobright.ai/jobs/info/6994c1e281476f6176ac8ba5?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Feb 17 |
 | **[CognoWiz](http://www.cognowiz.com)** | **[Data Analyst](https://jobright.ai/jobs/info/6994c2a2e0bddb6acac33843?utm_campaign=Data%20Analysis&utm_source=1103)** | Herndon, VA | On Site | Feb 17 |
 | **[KoBold Metals](https://www.koboldmetals.com)** | **[Commercial & Scientific Analyst](https://jobright.ai/jobs/info/69949a0ae0bddb6acac30b62?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Feb 17 |
-| **[National Jewish Health](https://www.nationaljewish.org/)** | **[Psychometric Technician I](https://jobright.ai/jobs/info/69948c4681476f6176ac54b0?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, CO | On Site | Feb 17 |
 | **[University of Missouri-Columbia](http://business.missouri.edu/allen-angel-capital-education-program)** | **[Research Specialist I - Department of Speech, Language and Hearing Sciences](https://jobright.ai/jobs/info/695c8b02f1f8465b79f2af3e?utm_campaign=Data%20Analysis&utm_source=1103)** | Columbia, MO | On Site | Feb 17 |
 | **[Datavant](https://datavant.com)** | **[Data Scientist, Privacy](https://jobright.ai/jobs/info/698bf9e891fdda424d58b7b6?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Feb 17 |
 | **[iCapital](https://icapital.com)** | **[Alternative Data Management - Analyst](https://jobright.ai/jobs/info/695c444aaa05c26e7ab59875?utm_campaign=Data%20Analysis&utm_source=1103)** | Stamford, CT | Hybrid | Feb 17 |
@@ -447,8 +456,8 @@ For a complete list, click the following sortable link below:
 | **[aterio](https://www.aterio.io/)** | **[Research Analyst (Industrial & Energy Infrastructure)](https://jobright.ai/jobs/info/6993e742ce78e77b4fd7bc57?utm_campaign=Data%20Analysis&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Feb 16 |
 | **[University of Memphis](https://memphis.edu)** | **[Clinical Database Coder](https://jobright.ai/jobs/info/6993de6581476f6176ab78d0?utm_campaign=Data%20Analysis&utm_source=1103)** | Memphis, TN, United States | On Site | Feb 16 |
 | **[University of Kentucky](https://www.ca.uky.edu)** | **[Postdoctoral Scholar](https://jobright.ai/jobs/info/69939353ce78e77b4fd7666f?utm_campaign=Data%20Analysis&utm_source=1103)** | Greater Lexington Area | On Site | Feb 16 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Systems Eng/Competitive Intelligence Analyst, Early Career (AL)](https://jobright.ai/jobs/info/69939abce0bddb6acac1e210?utm_campaign=Data%20Analysis&utm_source=1103)** | Alabama | On Site | Feb 16 |
-| ↳ | **[Systems Eng/Competitive Intelligence Analyst, Early Career (AL)](https://jobright.ai/jobs/info/6993a4e281476f6176ab3c85?utm_campaign=Data%20Analysis&utm_source=1103)** | Possible | On Site | Feb 16 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Systems Eng/Competitive Intelligence Analyst, Early Career (AL)](https://jobright.ai/jobs/info/6993a4e281476f6176ab3c85?utm_campaign=Data%20Analysis&utm_source=1103)** | Possible | On Site | Feb 16 |
+| ↳ | **[Systems Eng/Competitive Intelligence Analyst, Early Career (AL)](https://jobright.ai/jobs/info/69939abce0bddb6acac1e210?utm_campaign=Data%20Analysis&utm_source=1103)** | Alabama | On Site | Feb 16 |
 | **[Trexquant Investment LP](http://trexquant.com/)** | **[Quantitative Researcher - Early Career (USA)](https://jobright.ai/jobs/info/68926a0ff47efe211395c22c?utm_campaign=Data%20Analysis&utm_source=1103)** | NYC Metro Area | On Site | Feb 16 |
 | **[Q-Centrix](https://www.q-centrix.com/)** | **[Cardiovascular Data Abstractor: Part-Time](https://jobright.ai/jobs/info/683f5152d2bbfddabbd06e0f?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Feb 16 |
 | **[Clipbook](https://clipbook.com/)** | **[Media Intelligence Associate (Part-Time, Weekend Coverage) - US](https://jobright.ai/jobs/info/69933c7fe0bddb6acac185b1?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | Remote | Feb 16 |
@@ -511,8 +520,8 @@ For a complete list, click the following sortable link below:
 | **[McNeil & Co.](http://www.mcneilandcompany.com/)** | **[Claims Data Analyst](https://jobright.ai/jobs/info/698fd4fe6ea51a7610f23d17?utm_campaign=Data%20Analysis&utm_source=1103)** | Cortland, NY | Hybrid | Feb 13 |
 | **[Q-Centrix](https://www.q-centrix.com/)** | **[LAAO/TVT Data Abstractor](https://jobright.ai/jobs/info/698f98926ea51a7610f1fccc?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Feb 13 |
 | **[ECG Management Consultants](http://www.ecgmc.com)** | **[Analyst, Healthcare: Undergrad-Degree Students, Class of 2026](https://jobright.ai/jobs/info/69865c1d8da7a61204611212?utm_campaign=Data%20Analysis&utm_source=1103)** | Arlington, VA | Hybrid | Feb 13 |
-| **[Merck](http://www.merck.com)** | **[Biostatistician, Late Development Statistics](https://jobright.ai/jobs/info/698fd4d80cc8ea15f1da6e91?utm_campaign=Data%20Analysis&utm_source=1103)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Feb 13 |
-| ↳ | **[Biostatistician, Late Development Statistics](https://jobright.ai/jobs/info/698fcb4d0f6f7e7a2cec17fa?utm_campaign=Data%20Analysis&utm_source=1103)** | USA - New Jersey - Rahway | Hybrid | Feb 13 |
+| **[Merck](http://www.merck.com)** | **[Biostatistician, Late Development Statistics](https://jobright.ai/jobs/info/698fcb4d0f6f7e7a2cec17fa?utm_campaign=Data%20Analysis&utm_source=1103)** | USA - New Jersey - Rahway | Hybrid | Feb 13 |
+| ↳ | **[Biostatistician, Late Development Statistics](https://jobright.ai/jobs/info/698fd4d80cc8ea15f1da6e91?utm_campaign=Data%20Analysis&utm_source=1103)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Feb 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Associate Data Analyst](https://jobright.ai/jobs/info/698fc5706ea51a7610f232de?utm_campaign=Data%20Analysis&utm_source=1103)** | Santa Monica, CA, USA | Hybrid | Feb 13 |
 | ↳ | **[Associate Data Analyst](https://jobright.ai/jobs/info/698fba650f6f7e7a2cec06a5?utm_campaign=Data%20Analysis&utm_source=1103)** | Glendale, CA, USA | Hybrid | Feb 13 |
 | **[Weill Cornell Medicine](https://careers.weill.cornell.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/6990ef010f6f7e7a2ced52c3?utm_campaign=Data%20Analysis&utm_source=1103)** | Upper East Side | On Site | Feb 13 |
