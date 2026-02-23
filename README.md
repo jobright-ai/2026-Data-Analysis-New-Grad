@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RI-MUHC | Research Institute of the MUHC | #rimuhc](https://rimuhc.ca/)** | **[Data Scientist](https://jobright.ai/jobs/info/699bdffde0bddb6acacac822?utm_campaign=Data%20Analysis&utm_source=1103)** | Montreal, Quebec, Canada | Hybrid | Feb 22 |
 | **[S&P Global](https://www.spglobal.com)** | **[Analytic Quality & Validation (AQV) Analyst](https://jobright.ai/jobs/info/699bbc0ece78e77b4fe03b3c?utm_campaign=Data%20Analysis&utm_source=1103)** | Boulder, CO | Hybrid | Feb 22 |
 | **[Later](http://www.later.com)** | **[Data Analyst](https://jobright.ai/jobs/info/6920593ca49a885af9a39041?utm_campaign=Data%20Analysis&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Feb 22 |
 | **[Tatari](https://www.tatari.tv/)** | **[Data Science Analyst](https://jobright.ai/jobs/info/6949f94dc6f0e2546ceed1fe?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, New York, United States | On Site | Feb 22 |
@@ -104,7 +105,8 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Commercial Intelligence Analyst](https://jobright.ai/jobs/info/69997b7181476f6176b23c91?utm_campaign=Data%20Analysis&utm_source=1103)** | Needham, MA | On Site | Feb 21 |
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[ANALYST II](https://jobright.ai/jobs/info/699a8d7fce78e77b4fdf455d?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento, CA | Hybrid | Feb 20 |
 | **[University of Pennsylvania](http://www.upenn.edu)** | **[Research Coordinator](https://jobright.ai/jobs/info/6996000ece78e77b4fd9f90c?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | On Site | Feb 20 |
-| **[The Retail Odyssey Company](https://retailodyssey.com/)** | **[Retail Data Collector](https://jobright.ai/jobs/info/699bcf0ee0bddb6acacaa182?utm_campaign=Data%20Analysis&utm_source=1103)** | Bonney Lake, WA | On Site | Feb 20 |
+| **[The Retail Odyssey Company](https://retailodyssey.com/)** | **[Retail Data Collector](https://jobright.ai/jobs/info/699bd95781476f6176b42d25?utm_campaign=Data%20Analysis&utm_source=1103)** | Muskego, WI | On Site | Feb 20 |
+| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/699bcf0ee0bddb6acacaa182?utm_campaign=Data%20Analysis&utm_source=1103)** | Bonney Lake, WA | On Site | Feb 20 |
 | **[EAB](https://www.eab.com)** | **[Associate Data Analyst, Financial Aid Optimization (Immediate Start)](https://jobright.ai/jobs/info/6999463f81476f6176b1df68?utm_campaign=Data%20Analysis&utm_source=1103)** | Minneapolis, MN | On Site | Feb 20 |
 | ↳ | **[Associate Data Analyst, Financial Aid Optimization (Immediate Start)](https://jobright.ai/jobs/info/69994d9981476f6176b1eee2?utm_campaign=Data%20Analysis&utm_source=1103)** | Richmond, VA | On Site | Feb 20 |
 | **[Centralia College](http://www.centralia.edu/)** | **[Institutional Research Analyst](https://jobright.ai/jobs/info/69993a29e0bddb6acac84e4d?utm_campaign=Data%20Analysis&utm_source=1103)** | Centralia, WA | On Site | Feb 20 |
@@ -121,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Ally](http://www.ally.com/)** | **[Analyst - Advanced Business Analytics](https://jobright.ai/jobs/info/6999160481476f6176b18e81?utm_campaign=Data%20Analysis&utm_source=1103)** | Lewisville, TX | On Site | Feb 20 |
 | ↳ | **[Analyst II - Model Validation](https://jobright.ai/jobs/info/69992048ce78e77b4fddc9dc?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte, NC | Hybrid | Feb 20 |
 | **[Coalition for Responsible Community Development](https://coalitionrcd.org)** | **[Data and Reporting Analyst](https://jobright.ai/jobs/info/6998ef22ce78e77b4fdd8088?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Feb 20 |
-| **[EAB](https://www.eab.com)** | **[Associate Data Analyst, Financial Aid Optimization (Immediate Start)](https://jobright.ai/jobs/info/699929dce0bddb6acac83441?utm_campaign=Data%20Analysis&utm_source=1103)** | Richmond, VA | On Site | Feb 20 |
-| ↳ | **[Associate Data Analyst, Financial Aid Optimization (Immediate Start)](https://jobright.ai/jobs/info/6999155381476f6176b18d30?utm_campaign=Data%20Analysis&utm_source=1103)** | Bloomington, MN | On Site | Feb 20 |
+| **[EAB](https://www.eab.com)** | **[Associate Data Analyst, Financial Aid Optimization (Immediate Start)](https://jobright.ai/jobs/info/6999155381476f6176b18d30?utm_campaign=Data%20Analysis&utm_source=1103)** | Bloomington, MN | On Site | Feb 20 |
+| ↳ | **[Associate Data Analyst, Financial Aid Optimization (Immediate Start)](https://jobright.ai/jobs/info/699929dce0bddb6acac83441?utm_campaign=Data%20Analysis&utm_source=1103)** | Richmond, VA | On Site | Feb 20 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/6999ab2d81476f6176b279b3?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | On Site | Feb 20 |
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[Junior Analyst - Data Processing & Governance](https://jobright.ai/jobs/info/6999055fce78e77b4fdda2af?utm_campaign=Data%20Analysis&utm_source=1103)** | La Jolla | Hybrid | Feb 20 |
 | **[Lumerate](https://lumerate.com)** | **[Data Quality Specialist](https://jobright.ai/jobs/info/6998d66ce0bddb6acac7c1c8?utm_campaign=Data%20Analysis&utm_source=1103)** | Canada | Remote | Feb 20 |
@@ -214,12 +216,12 @@ For a complete list, click the following sortable link below:
 | **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[Specialist, Platform Reporting](https://jobright.ai/jobs/info/6997c16d81476f6176afec9f?utm_campaign=Data%20Analysis&utm_source=1103)** | St Louis, MO | On Site | Feb 19 |
 | **[Omnicom Media](http://www.omnicommedia.com)** | **[Analytics Strategist- Ptarmigan Media](https://jobright.ai/jobs/info/6997c5cb81476f6176aff232?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | Hybrid | Feb 19 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Statistical Programmer/Sr. Statistical Programmer](https://jobright.ai/jobs/info/6997ad8de0bddb6acac667fc?utm_campaign=Data%20Analysis&utm_source=1103)** | Pasadena, California, United States | On Site | Feb 19 |
-| **[Montrose Environmental Group](https://montrose-env.com)** | **[GIS Analyst](https://jobright.ai/jobs/info/6997bd7ece78e77b4fdc1d56?utm_campaign=Data%20Analysis&utm_source=1103)** | CAN-MB-Remote | Remote | Feb 19 |
-| ↳ | **[GIS Analyst](https://jobright.ai/jobs/info/6997c0dae0bddb6acac68468?utm_campaign=Data%20Analysis&utm_source=1103)** | CAN-AB-Remote | Remote | Feb 19 |
+| **[Montrose Environmental Group](https://montrose-env.com)** | **[GIS Analyst](https://jobright.ai/jobs/info/6997c0dae0bddb6acac68468?utm_campaign=Data%20Analysis&utm_source=1103)** | CAN-AB-Remote | Remote | Feb 19 |
 | ↳ | **[GIS Analyst](https://jobright.ai/jobs/info/6997bb0ece78e77b4fdc18a0?utm_campaign=Data%20Analysis&utm_source=1103)** | CAN-BC-Remote | Remote | Feb 19 |
+| ↳ | **[GIS Analyst](https://jobright.ai/jobs/info/6997bd7ece78e77b4fdc1d56?utm_campaign=Data%20Analysis&utm_source=1103)** | CAN-MB-Remote | Remote | Feb 19 |
 | ↳ | **[GIS Analyst](https://jobright.ai/jobs/info/6997bc0de0bddb6acac67b62?utm_campaign=Data%20Analysis&utm_source=1103)** | CAN-SK-Remote | Remote | Feb 19 |
-| ↳ | **[GIS Analyst](https://jobright.ai/jobs/info/6997b5bf81476f6176afd6e6?utm_campaign=Data%20Analysis&utm_source=1103)** | CAN-ON-Remote | Remote | Feb 19 |
 | ↳ | **[GIS Analyst](https://jobright.ai/jobs/info/6997bbae81476f6176afe0c8?utm_campaign=Data%20Analysis&utm_source=1103)** | CAN-NS-Remote | Remote | Feb 19 |
+| ↳ | **[GIS Analyst](https://jobright.ai/jobs/info/6997b5bf81476f6176afd6e6?utm_campaign=Data%20Analysis&utm_source=1103)** | CAN-ON-Remote | Remote | Feb 19 |
 | **[Collin College](http://www.collin.edu/)** | **[Data Analyst - Institutional Research](https://jobright.ai/jobs/info/6997be8ece78e77b4fdc1f5c?utm_campaign=Data%20Analysis&utm_source=1103)** | Collin Higher Education Center | On Site | Feb 19 |
 | **[Montrose Environmental Group](https://montrose-env.com)** | **[GIS Analyst](https://jobright.ai/jobs/info/6997b7bace78e77b4fdc1250?utm_campaign=Data%20Analysis&utm_source=1103)** | Halifax, Nova Scotia, Canada | Hybrid | Feb 19 |
 | ↳ | **[GIS Analyst](https://jobright.ai/jobs/info/6997b9e4e0bddb6acac67744?utm_campaign=Data%20Analysis&utm_source=1103)** | Calgary, Alberta, Canada | Hybrid | Feb 19 |
@@ -231,8 +233,8 @@ For a complete list, click the following sortable link below:
 | **[The Retail Odyssey Company](https://retailodyssey.com/)** | **[Retail Data Collector](https://jobright.ai/jobs/info/69992dfece78e77b4fdde3b5?utm_campaign=Data%20Analysis&utm_source=1103)** | Lyndon, KS, US | On Site | Feb 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6999483dce78e77b4fde0d08?utm_campaign=Data%20Analysis&utm_source=1103)** | Carbondale, KS, US | On Site | Feb 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/69991b2281476f6176b19761?utm_campaign=Data%20Analysis&utm_source=1103)** | Lawrence, KS, US | On Site | Feb 19 |
-| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/69993499e0bddb6acac84466?utm_campaign=Data%20Analysis&utm_source=1103)** | Overbrook, KS, US | On Site | Feb 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6999125ae0bddb6acac80a08?utm_campaign=Data%20Analysis&utm_source=1103)** | Berryton, KS, US | On Site | Feb 19 |
+| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/69993499e0bddb6acac84466?utm_campaign=Data%20Analysis&utm_source=1103)** | Overbrook, KS, US | On Site | Feb 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6999287681476f6176b1af23?utm_campaign=Data%20Analysis&utm_source=1103)** | Perry, KS, US | On Site | Feb 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/69991cffce78e77b4fddc34e?utm_campaign=Data%20Analysis&utm_source=1103)** | Maple Hill, KS, US | On Site | Feb 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/69991a7bce78e77b4fddbecb?utm_campaign=Data%20Analysis&utm_source=1103)** | McFarland, KS, US | On Site | Feb 19 |
@@ -300,8 +302,8 @@ For a complete list, click the following sortable link below:
 | **[Affirm](https://www.affirm.com)** | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ec2ac08ab990f282a0cfb?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Feb 19 |
 | ↳ | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ecd6c0badca5763af44db?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte, NC | Hybrid | Feb 19 |
 | ↳ | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ec0190badca5763af35e1?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | Hybrid | Feb 19 |
-| ↳ | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ec0f708ab990f282a0afc?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | Hybrid | Feb 19 |
 | ↳ | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ec6dc0badca5763af3d5f?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 19 |
+| ↳ | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ec0f708ab990f282a0afc?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | Hybrid | Feb 19 |
 | ↳ | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ee0050badca5763af5a82?utm_campaign=Data%20Analysis&utm_source=1103)** | Miami, FL | Hybrid | Feb 19 |
 | ↳ | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695eca85a112b402660d8152?utm_campaign=Data%20Analysis&utm_source=1103)** | Palo Alto, CA | Hybrid | Feb 19 |
 | ↳ | **[Analyst I, Merchant Risk](https://jobright.ai/jobs/info/695ec60d0badca5763af3c78?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 19 |
@@ -401,37 +403,37 @@ For a complete list, click the following sortable link below:
 | **[Healthy Brains Global Initiative (HBGI)](https://www.hbgi.org/)** | **[Power BI Associate / Manager - California Behavioral Health](https://jobright.ai/jobs/info/6994b6c4ce78e77b4fd8b612?utm_campaign=Data%20Analysis&utm_source=1103)** | California, United States | Remote | Feb 17 |
 | **[iSoftStone](https://www.isoftstoneinc.com)** | **[Data Analyst](https://jobright.ai/jobs/info/6977cd3afdeb8243a27aba67?utm_campaign=Data%20Analysis&utm_source=1103)** | Menlo Park, CA | On Site | Feb 17 |
 | **[Ipsos in US](http://ipsos-na.com)** | **[Research Analyst, Innovation](https://jobright.ai/jobs/info/695c4850aa05c26e7ab5a1dd?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Feb 17 |
-| **[Hudson IT and Manpower](http://www.hudsonmanpower.com)** | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6995f24781476f6176adb1f5?utm_campaign=Data%20Analysis&utm_source=1103)** | Colorado Springs, Colorado, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69960c2481476f6176adc68e?utm_campaign=Data%20Analysis&utm_source=1103)** | Gainesville, Georgia, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69962f66ce78e77b4fda2642?utm_campaign=Data%20Analysis&utm_source=1103)** | Hoboken, New Jersey, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6995fa62e0bddb6acac45fdf?utm_campaign=Data%20Analysis&utm_source=1103)** | Grand Rapids, Michigan, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6995fefbe0bddb6acac462b5?utm_campaign=Data%20Analysis&utm_source=1103)** | Arlington, Texas, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699611d9e0bddb6acac47184?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, Massachusetts, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6996197fce78e77b4fda0de2?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, Georgia, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6995f5ecce78e77b4fd9f0a3?utm_campaign=Data%20Analysis&utm_source=1103)** | Greeley, Colorado, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69962b4c81476f6176ade865?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69961258e0bddb6acac47210?utm_campaign=Data%20Analysis&utm_source=1103)** | Spring, Texas, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6996144c81476f6176adcf17?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, Texas, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69962f97ce78e77b4fda2689?utm_campaign=Data%20Analysis&utm_source=1103)** | Bridgewater, New Jersey, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699601d9e0bddb6acac46500?utm_campaign=Data%20Analysis&utm_source=1103)** | Blue Ash, Ohio, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69960a5ee0bddb6acac46afa?utm_campaign=Data%20Analysis&utm_source=1103)** | Harrisburg, Pennsylvania, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699600aa81476f6176adbe69?utm_campaign=Data%20Analysis&utm_source=1103)** | Bolingbrook, Illinois, United States | Hybrid | Feb 17 |
+| **[Hudson IT and Manpower](http://www.hudsonmanpower.com)** | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699615d581476f6176add092?utm_campaign=Data%20Analysis&utm_source=1103)** | Coppell, Texas, United States | Hybrid | Feb 17 |
 | ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69961c93ce78e77b4fda11d4?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte, North Carolina, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6995f8f481476f6176adb780?utm_campaign=Data%20Analysis&utm_source=1103)** | Greenville, South Carolina, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69962f97ce78e77b4fda2689?utm_campaign=Data%20Analysis&utm_source=1103)** | Bridgewater, New Jersey, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699627acce78e77b4fda1d89?utm_campaign=Data%20Analysis&utm_source=1103)** | Franklin, Tennessee, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69961ab0ce78e77b4fda0f81?utm_campaign=Data%20Analysis&utm_source=1103)** | Dallas, Texas, United States | Hybrid | Feb 17 |
 | ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69960923e0bddb6acac469f1?utm_campaign=Data%20Analysis&utm_source=1103)** | Costa Mesa, California, United States | Hybrid | Feb 17 |
 | ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699628bb81476f6176ade4f2?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, California, United States | Hybrid | Feb 17 |
 | ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699624c7ce78e77b4fda1a84?utm_campaign=Data%20Analysis&utm_source=1103)** | Bothell, Washington, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69961640e0bddb6acac47547?utm_campaign=Data%20Analysis&utm_source=1103)** | Fairfax, Virginia, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69962a0ace78e77b4fda2015?utm_campaign=Data%20Analysis&utm_source=1103)** | Dayton, Ohio, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69961406e0bddb6acac47378?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, California, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699601d9e0bddb6acac46500?utm_campaign=Data%20Analysis&utm_source=1103)** | Blue Ash, Ohio, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6995f5ecce78e77b4fd9f0a3?utm_campaign=Data%20Analysis&utm_source=1103)** | Greeley, Colorado, United States | Hybrid | Feb 17 |
 | ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699604c8e0bddb6acac466d3?utm_campaign=Data%20Analysis&utm_source=1103)** | Cincinnati, Ohio, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6995f758ce78e77b4fd9f1cd?utm_campaign=Data%20Analysis&utm_source=1103)** | Cleaveland, Ohio, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6995f8f481476f6176adb780?utm_campaign=Data%20Analysis&utm_source=1103)** | Greenville, South Carolina, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69960aef81476f6176adc5b1?utm_campaign=Data%20Analysis&utm_source=1103)** | Buffalo Grove, Illinois, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699627acce78e77b4fda1d89?utm_campaign=Data%20Analysis&utm_source=1103)** | Franklin, Tennessee, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69961b5181476f6176add615?utm_campaign=Data%20Analysis&utm_source=1103)** | Albany, New York, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699600aa81476f6176adbe69?utm_campaign=Data%20Analysis&utm_source=1103)** | Bolingbrook, Illinois, United States | Hybrid | Feb 17 |
 | ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699613ffce78e77b4fda094b?utm_campaign=Data%20Analysis&utm_source=1103)** | Houston, Texas, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699615d581476f6176add092?utm_campaign=Data%20Analysis&utm_source=1103)** | Coppell, Texas, United States | Hybrid | Feb 17 |
-| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69961ab0ce78e77b4fda0f81?utm_campaign=Data%20Analysis&utm_source=1103)** | Dallas, Texas, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69961406e0bddb6acac47378?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, California, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69962f66ce78e77b4fda2642?utm_campaign=Data%20Analysis&utm_source=1103)** | Hoboken, New Jersey, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6995f758ce78e77b4fd9f1cd?utm_campaign=Data%20Analysis&utm_source=1103)** | Cleaveland, Ohio, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69960a5ee0bddb6acac46afa?utm_campaign=Data%20Analysis&utm_source=1103)** | Harrisburg, Pennsylvania, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69961640e0bddb6acac47547?utm_campaign=Data%20Analysis&utm_source=1103)** | Fairfax, Virginia, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/699611d9e0bddb6acac47184?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, Massachusetts, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6995fa62e0bddb6acac45fdf?utm_campaign=Data%20Analysis&utm_source=1103)** | Grand Rapids, Michigan, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6996197fce78e77b4fda0de2?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, Georgia, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69960c2481476f6176adc68e?utm_campaign=Data%20Analysis&utm_source=1103)** | Gainesville, Georgia, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6996144c81476f6176adcf17?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, Texas, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69961258e0bddb6acac47210?utm_campaign=Data%20Analysis&utm_source=1103)** | Spring, Texas, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69962a0ace78e77b4fda2015?utm_campaign=Data%20Analysis&utm_source=1103)** | Dayton, Ohio, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69961b5181476f6176add615?utm_campaign=Data%20Analysis&utm_source=1103)** | Albany, New York, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6995fefbe0bddb6acac462b5?utm_campaign=Data%20Analysis&utm_source=1103)** | Arlington, Texas, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69962b4c81476f6176ade865?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/69960aef81476f6176adc5b1?utm_campaign=Data%20Analysis&utm_source=1103)** | Buffalo Grove, Illinois, United States | Hybrid | Feb 17 |
+| ↳ | **[QlikView / Qlik Sense Developer](https://jobright.ai/jobs/info/6995f24781476f6176adb1f5?utm_campaign=Data%20Analysis&utm_source=1103)** | Colorado Springs, Colorado, United States | Hybrid | Feb 17 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Ascent Family Office Data Analyst](https://jobright.ai/jobs/info/6994ee13e0bddb6acac36fd2?utm_campaign=Data%20Analysis&utm_source=1103)** | Minneapolis, MN | On Site | Feb 17 |
 | **[WCB-Alberta](https://wcb.ab.ca/)** | **[Data Scientist](https://jobright.ai/jobs/info/6994ae8681476f6176ac71f2?utm_campaign=Data%20Analysis&utm_source=1103)** | Alberta, Canada | Hybrid | Feb 17 |
 | **[Ipsos in US](http://ipsos-na.com)** | **[Research Analyst, Innovation](https://jobright.ai/jobs/info/695c4157aa05c26e7ab593a2?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Feb 17 |
@@ -456,6 +458,4 @@ For a complete list, click the following sortable link below:
 | **[Trexquant Investment LP](http://trexquant.com/)** | **[Quantitative Researcher - Early Career (USA)](https://jobright.ai/jobs/info/68926a0ff47efe211395c22c?utm_campaign=Data%20Analysis&utm_source=1103)** | NYC Metro Area | On Site | Feb 16 |
 | **[Q-Centrix](https://www.q-centrix.com/)** | **[Cardiovascular Data Abstractor: Part-Time](https://jobright.ai/jobs/info/683f5152d2bbfddabbd06e0f?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Feb 16 |
 | **[Clipbook](https://clipbook.com/)** | **[Media Intelligence Associate (Part-Time, Weekend Coverage) - US](https://jobright.ai/jobs/info/69933c7fe0bddb6acac185b1?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | Remote | Feb 16 |
-| **[University of Pittsburgh](https://www.pitt.edu/pittwire)** | **[Research (Entry-level) - Cortez Lab - Jr Data Analyst](https://jobright.ai/jobs/info/69932642e0bddb6acac177ad?utm_campaign=Data%20Analysis&utm_source=1103)** | Pittsburgh, PA | On Site | Feb 16 |
-| **[Clipbook](https://clipbook.com/)** | **[Media Intelligence Associate (Part-Time, Weekend Coverage) - US](https://jobright.ai/jobs/info/6993446981476f6176aadead?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | Remote | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
