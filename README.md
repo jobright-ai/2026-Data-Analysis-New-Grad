@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lincoln Financial](https://www.lincolnfinancial.com/)** | **[Specialist, Data Analytics](https://jobright.ai/jobs/info/69a261960da45516f16ba68e?utm_campaign=Data%20Analysis&utm_source=1103)** | Greensboro, NC | Hybrid | Feb 28 |
+| **[Fred Hutch](http://www.fredhutch.org)** | **[Post-Doctoral Research Fellow - Biostatistics](https://jobright.ai/jobs/info/6986336d0f6f7e7a2ce11591?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Feb 28 |
+| **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Data Analyst, Social Media & Video](https://jobright.ai/jobs/info/696aa37adb26b618950dcb89?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Feb 28 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Research Assistant](https://jobright.ai/jobs/info/69a32ab7b600907a96297819?utm_campaign=Data%20Analysis&utm_source=1103)** | Texas, United States | On Site | Feb 28 |
 | **[Q-Centrix](https://www.q-centrix.com/)** | **[Cardiovascular Data Abstractor: Full-Time](https://jobright.ai/jobs/info/69335feea0dde7020e2ed28d?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Feb 28 |
 | **[Meridien Labs](meridienlabs.us)** | **[ATC Oracle Analyst](https://jobright.ai/jobs/info/69a31d800da45516f16c6c6c?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | On Site | Feb 28 |
@@ -189,9 +192,7 @@ For a complete list, click the following sortable link below:
 | **[Nordstrom](http://www.nordstrom.com)** | **[Data Analyst 1, Nordstrom Media Network (Hybrid, Seattle)](https://jobright.ai/jobs/info/69a1604f0da45516f16ab874?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | Hybrid | Feb 27 |
 | **[Kharon](https://www.kharon.com/)** | **[Research Analyst (Arabic)](https://jobright.ai/jobs/info/69a2bc50359fe034b1ce1b0e?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | On Site | Feb 27 |
 | **[American Express](http://www.americanexpress.com)** | **[Data Analyst – Resy Credit Platform and Analytics](https://jobright.ai/jobs/info/69a2ac68b600907a96291246?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Feb 26 |
-| **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[ANALYST I](https://jobright.ai/jobs/info/69a137a581476f6176bb931c?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Feb 26 |
-| ↳ | **[ANALYST I](https://jobright.ai/jobs/info/69a163e3b600907a9627c377?utm_campaign=Data%20Analysis&utm_source=1103)** | Yolo, CA | Hybrid | Feb 26 |
-| ↳ | **[ANALYST I](https://jobright.ai/jobs/info/69a145a6d29bbd4d8e6ae1f4?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento, CA | Hybrid | Feb 26 |
+| **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[ANALYST I](https://jobright.ai/jobs/info/69a145a6d29bbd4d8e6ae1f4?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento, CA | Hybrid | Feb 26 |
 | ↳ | **[ANALYST II](https://jobright.ai/jobs/info/69a1459bb600907a962779b7?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco County, CA | Hybrid | Feb 26 |
 | ↳ | **[ANALYST II](https://jobright.ai/jobs/info/69a13dc081476f6176bb9f5c?utm_campaign=Data%20Analysis&utm_source=1103)** | Alameda, CA | Hybrid | Feb 26 |
 | **[CBRE](https://www.cbre.com)** | **[Business Intelligence Analyst - SQL (In Office)](https://jobright.ai/jobs/info/69a283150da45516f16bd519?utm_campaign=Data%20Analysis&utm_source=1103)** | Redmond, WA | On Site | Feb 26 |
@@ -398,10 +399,10 @@ For a complete list, click the following sortable link below:
 | **[GeneDx](https://www.genedx.com)** | **[Associate Clinical Analyst I](https://jobright.ai/jobs/info/699e5035e0bddb6acacdc07f?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | On Site | Feb 24 |
 | **[IQVIA](https://www.iqvia.com)** | **[Associate, Quantitative Patient-Centered Research](https://jobright.ai/jobs/info/699e6bf481476f6176b77bac?utm_campaign=Data%20Analysis&utm_source=1103)** | Providence, RI | Remote | Feb 24 |
 | **[NielsenIQ](https://nielseniq.com)** | **[Analyst - Industry Insights](https://jobright.ai/jobs/info/699e9571ce78e77b4fe40675?utm_campaign=Data%20Analysis&utm_source=1103)** | St. Louis, MO, United States | Hybrid | Feb 24 |
-| **[Vertical Screen, Inc.](http://www.verticalscreen.com/)** | **[Criminal Background Check Researcher](https://jobright.ai/jobs/info/699e8b9dce78e77b4fe3f26c?utm_campaign=Data%20Analysis&utm_source=1103)** | Warminster, PA, US | On Site | Feb 24 |
-| ↳ | **[Criminal Background Check Researcher](https://jobright.ai/jobs/info/699e8792e0bddb6acace3857?utm_campaign=Data%20Analysis&utm_source=1103)** | US-PA-Warminster | On Site | Feb 24 |
-| ↳ | **[French Bilingual Researcher](https://jobright.ai/jobs/info/699e8de9e0bddb6acace433a?utm_campaign=Data%20Analysis&utm_source=1103)** | US-PA-Warminster | On Site | Feb 24 |
+| **[Vertical Screen, Inc.](http://www.verticalscreen.com/)** | **[French Bilingual Researcher](https://jobright.ai/jobs/info/699e8de9e0bddb6acace433a?utm_campaign=Data%20Analysis&utm_source=1103)** | US-PA-Warminster | On Site | Feb 24 |
 | ↳ | **[French Bilingual Researcher](https://jobright.ai/jobs/info/699e8cb2ce78e77b4fe3f4a4?utm_campaign=Data%20Analysis&utm_source=1103)** | Warminster, PA, US | On Site | Feb 24 |
+| ↳ | **[Criminal Background Check Researcher](https://jobright.ai/jobs/info/699e8792e0bddb6acace3857?utm_campaign=Data%20Analysis&utm_source=1103)** | US-PA-Warminster | On Site | Feb 24 |
+| ↳ | **[Criminal Background Check Researcher](https://jobright.ai/jobs/info/699e8b9dce78e77b4fe3f26c?utm_campaign=Data%20Analysis&utm_source=1103)** | Warminster, PA, US | On Site | Feb 24 |
 | **[The Athletic](https://theathletic.com/)** | **[Data Analyst (Remote)](https://jobright.ai/jobs/info/699e3d65ce78e77b4fe35390?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Feb 24 |
 | **[Tactile Medical](https://tactilemedical.com)** | **[Data Analyst](https://jobright.ai/jobs/info/699e3cb881476f6176b7210d?utm_campaign=Data%20Analysis&utm_source=1103)** | New Brighton, MN | On Site | Feb 24 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Analyst, Advisory](https://jobright.ai/jobs/info/699e8e1ace78e77b4fe3f5cf?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA, US | Hybrid | Feb 24 |
@@ -413,28 +414,28 @@ For a complete list, click the following sortable link below:
 | **[Strive Health](https://strivehealth.com)** | **[Analyst, HEDIS Enablement](https://jobright.ai/jobs/info/699e330bce78e77b4fe34517?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, CO | Hybrid | Feb 24 |
 | **[Starcom](http://www.starcomww.com)** | **[Analyst](https://jobright.ai/jobs/info/699edb2081476f6176b84fb3?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Feb 24 |
 | **[IQVIA](https://www.iqvia.com)** | **[Associate, Quantitative Patient-Centered Research](https://jobright.ai/jobs/info/699e5cff81476f6176b75e15?utm_campaign=Data%20Analysis&utm_source=1103)** | Providence, Rhode Island, United States of America | On Site | Feb 24 |
-| **[DLA Piper](https://www.dlapiper.com/)** | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e7175ce78e77b4fe3b72f?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | Hybrid | Feb 24 |
-| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e4b5a81476f6176b73ccd?utm_campaign=Data%20Analysis&utm_source=1103)** | Houston, TX | Hybrid | Feb 24 |
-| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e454ce0bddb6acacdab83?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | Hybrid | Feb 24 |
-| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e5dd5ce78e77b4fe38f79?utm_campaign=Data%20Analysis&utm_source=1103)** | Baltimore, MD | Hybrid | Feb 24 |
-| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e73b081476f6176b78cdb?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Feb 24 |
-| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e7dd9ce78e77b4fe3d711?utm_campaign=Data%20Analysis&utm_source=1103)** | Palo Alto, CA | Hybrid | Feb 24 |
-| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e7b85ce78e77b4fe3ce71?utm_campaign=Data%20Analysis&utm_source=1103)** | Miami, FL | Hybrid | Feb 24 |
-| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e6107e0bddb6acacde10d?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | Hybrid | Feb 24 |
-| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e56fcce78e77b4fe382ac?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 24 |
-| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e3ea281476f6176b724ae?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | Hybrid | Feb 24 |
-| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e59dfce78e77b4fe38820?utm_campaign=Data%20Analysis&utm_source=1103)** | San Diego, CA | Hybrid | Feb 24 |
-| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e7a89e0bddb6acace1d75?utm_campaign=Data%20Analysis&utm_source=1103)** | Dallas, TX | Hybrid | Feb 24 |
-| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e55ad81476f6176b74fd2?utm_campaign=Data%20Analysis&utm_source=1103)** | Wilmington, DE | Hybrid | Feb 24 |
-| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e5ee581476f6176b761aa?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | Hybrid | Feb 24 |
-| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e5aafe0bddb6acacdd56c?utm_campaign=Data%20Analysis&utm_source=1103)** | Raleigh, NC | Hybrid | Feb 24 |
-| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e7066e0bddb6acace0112?utm_campaign=Data%20Analysis&utm_source=1103)** | Phoenix, AZ | Hybrid | Feb 24 |
+| **[DLA Piper](https://www.dlapiper.com/)** | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e454ce0bddb6acacdab83?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | Hybrid | Feb 24 |
 | ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e5a1ace78e77b4fe388ab?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Feb 24 |
-| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e599781476f6176b7574d?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 24 |
-| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e7912ce78e77b4fe3c7d8?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX | Hybrid | Feb 24 |
-| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e3e84e0bddb6acacd9cff?utm_campaign=Data%20Analysis&utm_source=1103)** | Minneapolis, MN | Hybrid | Feb 24 |
-| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e53ade0bddb6acacdc73c?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | Feb 24 |
+| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e7175ce78e77b4fe3b72f?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | Hybrid | Feb 24 |
+| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e73b081476f6176b78cdb?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Feb 24 |
+| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e5ee581476f6176b761aa?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | Hybrid | Feb 24 |
 | ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e6c2c81476f6176b77c1d?utm_campaign=Data%20Analysis&utm_source=1103)** | Short Hills, NJ | Hybrid | Feb 24 |
+| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e3ea281476f6176b724ae?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | Hybrid | Feb 24 |
+| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e7dd9ce78e77b4fe3d711?utm_campaign=Data%20Analysis&utm_source=1103)** | Palo Alto, CA | Hybrid | Feb 24 |
+| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e7066e0bddb6acace0112?utm_campaign=Data%20Analysis&utm_source=1103)** | Phoenix, AZ | Hybrid | Feb 24 |
+| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e599781476f6176b7574d?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 24 |
+| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e56fcce78e77b4fe382ac?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 24 |
+| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e4b5a81476f6176b73ccd?utm_campaign=Data%20Analysis&utm_source=1103)** | Houston, TX | Hybrid | Feb 24 |
+| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e5aafe0bddb6acacdd56c?utm_campaign=Data%20Analysis&utm_source=1103)** | Raleigh, NC | Hybrid | Feb 24 |
+| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e53ade0bddb6acacdc73c?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | Feb 24 |
+| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e59dfce78e77b4fe38820?utm_campaign=Data%20Analysis&utm_source=1103)** | San Diego, CA | Hybrid | Feb 24 |
+| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e55ad81476f6176b74fd2?utm_campaign=Data%20Analysis&utm_source=1103)** | Wilmington, DE | Hybrid | Feb 24 |
+| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e7a89e0bddb6acace1d75?utm_campaign=Data%20Analysis&utm_source=1103)** | Dallas, TX | Hybrid | Feb 24 |
+| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e5dd5ce78e77b4fe38f79?utm_campaign=Data%20Analysis&utm_source=1103)** | Baltimore, MD | Hybrid | Feb 24 |
+| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e7b85ce78e77b4fe3ce71?utm_campaign=Data%20Analysis&utm_source=1103)** | Miami, FL | Hybrid | Feb 24 |
+| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e3e84e0bddb6acacd9cff?utm_campaign=Data%20Analysis&utm_source=1103)** | Minneapolis, MN | Hybrid | Feb 24 |
+| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e7912ce78e77b4fe3c7d8?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX | Hybrid | Feb 24 |
+| ↳ | **[NBI Systems & Data Assistant](https://jobright.ai/jobs/info/699e6107e0bddb6acacde10d?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | Hybrid | Feb 24 |
 | **[Capital Rx](https://www.judi.health/about/careers)** | **[Analyst, Analytics - Business Insights](https://jobright.ai/jobs/info/699e3d01e0bddb6acacd99e8?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, New York, United States | On Site | Feb 24 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[Research Analyst I -Formulations 1](https://jobright.ai/jobs/info/699eb42281476f6176b82900?utm_campaign=Data%20Analysis&utm_source=1103)** | Reno, NV | On Site | Feb 24 |
 | **[Judi Health](https://www.judi.health/)** | **[Analyst, Analytics - Business Insights](https://jobright.ai/jobs/info/699ed7ac94ef206f184dd8f1?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Feb 24 |
@@ -485,7 +486,6 @@ For a complete list, click the following sortable link below:
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Biostatistician 1](https://jobright.ai/jobs/info/699d17cdce78e77b4fe1e9d5?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Feb 23 |
 | **[Yale University](https://www.yale.edu)** | **[Research Associate](https://jobright.ai/jobs/info/699d0b07ce78e77b4fe1d957?utm_campaign=Data%20Analysis&utm_source=1103)** | New Haven, CT | On Site | Feb 23 |
 | **[OPTrust](http://www.optrust.com)** | **[Data Analyst](https://jobright.ai/jobs/info/699d06e2e0bddb6acacc218f?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Feb 23 |
-| **[Toyota Canada Inc.](https://toyota.ca)** | **[Operations and Reporting Analyst (24 Month Contract/Acting)](https://jobright.ai/jobs/info/699cf5bece78e77b4fe1b0ae?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Feb 23 |
 | **[Research Foundation for Mental Hygiene, Inc.](http://corporate.rfmh.org/)** | **[Research Coordinator](https://jobright.ai/jobs/info/69a0efab81476f6176bb4d86?utm_campaign=Data%20Analysis&utm_source=1103)** | New York,NY,US | On Site | Feb 23 |
 | **[CLV GROUP](https://www.clvgroup.com)** | **[Automation & Data Analyst - New Grad](https://jobright.ai/jobs/info/699d2ab881476f6176b5da3b?utm_campaign=Data%20Analysis&utm_source=1103)** | Ottawa, Ontario, Canada | On Site | Feb 23 |
 | **[Independent Living Services Simcoe County](http://www.ilssimcoe.ca)** | **[Data Analytics & Research Assistant](https://jobright.ai/jobs/info/699e460681476f6176b7320b?utm_campaign=Data%20Analysis&utm_source=1103)** | Barrie, Ontario, Canada | On Site | Feb 23 |
