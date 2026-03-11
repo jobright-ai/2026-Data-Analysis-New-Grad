@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Variance & Data Administrator](https://jobright.ai/jobs/info/69b0de10dfaeda6ff59b9f57?utm_campaign=Data%20Analysis&utm_source=1103)** | Lansing, MI | On Site | Mar 10 |
+| ↳ | **[Variance & Data Administrator](https://jobright.ai/jobs/info/69b0dde60b2db6275c05aba8?utm_campaign=Data%20Analysis&utm_source=1103)** | Sterling Heights, MI | On Site | Mar 10 |
+| **[Chino Valley Medical Center](https://www.cvmc.com/)** | **[Application Analyst - Data Processing](https://jobright.ai/jobs/info/69b0d8fcdfaeda6ff59b8264?utm_campaign=Data%20Analysis&utm_source=1103)** | Chino, CA | On Site | Mar 10 |
+| **[TriWest Healthcare Alliance](http://triwest.com)** | **[Data Analyst](https://jobright.ai/jobs/info/69b0d8f5749500645097e041?utm_campaign=Data%20Analysis&utm_source=1103)** | Phoenix, AZ | Remote | Mar 10 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Mercury Ignite: Growth Data Science & Data Governance Graduate Development Program (Remote)](https://jobright.ai/jobs/info/69b0ce90dfaeda6ff59b5d0a?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Mar 10 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[SO_Analyst Charge RIO_T3508](https://jobright.ai/jobs/info/69b0cb56749500645097c1ab?utm_campaign=Data%20Analysis&utm_source=1103)** | Newtown, PA | Remote | Mar 10 |
 | **[SynergisticIT](www.synergisticit.com)** | **[junior software developer/data analyst](https://jobright.ai/jobs/info/69b0c81ddfaeda6ff59b4624?utm_campaign=Data%20Analysis&utm_source=1103)** | Sunnyvale, CA | On Site | Mar 10 |
@@ -82,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[ForeFlight](https://foreflight.com)** | **[Business Intelligence Analyst](https://jobright.ai/jobs/info/69b0a55b7495006450975823?utm_campaign=Data%20Analysis&utm_source=1103)** | Englewood, Colorado, United States | Hybrid | Mar 10 |
 | **[Veterans Medical Research Foundation](https://www.vmrf.org/)** | **[Research Associate II](https://jobright.ai/jobs/info/69b08543dfaeda6ff59a8747?utm_campaign=Data%20Analysis&utm_source=1103)** | San Diego,CA,US | On Site | Mar 10 |
 | **[Seeq Corporation](http://seeq.com)** | **[Customer Intelligence Engineer](https://jobright.ai/jobs/info/69b04bb9dfaeda6ff599e982?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Mar 10 |
-| **[Publix Pharmacy](http://corporate.publix.com/careers/pharmacy)** | **[Consumer Insights Analyst](https://jobright.ai/jobs/info/69b0866adfaeda6ff59a8a3e?utm_campaign=Data%20Analysis&utm_source=1103)** | 3300 Publix Corporate Parkway | On Site | Mar 10 |
-| ↳ | **[Consumer Insights Analyst](https://jobright.ai/jobs/info/69b081490b2db6275c04971c?utm_campaign=Data%20Analysis&utm_source=1103)** | Lakeland Florida | On Site | Mar 10 |
+| **[Publix Pharmacy](http://corporate.publix.com/careers/pharmacy)** | **[Consumer Insights Analyst](https://jobright.ai/jobs/info/69b081490b2db6275c04971c?utm_campaign=Data%20Analysis&utm_source=1103)** | Lakeland Florida | On Site | Mar 10 |
+| ↳ | **[Consumer Insights Analyst](https://jobright.ai/jobs/info/69b0866adfaeda6ff59a8a3e?utm_campaign=Data%20Analysis&utm_source=1103)** | 3300 Publix Corporate Parkway | On Site | Mar 10 |
 | **[Torc Robotics](http://torc.ai)** | **[Data Scientist, I - Decision Science](https://jobright.ai/jobs/info/69b0556d0b2db6275c040c69?utm_campaign=Data%20Analysis&utm_source=1103)** | Ann Arbor, MI | On Site | Mar 10 |
 | **[University of Maryland Medical System](http://www.umms.org)** | **[Data Coordinator](https://jobright.ai/jobs/info/69b0ac5f0b2db6275c050cd2?utm_campaign=Data%20Analysis&utm_source=1103)** | Baltimore, MD | Hybrid | Mar 10 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Clinical Research Fellow](https://jobright.ai/jobs/info/69b070660b2db6275c045c34?utm_campaign=Data%20Analysis&utm_source=1103)** | Conversion Only - Massachusetts | On Site | Mar 10 |
@@ -137,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[OMG23](https://omnicommediagroup.com/careers/us/omg23/)** | **[Analyst, Data Integrity](https://jobright.ai/jobs/info/69af35d6dfaeda6ff59752be?utm_campaign=Data%20Analysis&utm_source=1103)** | Burbank, CA | Hybrid | Mar 09 |
 | **[SMX](https://www.smxtech.com)** | **[Data Analyst (5080)](https://jobright.ai/jobs/info/69af3500749500645093b705?utm_campaign=Data%20Analysis&utm_source=1103)** | Quantico, VA | On Site | Mar 09 |
 | **[Equinix](http://www.equinix.com)** | **[Data Quality Analyst](https://jobright.ai/jobs/info/69af34fcdfaeda6ff59751ae?utm_campaign=Data%20Analysis&utm_source=1103)** | Dallas, TX | On Site | Mar 09 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Junior Data Analyst (Remote)](https://jobright.ai/jobs/info/69af342c749500645093b2f5?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Mar 09 |
 | **[Holy Cross Health](https://www.holycrosshealth.org/)** | **[Oncology Data Specialist](https://jobright.ai/jobs/info/69af31e76b21de023e605b6a?utm_campaign=Data%20Analysis&utm_source=1103)** | Silver Spring, MD | On Site | Mar 09 |
 | **[Equinix](http://www.equinix.com)** | **[Data Quality Analyst](https://jobright.ai/jobs/info/69af31556b21de023e6059f2?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Mar 09 |
 | **[University of Rochester Advancement](https://www.rochester.edu/advancement/)** | **[Data Scientist](https://jobright.ai/jobs/info/69af30796b21de023e6058aa?utm_campaign=Data%20Analysis&utm_source=1103)** | Helen Wood Hall | Remote | Mar 09 |
@@ -379,8 +382,4 @@ For a complete list, click the following sortable link below:
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Digital Analyst](https://jobright.ai/jobs/info/69757dee206da320f49f7fcd?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Mar 04 |
 | **[Cambridge Investment Research, Inc.](http://www.joincambridge.com)** | **[Data Integrity Specialist, Performance Reporting](https://jobright.ai/jobs/info/696ff68c0f4e0f657ea44862?utm_campaign=Data%20Analysis&utm_source=1103)** | Fairfield, IA | Hybrid | Mar 04 |
 | **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Digital Analyst](https://jobright.ai/jobs/info/6975a090206da320f49faef1?utm_campaign=Data%20Analysis&utm_source=1103)** | Miami, FL | On Site | Mar 04 |
-| ↳ | **[Digital Analyst](https://jobright.ai/jobs/info/697da97c7f40342e15d68ee7?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX | On Site | Mar 04 |
-| **[Cambridge Investment Research, Inc.](http://www.joincambridge.com)** | **[Data Integrity Specialist, Performance Reporting](https://jobright.ai/jobs/info/696ff6b33ed06875134aee8a?utm_campaign=Data%20Analysis&utm_source=1103)** | Phoenix, AZ | Hybrid | Mar 04 |
-| **[Solytics Partners](https://solytics-partners.com)** | **[Data Scientist](https://jobright.ai/jobs/info/69a8a49179f3f4037f42d7fd?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, United States | On Site | Mar 04 |
-| **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Digital Analyst](https://jobright.ai/jobs/info/697d8c687f40342e15d66c9e?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
