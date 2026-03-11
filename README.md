@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DaVita Kidney Care](http://www.davita.com)** | **[Technical Analyst](https://jobright.ai/jobs/info/69b106d67495006450984135?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, CO | On Site | Mar 11 |
+| **[Old Mission](http://oldmissioncapital.com)** | **[Junior Quantitative Researcher (Ph.D.)](https://jobright.ai/jobs/info/68cbf2a116d00d2beeb174d5?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Mar 11 |
 | **[Cognizant](https://www.cognizant.com)** | **[Data Collection Specialist](https://jobright.ai/jobs/info/69b12562dfaeda6ff59c1f52?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Mar 11 |
 | **[The Dermot Company, LP](http://dermotcompany.com)** | **[Analyst](https://jobright.ai/jobs/info/69b11c0c0b2db6275c062bb1?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Mar 11 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[TBI CRIMINAL INTEL ANALYST 1** - 03112026-75885](https://jobright.ai/jobs/info/69b103fb0b2db6275c05fd10?utm_campaign=Data%20Analysis&utm_source=1103)** | Davidson County, TN | On Site | Mar 10 |
@@ -72,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[HealthPartners](https://www.castalovespells.com/contact/)** | **[Analyst, Data](https://jobright.ai/jobs/info/69b0a7a57495006450975c48?utm_campaign=Data%20Analysis&utm_source=1103)** | Bloomington, MN, United States | On Site | Mar 10 |
 | **[San Francisco Campus for Jewish Living](https://sfcjl.org/)** | **[Clinical Data Analyst](https://jobright.ai/jobs/info/69b0ba0a7495006450978f9a?utm_campaign=Data%20Analysis&utm_source=1103)** | 302 Silver Ave. San Francisco, CA 94112 | On Site | Mar 10 |
 | ↳ | **[Clinical Data Analyst](https://jobright.ai/jobs/info/69b0b5387495006450977fab?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Mar 10 |
-| **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Application Analyst - Data Processing](https://jobright.ai/jobs/info/69b1048edfaeda6ff59bdfe1?utm_campaign=Data%20Analysis&utm_source=1103)** | Chino, CA, US | On Site | Mar 10 |
-| ↳ | **[Application Analyst - Data Processing](https://jobright.ai/jobs/info/69b107010b2db6275c0602e5?utm_campaign=Data%20Analysis&utm_source=1103)** | US-CA-Chino | On Site | Mar 10 |
+| **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Application Analyst - Data Processing](https://jobright.ai/jobs/info/69b107010b2db6275c0602e5?utm_campaign=Data%20Analysis&utm_source=1103)** | US-CA-Chino | On Site | Mar 10 |
+| ↳ | **[Application Analyst - Data Processing](https://jobright.ai/jobs/info/69b1048edfaeda6ff59bdfe1?utm_campaign=Data%20Analysis&utm_source=1103)** | Chino, CA, US | On Site | Mar 10 |
 | **[Amery Hospital & Clinic](https://www.amerymedicalcenter.org)** | **[Analyst, Data](https://jobright.ai/jobs/info/69b0ebc00b2db6275c05d82b?utm_campaign=Data%20Analysis&utm_source=1103)** | Bloomington, MN, United States | On Site | Mar 10 |
 | **[Caltrans](https://cdtfa.ca.gov/)** | **[ANALYST II](https://jobright.ai/jobs/info/69b099de74950064509736c7?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento County, CA | Hybrid | Mar 10 |
 | ↳ | **[ANALYST II](https://jobright.ai/jobs/info/69b099d27495006450973681?utm_campaign=Data%20Analysis&utm_source=1103)** | San Diego, CA | On Site | Mar 10 |
@@ -128,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Data Analyst](https://jobright.ai/jobs/info/69af780c749500645093f32c?utm_campaign=Data%20Analysis&utm_source=1103)** | US-MI-Troy | On Site | Mar 09 |
 | ↳ | **[Data Analyst](https://jobright.ai/jobs/info/69af7720dfaeda6ff5979771?utm_campaign=Data%20Analysis&utm_source=1103)** | Troy, MI, US | On Site | Mar 09 |
 | **[Acosta](https://www.acosta.com)** | **[Sr Category Insights Analyst (CPG)](https://jobright.ai/jobs/info/69af766f6b21de023e60a28d?utm_campaign=Data%20Analysis&utm_source=1103)** | Cincinnati, OH | Hybrid | Mar 09 |
-| ↳ | **[Sr Category Insights Analyst (CPG)](https://jobright.ai/jobs/info/69af766c6b21de023e60a284?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte, NC | Hybrid | Mar 09 |
 | ↳ | **[Sr Category Insights Analyst (CPG)](https://jobright.ai/jobs/info/69af766c749500645093efdb?utm_campaign=Data%20Analysis&utm_source=1103)** | Marlborough, MA | Hybrid | Mar 09 |
+| ↳ | **[Sr Category Insights Analyst (CPG)](https://jobright.ai/jobs/info/69af766c6b21de023e60a284?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte, NC | Hybrid | Mar 09 |
 | **[CROSSMARK](https://crossmark.com/)** | **[Sr Category Insights Analyst (CPG)](https://jobright.ai/jobs/info/69af7656dfaeda6ff5979648?utm_campaign=Data%20Analysis&utm_source=1103)** | Lewisville, TX | Hybrid | Mar 09 |
 | **[Connor, Clark & Lunn Investment Management (CC&L)](https://cclinvest.cclgroup.com)** | **[Quantitative Equity Technology, Quantitative Developer](https://jobright.ai/jobs/info/69af7182749500645093e1f8?utm_campaign=Data%20Analysis&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Mar 09 |
 | **[University of Washington](http://www.washington.edu)** | **[Clinical Outcomes Research Coordinator](https://jobright.ai/jobs/info/69af715e6b21de023e608f85?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Mar 09 |
@@ -284,11 +286,11 @@ For a complete list, click the following sortable link below:
 | **[Agrifoods International Cooperative Ltd](https://agrifoods.ca/)** | **[Category Analyst](https://jobright.ai/jobs/info/69aa35571f59c56275e30ec2?utm_campaign=Data%20Analysis&utm_source=1103)** | 700 - 4445 Lougheed Hwy, Burnaby, BC, V5C 0E4, CA | Hybrid | Mar 05 |
 | **[SAS Retail Services](https://www.sasretail.com)** | **[Retail Data Collector](https://jobright.ai/jobs/info/69b126f80b2db6275c063e24?utm_campaign=Data%20Analysis&utm_source=1103)** | Poultney, Vermont, 05741 | On Site | Mar 05 |
 | **[Leidos](https://www.leidos.com)** | **[Identity Intelligence Analyst with Security Clearance](https://jobright.ai/jobs/info/69b121e5749500645098751a?utm_campaign=Data%20Analysis&utm_source=1103)** | McLean, Virginia, 22102 | On Site | Mar 05 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Language Enabled Analyst with Security Clearance](https://jobright.ai/jobs/info/69b130860b2db6275c065131?utm_campaign=Data%20Analysis&utm_source=1103)** | Wright Patterson AFB, Ohio, 45324 | On Site | Mar 05 |
-| ↳ | **[Data Scientist, Mid with Security Clearance](https://jobright.ai/jobs/info/69b0a1d2dfaeda6ff59adca2?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, Maryland, | On Site | Mar 05 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist with Security Clearance](https://jobright.ai/jobs/info/69b11b5374950064509869f0?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, Maryland, | On Site | Mar 05 |
 | ↳ | **[Data Scientist with Security Clearance](https://jobright.ai/jobs/info/69b12f8edfaeda6ff59c369d?utm_campaign=Data%20Analysis&utm_source=1103)** | McLean, Virginia, 22030 | On Site | Mar 05 |
-| ↳ | **[Data Scientist with Security Clearance](https://jobright.ai/jobs/info/69b11b5374950064509869f0?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, Maryland, | On Site | Mar 05 |
 | ↳ | **[Data Scientist with Security Clearance](https://jobright.ai/jobs/info/69b12db374950064509890b0?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, Maryland, | On Site | Mar 05 |
+| ↳ | **[Data Scientist, Mid with Security Clearance](https://jobright.ai/jobs/info/69b0a1d2dfaeda6ff59adca2?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, Maryland, | On Site | Mar 05 |
+| ↳ | **[Language Enabled Analyst with Security Clearance](https://jobright.ai/jobs/info/69b130860b2db6275c065131?utm_campaign=Data%20Analysis&utm_source=1103)** | Wright Patterson AFB, Ohio, 45324 | On Site | Mar 05 |
 | ↳ | **[University - Data Scientist with Security Clearance](https://jobright.ai/jobs/info/69b130700b2db6275c0650d7?utm_campaign=Data%20Analysis&utm_source=1103)** | McLean, Virginia, 22030 | On Site | Mar 05 |
 | **[Ally](http://www.ally.com/)** | **[Analyst - Quant Modeling](https://jobright.ai/jobs/info/69aa16941f59c56275e2e63e?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte, NC | On Site | Mar 05 |
 | **[Telecare Corporation](http://www.telecarecorp.com)** | **[Data Analysis MRT - Mental Health 264](https://jobright.ai/jobs/info/69aa13039ca4e908ec656090?utm_campaign=Data%20Analysis&utm_source=1103)** | Shelton, WA | On Site | Mar 05 |
