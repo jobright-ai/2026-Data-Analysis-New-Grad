@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ally](http://www.ally.com/)** | **[Analyst - Data Management](https://jobright.ai/jobs/info/69b083d7749500645096eb4e?utm_campaign=Data%20Analysis&utm_source=1103)** | Lewisville, TX | Hybrid | Mar 12 |
+| **[Liaison](http://www.liaisonedu.com)** | **[Data Analyst/Curator](https://jobright.ai/jobs/info/69b30912ad360c0340a818e1?utm_campaign=Data%20Analysis&utm_source=1103)** | Hybrid - US | Hybrid | Mar 12 |
 | **[Optum](https://www.optum.com/)** | **[Patient Access Center Data Analyst I - Kelsey Seybold - Patient Access Center - Remote](https://jobright.ai/jobs/info/69b3062fae2a534885ea5149?utm_campaign=Data%20Analysis&utm_source=1103)** | Pearland, TX | Remote | Mar 12 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Analyst Data Management](https://jobright.ai/jobs/info/69b304b4ae2a534885ea4f0a?utm_campaign=Data%20Analysis&utm_source=1103)** | REMOTE- Wisconsin | Remote | Mar 12 |
 | ↳ | **[Analyst Data Management](https://jobright.ai/jobs/info/69b30474a8ac8e70ff672b16?utm_campaign=Data%20Analysis&utm_source=1103)** | REMOTE- Illinois | Remote | Mar 12 |
@@ -66,6 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Ipsos in US](http://ipsos-na.com)** | **[Research Analyst - Innovation](https://jobright.ai/jobs/info/6979865aca92cf0d6a82aeed?utm_campaign=Data%20Analysis&utm_source=1103)** | Cincinnati, OH | Hybrid | Mar 12 |
 | **[Q-Centrix](https://www.q-centrix.com/)** | **[VQI Data Abstractor: Part-Time](https://jobright.ai/jobs/info/6978080152f3c27ec6443ce2?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Mar 12 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/69b2e830ad360c0340a7f9c3?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | On Site | Mar 12 |
+| **[Waterworth](https://www.waterworth.net/)** | **[Junior Data Analyst Co-op](https://jobright.ai/jobs/info/69b30973ae2a534885ea52a7?utm_campaign=Data%20Analysis&utm_source=1103)** | Victoria, British Columbia, Canada | On Site | Mar 12 |
+| **[University of New Brunswick](http://www.unb.ca)** | **[Research Assistant](https://jobright.ai/jobs/info/69b3095aae2a534885ea5292?utm_campaign=Data%20Analysis&utm_source=1103)** | Saint John, New Brunswick, Canada | On Site | Mar 12 |
 | **[Cayuse Holdings](https://www.cayuseholdings.com/)** | **[All Source Intelligence Analyst - Journeyman](https://jobright.ai/jobs/info/69b303b9a8ac8e70ff6728d4?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | On Site | Mar 12 |
 | **[Trexquant Investment LP](http://trexquant.com/)** | **[Quantitative Researcher - Early Career (USA)](https://jobright.ai/jobs/info/695f2925a1bbea1d9a7a0a2c?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Mar 12 |
 | **[Cambridge Investment Research, Inc.](http://www.joincambridge.com)** | **[Data Integrity Specialist](https://jobright.ai/jobs/info/69794dfa88e2b47213bd8608?utm_campaign=Data%20Analysis&utm_source=1103)** | Fairfield, IA | Hybrid | Mar 12 |
@@ -239,8 +243,8 @@ For a complete list, click the following sortable link below:
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Data Analyst](https://jobright.ai/jobs/info/69af780c749500645093f32c?utm_campaign=Data%20Analysis&utm_source=1103)** | US-MI-Troy | On Site | Mar 09 |
 | ↳ | **[Data Analyst](https://jobright.ai/jobs/info/69af7720dfaeda6ff5979771?utm_campaign=Data%20Analysis&utm_source=1103)** | Troy, MI, US | On Site | Mar 09 |
 | **[Acosta](https://www.acosta.com)** | **[Sr Category Insights Analyst (CPG)](https://jobright.ai/jobs/info/69af766f6b21de023e60a28d?utm_campaign=Data%20Analysis&utm_source=1103)** | Cincinnati, OH | Hybrid | Mar 09 |
-| ↳ | **[Sr Category Insights Analyst (CPG)](https://jobright.ai/jobs/info/69af766c749500645093efdb?utm_campaign=Data%20Analysis&utm_source=1103)** | Marlborough, MA | Hybrid | Mar 09 |
 | ↳ | **[Sr Category Insights Analyst (CPG)](https://jobright.ai/jobs/info/69af766c6b21de023e60a284?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte, NC | Hybrid | Mar 09 |
+| ↳ | **[Sr Category Insights Analyst (CPG)](https://jobright.ai/jobs/info/69af766c749500645093efdb?utm_campaign=Data%20Analysis&utm_source=1103)** | Marlborough, MA | Hybrid | Mar 09 |
 | **[CROSSMARK](https://crossmark.com/)** | **[Sr Category Insights Analyst (CPG)](https://jobright.ai/jobs/info/69af7656dfaeda6ff5979648?utm_campaign=Data%20Analysis&utm_source=1103)** | Lewisville, TX | Hybrid | Mar 09 |
 | **[Connor, Clark & Lunn Investment Management (CC&L)](https://cclinvest.cclgroup.com)** | **[Quantitative Equity Technology, Quantitative Developer](https://jobright.ai/jobs/info/69af7182749500645093e1f8?utm_campaign=Data%20Analysis&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Mar 09 |
 | **[University of Washington](http://www.washington.edu)** | **[Clinical Outcomes Research Coordinator](https://jobright.ai/jobs/info/69af715e6b21de023e608f85?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Mar 09 |
@@ -361,6 +365,5 @@ For a complete list, click the following sortable link below:
 | **[Google](https://www.google.com)** | **[Scaled Abuse Analyst, YouTube](https://jobright.ai/jobs/info/69aaa7ca34184204e4493587?utm_campaign=Data%20Analysis&utm_source=1103)** | San Bruno, CA, USA | On Site | Mar 06 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Client Reporting Analyst](https://jobright.ai/jobs/info/69aaa6429ca4e908ec661ae0?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte, NC | Hybrid | Mar 06 |
 | **[Colorado State University](http://www.colostate.edu/)** | **[Research Associates I, II, III or IV - Statistics Open Pool](https://jobright.ai/jobs/info/69aae0d4142d5b4265fc3021?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Collins, CO | On Site | Mar 06 |
-| **[Corning Incorporated](https://www.corning.com/)** | **[Data Enablement Analyst](https://jobright.ai/jobs/info/69b30598ad360c0340a8176b?utm_campaign=Data%20Analysis&utm_source=1103)** | TX | On Site | Mar 05 |
 | **[Broad Institute of MIT and Harvard](http://www.broadinstitute.org)** | **[Postdoctoral Associate - Psychiatric Biomarkers Network (PBN)](https://jobright.ai/jobs/info/69a14bcf0da45516f16a875b?utm_campaign=Data%20Analysis&utm_source=1103)** | Cambridge, MA | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
