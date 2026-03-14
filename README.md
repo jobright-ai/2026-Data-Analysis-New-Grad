@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Commercial Intelligence Analyst](https://jobright.ai/jobs/info/69997b7181476f6176b23c91?utm_campaign=Data%20Analysis&utm_source=1103)** | Needham, MA | On Site | Mar 14 |
+| **[Research Foundation for Mental Hygiene, Inc.](http://corporate.rfmh.org/)** | **[Research Assistant V](https://jobright.ai/jobs/info/69b590743b74eb1e2c835b48?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Mar 14 |
 | **[StepStone Group](https://www.stepstonegroup.com)** | **[Junior Analyst - Data Processing & Governance](https://jobright.ai/jobs/info/69990590e0bddb6acac7fbea?utm_campaign=Data%20Analysis&utm_source=1103)** | La Jolla, CA | Hybrid | Mar 14 |
 | **[Coalition for Responsible Community Development](https://coalitionrcd.org)** | **[Data and Reporting Analyst](https://jobright.ai/jobs/info/6998ef22ce78e77b4fdd8088?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Mar 14 |
 | **[Lakeview Loan Servicing, LLC.](https://lakeview.com)** | **[MSR Operations Analyst](https://jobright.ai/jobs/info/69a693e1708b430a607af909?utm_campaign=Data%20Analysis&utm_source=1103)** | Coral Gables, FL | Remote | Mar 14 |
@@ -161,17 +163,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analytics Associate](https://jobright.ai/jobs/info/69b4372a569738374138d6e4?utm_campaign=Data%20Analysis&utm_source=1103)** | USA TX Houston 11750 Katy Freeway | On Site | Mar 13 |
 | ↳ | **[Data Analytics Associate](https://jobright.ai/jobs/info/69b4372a569738374138d6ea?utm_campaign=Data%20Analysis&utm_source=1103)** | USA TX Frisco | On Site | Mar 13 |
 | ↳ | **[Data Analytics Associate](https://jobright.ai/jobs/info/69b436293b74eb1e2c8152e0?utm_campaign=Data%20Analysis&utm_source=1103)** | USA FL Tampa 100 South Ashley Dr | On Site | Mar 13 |
-| ↳ | **[Data Analytics Associate](https://jobright.ai/jobs/info/69b4362806c1ba00c5456ac3?utm_campaign=Data%20Analysis&utm_source=1103)** | USA WA Seattle 1000 Second Ave | On Site | Mar 13 |
-| ↳ | **[Data Analytics Associate](https://jobright.ai/jobs/info/69b4362806c1ba00c5456ac0?utm_campaign=Data%20Analysis&utm_source=1103)** | USA WI Milwaukee | On Site | Mar 13 |
-| ↳ | **[Data Analytics Associate](https://jobright.ai/jobs/info/69b4362806c1ba00c5456ac2?utm_campaign=Data%20Analysis&utm_source=1103)** | USA OR Portland | On Site | Mar 13 |
 | ↳ | **[Data Analytics Associate](https://jobright.ai/jobs/info/69b436283b74eb1e2c8152dc?utm_campaign=Data%20Analysis&utm_source=1103)** | USA Remote | Remote | Mar 13 |
+| ↳ | **[Data Analytics Associate](https://jobright.ai/jobs/info/69b4362806c1ba00c5456ac3?utm_campaign=Data%20Analysis&utm_source=1103)** | USA WA Seattle 1000 Second Ave | On Site | Mar 13 |
+| ↳ | **[Data Analytics Associate](https://jobright.ai/jobs/info/69b4362806c1ba00c5456ac2?utm_campaign=Data%20Analysis&utm_source=1103)** | USA OR Portland | On Site | Mar 13 |
+| ↳ | **[Data Analytics Associate](https://jobright.ai/jobs/info/69b4362806c1ba00c5456ac0?utm_campaign=Data%20Analysis&utm_source=1103)** | USA WI Milwaukee | On Site | Mar 13 |
 | ↳ | **[Data Analytics Associate](https://jobright.ai/jobs/info/69b436273b74eb1e2c8152d2?utm_campaign=Data%20Analysis&utm_source=1103)** | USA IL Chicago 205 N Michigan Ave | On Site | Mar 13 |
 | **[Gravity Research](https://www.gravityresearch.com)** | **[Social Impact and Reputational Risk Analyst](https://jobright.ai/jobs/info/697bfc6d1423772304ec4c59?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | Hybrid | Mar 13 |
 | **[Guidehouse](https://guidehouse.com)** | **[Data Scientist](https://jobright.ai/jobs/info/69b42d183b74eb1e2c814513?utm_campaign=Data%20Analysis&utm_source=1103)** | US - GA, Atlanta | On Site | Mar 13 |
 | ↳ | **[Data Scientist](https://jobright.ai/jobs/info/69b42cda06c1ba00c5456403?utm_campaign=Data%20Analysis&utm_source=1103)** | US - Remote (Any location) | Remote | Mar 13 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Data Scientist - Graduate](https://jobright.ai/jobs/info/69b42cd606c1ba00c54563e4?utm_campaign=Data%20Analysis&utm_source=1103)** | USA - Boston - Massachusetts | Hybrid | Mar 13 |
-| **[Fidelity Investments](https://www.fidelity.com)** | **[Analyst, Fraud Detection and Analytics](https://jobright.ai/jobs/info/69b4406a06c1ba00c54576b1?utm_campaign=Data%20Analysis&utm_source=1103)** | Westlake, TX | Hybrid | Mar 13 |
-| ↳ | **[Analyst, Fraud Detection and Analytics](https://jobright.ai/jobs/info/69b440a1569738374138e426?utm_campaign=Data%20Analysis&utm_source=1103)** | Jersey City, NJ | Hybrid | Mar 13 |
+| **[Fidelity Investments](https://www.fidelity.com)** | **[Analyst, Fraud Detection and Analytics](https://jobright.ai/jobs/info/69b440a1569738374138e426?utm_campaign=Data%20Analysis&utm_source=1103)** | Jersey City, NJ | Hybrid | Mar 13 |
+| ↳ | **[Analyst, Fraud Detection and Analytics](https://jobright.ai/jobs/info/69b4406a06c1ba00c54576b1?utm_campaign=Data%20Analysis&utm_source=1103)** | Westlake, TX | Hybrid | Mar 13 |
 | ↳ | **[Analyst, Fraud Detection and Analytics](https://jobright.ai/jobs/info/69b440a1569738374138e427?utm_campaign=Data%20Analysis&utm_source=1103)** | Merrimack, NH | Hybrid | Mar 13 |
 | **[University of Missouri-Columbia](http://business.missouri.edu/allen-angel-capital-education-program)** | **[Research Specialist II](https://jobright.ai/jobs/info/699793b8e0bddb6acac643b8?utm_campaign=Data%20Analysis&utm_source=1103)** | Columbia, MO | On Site | Mar 13 |
 | **[MJH Life Sciences®](https://www.mjhlifesciences.com/)** | **[Data Coordinator](https://jobright.ai/jobs/info/699e56eece78e77b4fe3828c?utm_campaign=Data%20Analysis&utm_source=1103)** | Cranbury, NJ | Hybrid | Mar 13 |
@@ -371,8 +373,8 @@ For a complete list, click the following sortable link below:
 | **[San Francisco Campus for Jewish Living](https://sfcjl.org/)** | **[Clinical Data Analyst](https://jobright.ai/jobs/info/69b0ba0a7495006450978f9a?utm_campaign=Data%20Analysis&utm_source=1103)** | 302 Silver Ave. San Francisco, CA 94112 | On Site | Mar 10 |
 | **[PharmaCann Inc](http://pharmacannis.com)** | **[Cultivation Analytics Data Technician](https://jobright.ai/jobs/info/69b1f3bc548f140066e818b8?utm_campaign=Data%20Analysis&utm_source=1103)** | Lothian, MD | On Site | Mar 10 |
 | **[San Francisco Campus for Jewish Living](https://sfcjl.org/)** | **[Clinical Data Analyst](https://jobright.ai/jobs/info/69b0b5387495006450977fab?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Mar 10 |
-| **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Application Analyst - Data Processing](https://jobright.ai/jobs/info/69b1048edfaeda6ff59bdfe1?utm_campaign=Data%20Analysis&utm_source=1103)** | Chino, CA, US | On Site | Mar 10 |
-| ↳ | **[Application Analyst - Data Processing](https://jobright.ai/jobs/info/69b107010b2db6275c0602e5?utm_campaign=Data%20Analysis&utm_source=1103)** | US-CA-Chino | On Site | Mar 10 |
+| **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Application Analyst - Data Processing](https://jobright.ai/jobs/info/69b107010b2db6275c0602e5?utm_campaign=Data%20Analysis&utm_source=1103)** | US-CA-Chino | On Site | Mar 10 |
+| ↳ | **[Application Analyst - Data Processing](https://jobright.ai/jobs/info/69b1048edfaeda6ff59bdfe1?utm_campaign=Data%20Analysis&utm_source=1103)** | Chino, CA, US | On Site | Mar 10 |
 | **[Amery Hospital & Clinic](https://www.amerymedicalcenter.org)** | **[Analyst, Data](https://jobright.ai/jobs/info/69b0ebc00b2db6275c05d82b?utm_campaign=Data%20Analysis&utm_source=1103)** | Bloomington, MN, United States | On Site | Mar 10 |
 | **[Caltrans](https://cdtfa.ca.gov/)** | **[ANALYST II](https://jobright.ai/jobs/info/69b099de74950064509736c7?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento County, CA | Hybrid | Mar 10 |
 | ↳ | **[ANALYST II](https://jobright.ai/jobs/info/69b099d27495006450973681?utm_campaign=Data%20Analysis&utm_source=1103)** | San Diego, CA | On Site | Mar 10 |
@@ -387,8 +389,8 @@ For a complete list, click the following sortable link below:
 | **[University of California, San Francisco](http://www.ucsf.edu)** | **[Research Data Analyst](https://jobright.ai/jobs/info/69b07130dfaeda6ff59a4854?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | Remote | Mar 10 |
 | **[Torc Robotics](http://torc.ai)** | **[Data Scientist, I - Decision Science](https://jobright.ai/jobs/info/69b070c3749500645096ab52?utm_campaign=Data%20Analysis&utm_source=1103)** | Ann Arbor, MI | On Site | Mar 10 |
 | **[Seeq Corporation](http://seeq.com)** | **[Customer Intelligence Engineer](https://jobright.ai/jobs/info/69b04bb9dfaeda6ff599e982?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Mar 10 |
-| **[Publix Pharmacy](http://corporate.publix.com/careers/pharmacy)** | **[Consumer Insights Analyst](https://jobright.ai/jobs/info/69b081490b2db6275c04971c?utm_campaign=Data%20Analysis&utm_source=1103)** | Lakeland Florida | On Site | Mar 10 |
-| ↳ | **[Consumer Insights Analyst](https://jobright.ai/jobs/info/69b0866adfaeda6ff59a8a3e?utm_campaign=Data%20Analysis&utm_source=1103)** | 3300 Publix Corporate Parkway | On Site | Mar 10 |
+| **[Publix Pharmacy](http://corporate.publix.com/careers/pharmacy)** | **[Consumer Insights Analyst](https://jobright.ai/jobs/info/69b0866adfaeda6ff59a8a3e?utm_campaign=Data%20Analysis&utm_source=1103)** | 3300 Publix Corporate Parkway | On Site | Mar 10 |
+| ↳ | **[Consumer Insights Analyst](https://jobright.ai/jobs/info/69b081490b2db6275c04971c?utm_campaign=Data%20Analysis&utm_source=1103)** | Lakeland Florida | On Site | Mar 10 |
 | **[Torc Robotics](http://torc.ai)** | **[Data Scientist, I - Decision Science](https://jobright.ai/jobs/info/69b0556d0b2db6275c040c69?utm_campaign=Data%20Analysis&utm_source=1103)** | Ann Arbor, MI | On Site | Mar 10 |
 | **[University of Maryland Medical System](http://www.umms.org)** | **[Data Coordinator](https://jobright.ai/jobs/info/69b0ac5f0b2db6275c050cd2?utm_campaign=Data%20Analysis&utm_source=1103)** | Baltimore, MD | Hybrid | Mar 10 |
 | **[C2Q Health Solutions](https://www.c2qhealthsolutions.com)** | **[SHARED SERVICES DATA QUALITY ANALYST](https://jobright.ai/jobs/info/69b076a5dfaeda6ff59a548b?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | On Site | Mar 10 |
@@ -419,8 +421,8 @@ For a complete list, click the following sortable link below:
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Data Analyst](https://jobright.ai/jobs/info/69af780c749500645093f32c?utm_campaign=Data%20Analysis&utm_source=1103)** | US-MI-Troy | On Site | Mar 09 |
 | ↳ | **[Data Analyst](https://jobright.ai/jobs/info/69af7720dfaeda6ff5979771?utm_campaign=Data%20Analysis&utm_source=1103)** | Troy, MI, US | On Site | Mar 09 |
 | **[Acosta](https://www.acosta.com)** | **[Sr Category Insights Analyst (CPG)](https://jobright.ai/jobs/info/69af766f6b21de023e60a28d?utm_campaign=Data%20Analysis&utm_source=1103)** | Cincinnati, OH | Hybrid | Mar 09 |
-| ↳ | **[Sr Category Insights Analyst (CPG)](https://jobright.ai/jobs/info/69af766c6b21de023e60a284?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte, NC | Hybrid | Mar 09 |
 | ↳ | **[Sr Category Insights Analyst (CPG)](https://jobright.ai/jobs/info/69af766c749500645093efdb?utm_campaign=Data%20Analysis&utm_source=1103)** | Marlborough, MA | Hybrid | Mar 09 |
+| ↳ | **[Sr Category Insights Analyst (CPG)](https://jobright.ai/jobs/info/69af766c6b21de023e60a284?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte, NC | Hybrid | Mar 09 |
 | **[Connor, Clark & Lunn Investment Management (CC&L)](https://cclinvest.cclgroup.com)** | **[Quantitative Equity Technology, Quantitative Developer](https://jobright.ai/jobs/info/69af7182749500645093e1f8?utm_campaign=Data%20Analysis&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Mar 09 |
 | **[University of Washington](http://www.washington.edu)** | **[Clinical Outcomes Research Coordinator](https://jobright.ai/jobs/info/69af715e6b21de023e608f85?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Mar 09 |
 | **[Connor, Clark & Lunn Investment Management (CC&L)](https://cclinvest.cclgroup.com)** | **[Quantitative Equity Analyst – Data Science](https://jobright.ai/jobs/info/69af6f9edfaeda6ff5977e3f?utm_campaign=Data%20Analysis&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Mar 09 |
