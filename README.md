@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[ALY.HER-Clinical Research Fellow](https://jobright.ai/jobs/info/69b9e9b956973837413f7030?utm_campaign=Data%20Analysis&utm_source=1103)** | 60 Blossom Street Boston (Wellman-Thier Building) | On Site | Mar 17 |
+| ↳ | **[ASH-Clinical Research Fellow](https://jobright.ai/jobs/info/69b9e9b556973837413f7017?utm_campaign=Data%20Analysis&utm_source=1103)** | 60 Blossom Street Boston (Wellman-Thier Building) | On Site | Mar 17 |
 | **[ICF](https://www.icf.com)** | **[Data & Reporting Analyst – Business Systems (Reston, VA Hybrid role)](https://jobright.ai/jobs/info/69b9d6b356973837413f691e?utm_campaign=Data%20Analysis&utm_source=1103)** | Reston, VA | Hybrid | Mar 17 |
 | **[Monument Health](https://monument.health/)** | **[Enterprise Intelligence Analyst](https://jobright.ai/jobs/info/69b9ca1956973837413f5444?utm_campaign=Data%20Analysis&utm_source=1103)** | Rapid City, SD USA | On Site | Mar 17 |
 | **[Instrumental Inc.](http://www.instrumental.com)** | **[Data Quality Specialist](https://jobright.ai/jobs/info/69a8d6597ac93962b708aff6?utm_campaign=Data%20Analysis&utm_source=1103)** | Palo Alto, CA | Remote | Mar 17 |
 | **[ServiceTitan](http://www.servicetitan.com)** | **[Data Quality Analyst](https://jobright.ai/jobs/info/69b9bd4356973837413f4c3d?utm_campaign=Data%20Analysis&utm_source=1103)** | US Remote | Remote | Mar 17 |
 | **[Vail Health](https://www.vailhealth.org)** | **[Clinical Informaticitst](https://jobright.ai/jobs/info/69b9bca456973837413f4a63?utm_campaign=Data%20Analysis&utm_source=1103)** | Edwards, Colorado, United States | Hybrid | Mar 17 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Analyst, Analytics](https://jobright.ai/jobs/info/69b9d06e56973837413f5eec?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY, US | On Site | Mar 17 |
-| ↳ | **[Analyst, Analytics](https://jobright.ai/jobs/info/69b9d07306c1ba00c54becde?utm_campaign=Data%20Analysis&utm_source=1103)** | US-NY-New York | On Site | Mar 17 |
-| **[Texas Department of Family and Protective Services](https://www.dfps.texas.gov)** | **[Tableau Developer](https://jobright.ai/jobs/info/69b9afa63b74eb1e2c87929c?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX | Hybrid | Mar 17 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Analyst, Analytics](https://jobright.ai/jobs/info/69b9d07306c1ba00c54becde?utm_campaign=Data%20Analysis&utm_source=1103)** | US-NY-New York | On Site | Mar 17 |
+| ↳ | **[Analyst, Analytics](https://jobright.ai/jobs/info/69b9d06e56973837413f5eec?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY, US | On Site | Mar 17 |
 | **[Salute](https://salute.com/)** | **[Data Analyst (Remote)](https://jobright.ai/jobs/info/69b9acc33b74eb1e2c878c33?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX. , Austin, TX, US | Remote | Mar 17 |
 | **[Salute EMEA](http://www.keysource.co.uk/)** | **[Data Analyst (Remote)](https://jobright.ai/jobs/info/69b9acb456973837413f20c7?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL. , Chicago, IL, US | Remote | Mar 17 |
 | **[Salute](https://salute.com/)** | **[Data Analyst (Remote)](https://jobright.ai/jobs/info/69b9acb456973837413f20c8?utm_campaign=Data%20Analysis&utm_source=1103)** | Dallas, TX. , Dallas, TX, US | Remote | Mar 17 |
@@ -74,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Clinical Research Data Specialist I - per diem,  Heart Institute](https://jobright.ai/jobs/info/69b9ac963b74eb1e2c878be2?utm_campaign=Data%20Analysis&utm_source=1103)** | 127 S San Vicente Blvd, Los Angeles, CA, 90048, US | On Site | Mar 17 |
 | ↳ | **[Clinical Research Data Specialist I, Per diem -Heart Institute](https://jobright.ai/jobs/info/69b9ac8456973837413f2074?utm_campaign=Data%20Analysis&utm_source=1103)** | 127 S San Vicente Blvd, Los Angeles, CA, 90048, US | On Site | Mar 17 |
 | **[Solenis](http://solenis.com/)** | **[Junior Business Analyst – Power BI](https://jobright.ai/jobs/info/69b9ab4406c1ba00c54babc0?utm_campaign=Data%20Analysis&utm_source=1103)** | Wilmington, Delaware, United States of America | On Site | Mar 17 |
+| **[Texas Department of Family and Protective Services](https://www.dfps.texas.gov)** | **[Tableau Developer](https://jobright.ai/jobs/info/69b9afa63b74eb1e2c87929c?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX | Hybrid | Mar 17 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Analytics Practitioner](https://jobright.ai/jobs/info/69b99ce056973837413f16aa?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | On Site | Mar 17 |
 | **[JD Power](http://JDPower.com)** | **[Auto Benchmarking Analyst](https://jobright.ai/jobs/info/69b999c556973837413f1286?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote Canada | Remote | Mar 17 |
 | ↳ | **[Auto Benchmarking Analyst](https://jobright.ai/jobs/info/69b999b33b74eb1e2c878000?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote USA | Remote | Mar 17 |
@@ -135,8 +137,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sports Data Collector (Football) - Fredrikstad, Norway](https://jobright.ai/jobs/info/69b831a656973837413d5c87?utm_campaign=Data%20Analysis&utm_source=1103)** | Storthoaks 31, Saskatchewan, Canada | On Site | Mar 16 |
 | ↳ | **[Sports Data Collector (Football) - Haugesund, Norway](https://jobright.ai/jobs/info/69b8319c56973837413d5c7e?utm_campaign=Data%20Analysis&utm_source=1103)** | Division No. 11, Saskatchewan, Canada | On Site | Mar 16 |
 | ↳ | **[Sports Data Collector (Football) - Egersund, Norway](https://jobright.ai/jobs/info/69b8319456973837413d5c51?utm_campaign=Data%20Analysis&utm_source=1103)** | Division No. 11, Saskatchewan, Canada | On Site | Mar 16 |
-| ↳ | **[Sports Data Collector (Ice Hockey) - Grand Rapids, Michigan, USA](https://jobright.ai/jobs/info/69b82f9706c1ba00c549f4cb?utm_campaign=Data%20Analysis&utm_source=1103)** | Grand Rapids, MI | On Site | Mar 16 |
 | ↳ | **[Sports Data Collector (Football) - Ayotlán, México](https://jobright.ai/jobs/info/69b82f9706c1ba00c549f4ce?utm_campaign=Data%20Analysis&utm_source=1103)** | Jal, NM | On Site | Mar 16 |
+| ↳ | **[Sports Data Collector (Ice Hockey) - Grand Rapids, Michigan, USA](https://jobright.ai/jobs/info/69b82f9706c1ba00c549f4cb?utm_campaign=Data%20Analysis&utm_source=1103)** | Grand Rapids, MI | On Site | Mar 16 |
 | ↳ | **[Sports Data Collector (Football) - Mahé, Seychelles](https://jobright.ai/jobs/info/69b82f9606c1ba00c549f4ca?utm_campaign=Data%20Analysis&utm_source=1103)** | Greenville County, SC | On Site | Mar 16 |
 | ↳ | **[Sports Data Collector (Football) - Penonomé, Panamá](https://jobright.ai/jobs/info/69b82f9606c1ba00c549f4c9?utm_campaign=Data%20Analysis&utm_source=1103)** | District 2, WV | On Site | Mar 16 |
 | ↳ | **[Sports Data Collector (Ice Hockey) - Milwaukee, Wisconsin, USA](https://jobright.ai/jobs/info/69b82f8406c1ba00c549f4a7?utm_campaign=Data%20Analysis&utm_source=1103)** | Milwaukee, WI | On Site | Mar 16 |
@@ -145,8 +147,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sports Data Collector (Volleyball) - Atlanta, Georgia, USA](https://jobright.ai/jobs/info/69b82e863b74eb1e2c85d053?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | On Site | Mar 16 |
 | ↳ | **[Sports Data Collector (Ice Hockey) - Rochester, New York, USA](https://jobright.ai/jobs/info/69b82e783b74eb1e2c85d03e?utm_campaign=Data%20Analysis&utm_source=1103)** | Rochester, NY | On Site | Mar 16 |
 | ↳ | **[Sports Data Collector (Volleyball) - Omaha, Nebraska, USA](https://jobright.ai/jobs/info/69b82e783b74eb1e2c85d03c?utm_campaign=Data%20Analysis&utm_source=1103)** | Omaha, NE | On Site | Mar 16 |
-| ↳ | **[Sports Data Collector (Football) - Beer Sheva, Israel](https://jobright.ai/jobs/info/69b82e773b74eb1e2c85d038?utm_campaign=Data%20Analysis&utm_source=1103)** | Cook County, IL | On Site | Mar 16 |
 | ↳ | **[Sports Data Collector (Football) - Honiara, Solomon Islands](https://jobright.ai/jobs/info/69b82e773b74eb1e2c85d039?utm_campaign=Data%20Analysis&utm_source=1103)** | Fairfield County, CT | On Site | Mar 16 |
+| ↳ | **[Sports Data Collector (Football) - Beer Sheva, Israel](https://jobright.ai/jobs/info/69b82e773b74eb1e2c85d038?utm_campaign=Data%20Analysis&utm_source=1103)** | Cook County, IL | On Site | Mar 16 |
 | **[ISG](http://isgvalue.com/)** | **[Social Intelligence Investigator (26758)](https://jobright.ai/jobs/info/69b82ce806c1ba00c549f3b5?utm_campaign=Data%20Analysis&utm_source=1103)** | Danvers, MA 01923 | Remote | Mar 16 |
 | **[VIVIO, a Public Benefit Corporation](http://viviohealth.com)** | **[Data Analyst (Healthcare Data Analytics)](https://jobright.ai/jobs/info/69b82ccb3b74eb1e2c85d003?utm_campaign=Data%20Analysis&utm_source=1103)** | Hayward, CA | Hybrid | Mar 16 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[Predictive Modeler](https://jobright.ai/jobs/info/69b8423856973837413d6bcc?utm_campaign=Data%20Analysis&utm_source=1103)** | USA | Hybrid | Mar 16 |
@@ -360,6 +362,7 @@ For a complete list, click the following sortable link below:
 | **[Spin Master](https://www.spinmaster.com)** | **[Research Specialist](https://jobright.ai/jobs/info/6994fad781476f6176acd496?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Mar 11 |
 | **[Axon](https://www.axon.com)** | **[Research Analyst, Revenue Intelligence](https://jobright.ai/jobs/info/69b1b2cd548f140066e77c41?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | On Site | Mar 11 |
 | ↳ | **[Research Analyst, Revenue Intelligence](https://jobright.ai/jobs/info/69b1b2a6d04c69566c73f622?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Mar 11 |
+| **[VARITE INC](http://www.varite.com)** | **[Data Quality Assurance](https://jobright.ai/jobs/info/69b9ecfe06c1ba00c54c061c?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA | Remote | Mar 11 |
 | **[Ipsos in US](http://ipsos-na.com)** | **[Research Analyst, Innovation](https://jobright.ai/jobs/info/695c4983f1f8465b79f25d53?utm_campaign=Data%20Analysis&utm_source=1103)** | Cincinnati, OH | Hybrid | Mar 11 |
 | **[Westat](https://www.westat.com)** | **[NOPUS 2.0 – Data Collector](https://jobright.ai/jobs/info/69b1cade65de58104c70dfd8?utm_campaign=Data%20Analysis&utm_source=1103)** | IN -  Evansville | On Site | Mar 11 |
 | **[United Airlines](https://www.united.com)** | **[Data Scientist - Operations Research](https://jobright.ai/jobs/info/6995173981476f6176acf4a2?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Mar 11 |
