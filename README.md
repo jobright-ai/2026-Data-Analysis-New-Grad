@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dudek](http://www.dudek.com)** | **[Temporary Project Data Analyst](https://jobright.ai/jobs/info/69d07c060b098b7a67079fdc?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 03 |
+| ↳ | **[Temporary Project Data Analyst](https://jobright.ai/jobs/info/69d07baecfdc6132f943bec3?utm_campaign=Data%20Analysis&utm_source=1103)** | US-Remote | Remote | Apr 03 |
+| **[Escalent](https://escalent.co/)** | **[Insights Analyst, Energy](https://jobright.ai/jobs/info/69bd776fb106024562826311?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 03 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Analyst](https://jobright.ai/jobs/info/69d075c8cfdc6132f943b766?utm_campaign=Data%20Analysis&utm_source=1103)** | Beavercreek, OH | Remote | Apr 03 |
+| **[Zachary Piper Solutions](http://zacharypiper.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/69d0700754f00230c6d11e91?utm_campaign=Data%20Analysis&utm_source=1103)** | Tampa, FL | On Site | Apr 03 |
 | **[SAFCO](http://www.gosafco.com)** | **[Data and Strategy Analyst](https://jobright.ai/jobs/info/69d064fa891d7b11cfcdb1eb?utm_campaign=Data%20Analysis&utm_source=1103)** | Pompano Beach, FL | On Site | Apr 03 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Research Associate, Regional and Community Analysis](https://jobright.ai/jobs/info/69d05e15891d7b11cfcdac89?utm_campaign=Data%20Analysis&utm_source=1103)** | Richmond, VA | On Site | Apr 03 |
 | **[Hawk-Eye Innovations](https://www.hawkeyeinnovations.com/)** | **[Data Processing Assistant - KinaTrax, Baseball Tech](https://jobright.ai/jobs/info/69d04c4ccfdc6132f943a61c?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | On Site | Apr 03 |
@@ -253,7 +258,6 @@ For a complete list, click the following sortable link below:
 | **[State Street](https://www.statestreet.com/)** | **[Quantitative Analysis, Officer](https://jobright.ai/jobs/info/69c2c59bec22f8310ab0ac5b?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | On Site | Apr 01 |
 | **[ASCAP](http://www.ascap.com/)** | **[Multi-Territory Analyst](https://jobright.ai/jobs/info/69cd9858366bb95ba5500be5?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Apr 01 |
 | **[Aquatic Capital Management](https://aquatic.com)** | **[Quantitative Researcher, Early Career](https://jobright.ai/jobs/info/69cd81f4cdb525785fb89761?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, New York | On Site | Apr 01 |
-| **[Escalent](https://escalent.co/)** | **[Insights Analyst, Energy](https://jobright.ai/jobs/info/69bd776fb106024562826311?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 01 |
 | **[Rockwood Company, LLC](https://www.rockwoodcompany.com/)** | **[Data Analyst](https://jobright.ai/jobs/info/69cd7a26891d7b11cfcb9308?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | On Site | Apr 01 |
 | **[Axle](https://axleinfo.com/)** | **[Research Analyst](https://jobright.ai/jobs/info/69cd7995366bb95ba54fc3b5?utm_campaign=Data%20Analysis&utm_source=1103)** | Bethesda, MD | On Site | Apr 01 |
 | **[Zachary Piper Solutions](http://zacharypiper.com/)** | **[Data Scientist – Air Force Special Operations Command](https://jobright.ai/jobs/info/69cd798f366bb95ba54fc3a9?utm_campaign=Data%20Analysis&utm_source=1103)** | Tampa, FL | On Site | Apr 01 |
@@ -413,6 +417,4 @@ For a complete list, click the following sortable link below:
 | **[DoorDash](http://www.doordash.com)** | **[Associate, Customer Experience- Data & Strategy](https://jobright.ai/jobs/info/69c06ddb79e36d3a847cc37a?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Mar 28 |
 | ↳ | **[Associate, Customer Experience- Data & Strategy](https://jobright.ai/jobs/info/69bf2a95482822729301cb04?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Mar 28 |
 | ↳ | **[Associate, Customer Experience- Data & Strategy](https://jobright.ai/jobs/info/69c01cde79e36d3a847c918b?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Mar 28 |
-| **[Dana-Farber Cancer Institute](http://www.dana-farber.org)** | **[Research Assistant - Population Science](https://jobright.ai/jobs/info/69ab3a612747003c3d50e7d0?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | On Site | Mar 28 |
-| **[The Voleon Group](http://voleon.com/)** | **[Data Scientist (USA-Remote)](https://jobright.ai/jobs/info/68cda841e23def7af55bd98b?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
