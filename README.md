@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAFCO](http://www.gosafco.com)** | **[Data and Strategy Analyst](https://jobright.ai/jobs/info/69d11405366bb95ba55247ad?utm_campaign=Data%20Analysis&utm_source=1103)** | Pompano Beach, FL | On Site | Apr 04 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Early Career Project Controls Data Analyst](https://jobright.ai/jobs/info/69b45b8e06c1ba00c545b121?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte, NC | On Site | Apr 04 |
+| **[Connor, Clark & Lunn Investment Management (CC&L)](https://cclinvest.cclgroup.com)** | **[Quantitative Researcher, Fixed Income](https://jobright.ai/jobs/info/697c642c727747250d571247?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, ON | Hybrid | Apr 04 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Data Analyst](https://jobright.ai/jobs/info/69d10de8366bb95ba5524680?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 04 |
 | **[Kilpatrick Townsend & Stockton LLP](https://ktslaw.com/)** | **[Internet Analyst](https://jobright.ai/jobs/info/69b46cee06c1ba00c545db49?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | Hybrid | Apr 04 |
 | ↳ | **[Internet Analyst](https://jobright.ai/jobs/info/69b46d493b74eb1e2c81b429?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | Hybrid | Apr 04 |
 | **[Cambridge Savings Bank](http://www.cambridgesavings.com)** | **[Associate SQL Business Analyst](https://jobright.ai/jobs/info/696b156c350cf43803125a89?utm_campaign=Data%20Analysis&utm_source=1103)** | Waltham, MA | Hybrid | Apr 04 |
@@ -191,8 +195,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Privacy Analyst](https://jobright.ai/jobs/info/69cec842398fb071abf88fcd?utm_campaign=Data%20Analysis&utm_source=1103)** | Raleigh, NC | On Site | Apr 02 |
 | **[The Henry M. Jackson Foundation for the Advancement of Military Medicine](https://www.hjf.org/)** | **[Clinical Research Assistant I - CSTS](https://jobright.ai/jobs/info/69cec56ccfdc6132f942c3ad?utm_campaign=Data%20Analysis&utm_source=1103)** | Bethesda, MD | On Site | Apr 02 |
 | **[Tufts University](http://hnrca.tufts.edu)** | **[Data Analyst - Career Services](https://jobright.ai/jobs/info/69c31cca94007a2195df596a?utm_campaign=Data%20Analysis&utm_source=1103)** | Medford, MA | Hybrid | Apr 02 |
-| **[Charles Schwab](https://www.schwab.com/)** | **[Anti Money Laundering, Data Quality Senior Specialist](https://jobright.ai/jobs/info/69cec3e7891d7b11cfccc63b?utm_campaign=Data%20Analysis&utm_source=1103)** | US-FL-Orlando | Hybrid | Apr 02 |
-| ↳ | **[Anti Money Laundering, Data Quality Senior Specialist](https://jobright.ai/jobs/info/69cec3e7891d7b11cfccc63d?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX, US | Hybrid | Apr 02 |
+| **[Charles Schwab](https://www.schwab.com/)** | **[Anti Money Laundering, Data Quality Senior Specialist](https://jobright.ai/jobs/info/69cec3e7891d7b11cfccc63d?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX, US | Hybrid | Apr 02 |
+| ↳ | **[Anti Money Laundering, Data Quality Senior Specialist](https://jobright.ai/jobs/info/69cec3e7891d7b11cfccc63b?utm_campaign=Data%20Analysis&utm_source=1103)** | US-FL-Orlando | Hybrid | Apr 02 |
 | ↳ | **[Anti Money Laundering, Data Quality Senior Specialist](https://jobright.ai/jobs/info/69cec3bd54f00230c6d02ee0?utm_campaign=Data%20Analysis&utm_source=1103)** | Southlake, TX, US | Hybrid | Apr 02 |
 | ↳ | **[Anti Money Laundering, Data Quality Senior Specialist](https://jobright.ai/jobs/info/69cec3b4366bb95ba550f35c?utm_campaign=Data%20Analysis&utm_source=1103)** | US-TX-Austin | Hybrid | Apr 02 |
 | **[Sun River Health](https://www.sunriver.org)** | **[Genesis Data Specialist](https://jobright.ai/jobs/info/69cec392891d7b11cfccc497?utm_campaign=Data%20Analysis&utm_source=1103)** | NY, United States | On Site | Apr 02 |
