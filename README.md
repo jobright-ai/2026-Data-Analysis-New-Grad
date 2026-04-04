@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WDC Kitchen & Bath](http://wdcappliances.com)** | **[Data Analyst - Luxury Retailer](https://jobright.ai/jobs/info/69d0cac4cdb525785fbaea35?utm_campaign=Data%20Analysis&utm_source=1103)** | Moorpark, CA | On Site | Apr 04 |
 | **[Future Standard](https://www.futurestandard.com)** | **[Associate, Quantitative Engineer](https://jobright.ai/jobs/info/69d0aef254f00230c6d14970?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, New York, United States | On Site | Apr 03 |
 | **[Capital One](http://www.capitalone.com)** | **[Core Ops Data Integrity Reviewer (QC)](https://jobright.ai/jobs/info/69d0ab04891d7b11cfcddc99?utm_campaign=Data%20Analysis&utm_source=1103)** | Richmond, VA | Hybrid | Apr 03 |
 | **[Dudek](http://www.dudek.com)** | **[Temporary Project Data Analyst](https://jobright.ai/jobs/info/69d0ab00891d7b11cfcddc8d?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 03 |
@@ -319,8 +320,8 @@ For a complete list, click the following sortable link below:
 | **[CAMH](https://www.camh.ca)** | **[Research Analyst - Sexual Behaviours Clinic](https://jobright.ai/jobs/info/69c7195ab773006330b75de3?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, ON | On Site | Mar 31 |
 | **[Rochester Regional Health](https://www.rochesterregional.org)** | **[Research Assistant](https://jobright.ai/jobs/info/69cc28658130af1ac8336dde?utm_campaign=Data%20Analysis&utm_source=1103)** | Rochester General Hospital (RGH) | On Site | Mar 31 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Analyst, Data Governance](https://jobright.ai/jobs/info/69cc27b7e1921223acc74435?utm_campaign=Data%20Analysis&utm_source=1103)** | Oakville, ON | On Site | Mar 31 |
-| **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Finance Data Operations & Business Intelligence Analyst  - SLC Management](https://jobright.ai/jobs/info/69cc0dc8366bb95ba54ed500?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario | Hybrid | Mar 31 |
-| ↳ | **[Finance Data Operations & Business Intelligence Analyst  - SLC Management](https://jobright.ai/jobs/info/69cc0dc8366bb95ba54ed511?utm_campaign=Data%20Analysis&utm_source=1103)** | Sun Life Waterloo King | Hybrid | Mar 31 |
+| **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Finance Data Operations & Business Intelligence Analyst  - SLC Management](https://jobright.ai/jobs/info/69cc0dc8366bb95ba54ed511?utm_campaign=Data%20Analysis&utm_source=1103)** | Sun Life Waterloo King | Hybrid | Mar 31 |
+| ↳ | **[Finance Data Operations & Business Intelligence Analyst  - SLC Management](https://jobright.ai/jobs/info/69cc0dc8366bb95ba54ed500?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario | Hybrid | Mar 31 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Oncology Data Specialist](https://jobright.ai/jobs/info/69af265c6b21de023e604c88?utm_campaign=Data%20Analysis&utm_source=1103)** | Silver Spring, MD | On Site | Mar 31 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Business Intelligence Engineer, AWS Support S&O - ESSO - Strategy, Planning & Inspection (SPI)](https://jobright.ai/jobs/info/69cc2f028130af1ac8336fb1?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Mar 31 |
 | **[Martin Retail Group](http://martinretail.com)** | **[Data Analyst](https://jobright.ai/jobs/info/69c0c4142c312363dcd332ba?utm_campaign=Data%20Analysis&utm_source=1103)** | Troy, MI | Hybrid | Mar 31 |
@@ -403,7 +404,6 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Data Scientist - Portfolio Optimization](https://jobright.ai/jobs/info/69c8b782aa3c2c1995e20122?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Mar 28 |
 | **[Petco](https://www.petco.com/unleashed)** | **[Data Analyst](https://jobright.ai/jobs/info/69c8a0e6aa3c2c1995e1fa75?utm_campaign=Data%20Analysis&utm_source=1103)** | San Diego, CA | On Site | Mar 28 |
 | **[LawDepot](https://www.lawdepot.com)** | **[Data Scientist](https://jobright.ai/jobs/info/69c871bcaa3c2c1995e1e9c6?utm_campaign=Data%20Analysis&utm_source=1103)** | Edmonton, AB | Hybrid | Mar 28 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist](https://jobright.ai/jobs/info/69d0b347cdb525785fbad452?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, Maryland, | On Site | Mar 28 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist](https://jobright.ai/jobs/info/69d0cebfcdb525785fbaeaf8?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, Maryland, | On Site | Mar 28 |
 | **[Q-Centrix](https://www.q-centrix.com/)** | **[LAAO/TVT Data Abstractor](https://jobright.ai/jobs/info/69c814b783ea553769fe8552?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Remote | Mar 28 |
-| **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Biostatistician (Senior Associate)](https://jobright.ai/jobs/info/69965d07e0bddb6acac4ce29?utm_campaign=Data%20Analysis&utm_source=1103)** | Pasadena, California, United States | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
