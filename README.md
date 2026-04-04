@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Future Standard](https://www.futurestandard.com)** | **[Associate, Quantitative Engineer](https://jobright.ai/jobs/info/69d0aef254f00230c6d14970?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, New York, United States | On Site | Apr 03 |
+| **[Capital One](http://www.capitalone.com)** | **[Core Ops Data Integrity Reviewer (QC)](https://jobright.ai/jobs/info/69d0ab04891d7b11cfcddc99?utm_campaign=Data%20Analysis&utm_source=1103)** | Richmond, VA | Hybrid | Apr 03 |
+| **[Dudek](http://www.dudek.com)** | **[Temporary Project Data Analyst](https://jobright.ai/jobs/info/69d0ab00891d7b11cfcddc8d?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 03 |
+| **[Stellar Management](http://stellarmanagement.com)** | **[Yardi & Technical Systems Analyst](https://jobright.ai/jobs/info/69c190d279e36d3a847e6f3f?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Apr 03 |
 | **[Aquatic Capital Management](https://aquatic.com)** | **[Quantitative Researcher, Early Career](https://jobright.ai/jobs/info/69cd81f4cdb525785fb89761?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, New York | On Site | Apr 03 |
 | **[Memorial Sloan Kettering Cancer Center](http://www.mskcc.org)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/69d08365366bb95ba551f1fc?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Apr 03 |
 | **[Dudek](http://www.dudek.com)** | **[Temporary Project Data Analyst](https://jobright.ai/jobs/info/69d07c94891d7b11cfcdc036?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote, UNAVAILABLE, US | Remote | Apr 03 |
@@ -179,8 +183,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Privacy Analyst](https://jobright.ai/jobs/info/69cec842398fb071abf88fcd?utm_campaign=Data%20Analysis&utm_source=1103)** | Raleigh, NC | On Site | Apr 02 |
 | **[The Henry M. Jackson Foundation for the Advancement of Military Medicine](https://www.hjf.org/)** | **[Clinical Research Assistant I - CSTS](https://jobright.ai/jobs/info/69cec56ccfdc6132f942c3ad?utm_campaign=Data%20Analysis&utm_source=1103)** | Bethesda, MD | On Site | Apr 02 |
 | **[Tufts University](http://hnrca.tufts.edu)** | **[Data Analyst - Career Services](https://jobright.ai/jobs/info/69c31cca94007a2195df596a?utm_campaign=Data%20Analysis&utm_source=1103)** | Medford, MA | Hybrid | Apr 02 |
-| **[Charles Schwab](https://www.schwab.com/)** | **[Anti Money Laundering, Data Quality Senior Specialist](https://jobright.ai/jobs/info/69cec3e7891d7b11cfccc63d?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX, US | Hybrid | Apr 02 |
-| ↳ | **[Anti Money Laundering, Data Quality Senior Specialist](https://jobright.ai/jobs/info/69cec3e7891d7b11cfccc63b?utm_campaign=Data%20Analysis&utm_source=1103)** | US-FL-Orlando | Hybrid | Apr 02 |
+| **[Charles Schwab](https://www.schwab.com/)** | **[Anti Money Laundering, Data Quality Senior Specialist](https://jobright.ai/jobs/info/69cec3e7891d7b11cfccc63b?utm_campaign=Data%20Analysis&utm_source=1103)** | US-FL-Orlando | Hybrid | Apr 02 |
+| ↳ | **[Anti Money Laundering, Data Quality Senior Specialist](https://jobright.ai/jobs/info/69cec3e7891d7b11cfccc63d?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX, US | Hybrid | Apr 02 |
 | ↳ | **[Anti Money Laundering, Data Quality Senior Specialist](https://jobright.ai/jobs/info/69cec3bd54f00230c6d02ee0?utm_campaign=Data%20Analysis&utm_source=1103)** | Southlake, TX, US | Hybrid | Apr 02 |
 | ↳ | **[Anti Money Laundering, Data Quality Senior Specialist](https://jobright.ai/jobs/info/69cec3b4366bb95ba550f35c?utm_campaign=Data%20Analysis&utm_source=1103)** | US-TX-Austin | Hybrid | Apr 02 |
 | **[Sun River Health](https://www.sunriver.org)** | **[Genesis Data Specialist](https://jobright.ai/jobs/info/69cec392891d7b11cfccc497?utm_campaign=Data%20Analysis&utm_source=1103)** | NY, United States | On Site | Apr 02 |
@@ -307,8 +311,8 @@ For a complete list, click the following sortable link below:
 | **[TD Securities](https://www.tdsecurities.com)** | **[Business Insights Analyst I (US)](https://jobright.ai/jobs/info/69cc6530891d7b11cfcac228?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte, NC | On Site | Mar 31 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Insights Analyst (ROPS Reporting Analyst)](https://jobright.ai/jobs/info/69cc42f0e1921223acc74e4d?utm_campaign=Data%20Analysis&utm_source=1103)** | 09507 - Colorado Remote | Remote | Mar 31 |
 | **[UCSF Health](https://www.ucsfhealth.org)** | **[Data Analyst](https://jobright.ai/jobs/info/69cd97c4891d7b11cfcbdd63?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | Hybrid | Mar 31 |
-| **[SLC Management](https://www.slcmanagement.com/)** | **[Finance Data Operations & Business Intelligence Analyst - SLC Management](https://jobright.ai/jobs/info/69cc89bae1921223acc791bd?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, ON | Hybrid | Mar 31 |
-| ↳ | **[Finance Data Operations & Business Intelligence Analyst - SLC Management](https://jobright.ai/jobs/info/69cc89bd366bb95ba54f298e?utm_campaign=Data%20Analysis&utm_source=1103)** | Kitchener, Ontario, Canada | Hybrid | Mar 31 |
+| **[SLC Management](https://www.slcmanagement.com/)** | **[Finance Data Operations & Business Intelligence Analyst - SLC Management](https://jobright.ai/jobs/info/69cc89bd366bb95ba54f298e?utm_campaign=Data%20Analysis&utm_source=1103)** | Kitchener, Ontario, Canada | Hybrid | Mar 31 |
+| ↳ | **[Finance Data Operations & Business Intelligence Analyst - SLC Management](https://jobright.ai/jobs/info/69cc89bae1921223acc791bd?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, ON | Hybrid | Mar 31 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Data Analyst - IT](https://jobright.ai/jobs/info/69cc3a3b366bb95ba54ee458?utm_campaign=Data%20Analysis&utm_source=1103)** | Pineville, LA | On Site | Mar 31 |
 | **[Montclair State University](http://www.montclair.edu/)** | **[Research Assistant](https://jobright.ai/jobs/info/69cc32e0cdb525785fb7a0f9?utm_campaign=Data%20Analysis&utm_source=1103)** | Montclair, NJ | Hybrid | Mar 31 |
 | **[Exiger](http://www.exiger.com)** | **[Associate, Research & Delivery (Kurdish - Sorani Speaking)](https://jobright.ai/jobs/info/69cc2f948130af1ac8337002?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Mar 31 |
@@ -404,6 +408,4 @@ For a complete list, click the following sortable link below:
 | **[LawDepot](https://www.lawdepot.com)** | **[Data Scientist](https://jobright.ai/jobs/info/69c871bcaa3c2c1995e1e9c6?utm_campaign=Data%20Analysis&utm_source=1103)** | Edmonton, AB | Hybrid | Mar 28 |
 | **[Q-Centrix](https://www.q-centrix.com/)** | **[LAAO/TVT Data Abstractor](https://jobright.ai/jobs/info/69c814b783ea553769fe8552?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Remote | Mar 28 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Biostatistician (Senior Associate)](https://jobright.ai/jobs/info/69965d07e0bddb6acac4ce29?utm_campaign=Data%20Analysis&utm_source=1103)** | Pasadena, California, United States | On Site | Mar 28 |
-| **[BlackRock](http://www.blackrock.com)** | **[Associate](https://jobright.ai/jobs/info/69c7eafa1818a24cd84d2495?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Mar 28 |
-| ↳ | **[Associate](https://jobright.ai/jobs/info/69c7eae983ea553769fe762d?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | Hybrid | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
