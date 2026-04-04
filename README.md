@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAFCO](http://www.gosafco.com)** | **[Data and Strategy Analyst](https://jobright.ai/jobs/info/69d064fa891d7b11cfcdb1eb?utm_campaign=Data%20Analysis&utm_source=1103)** | Pompano Beach, FL | On Site | Apr 03 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Research Associate, Regional and Community Analysis](https://jobright.ai/jobs/info/69d05e15891d7b11cfcdac89?utm_campaign=Data%20Analysis&utm_source=1103)** | Richmond, VA | On Site | Apr 03 |
 | **[Hawk-Eye Innovations](https://www.hawkeyeinnovations.com/)** | **[Data Processing Assistant - KinaTrax, Baseball Tech](https://jobright.ai/jobs/info/69d04c4ccfdc6132f943a61c?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | On Site | Apr 03 |
 | **[Association of Washington Cities](http://wacities.org)** | **[Research Assistant](https://jobright.ai/jobs/info/69d046ed0b098b7a670784e1?utm_campaign=Data%20Analysis&utm_source=1103)** | Olympia,WA,US | On Site | Apr 03 |
@@ -117,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[Specialist, Platform Reporting](https://jobright.ai/jobs/info/6997c16d81476f6176afec9f?utm_campaign=Data%20Analysis&utm_source=1103)** | St Louis, MO | On Site | Apr 03 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Data Integrity Analyst (Onsite)](https://jobright.ai/jobs/info/69cfc38254f00230c6d0c4e3?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, California | On Site | Apr 03 |
 | **[Murphy Research](https://murphyresearch.com/)** | **[Research Associate](https://jobright.ai/jobs/info/69cc9514891d7b11cfcb01e0?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | Hybrid | Apr 03 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Data Program Associate](https://jobright.ai/jobs/info/69cfaf50891d7b11cfcd531f?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 03 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Analyst, Strategic Insights & Tools](https://jobright.ai/jobs/info/69cfabaccdb525785fba408a?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta, GA | Hybrid | Apr 03 |
 | **[Partnership HealthPlan of California](http://partnershiphp.org)** | **[Health Services Analyst I](https://jobright.ai/jobs/info/698596580f6f7e7a2ce0722c?utm_campaign=Data%20Analysis&utm_source=1103)** | Fairfield, CA | On Site | Apr 03 |
 | **[Zoox](https://www.zoox.com/)** | **[Reliability Data Analyst](https://jobright.ai/jobs/info/697ac6018dbbf73badc81558?utm_campaign=Data%20Analysis&utm_source=1103)** | Foster City, CA | Hybrid | Apr 03 |
@@ -304,8 +304,8 @@ For a complete list, click the following sortable link below:
 | **[TD Securities](https://www.tdsecurities.com)** | **[Business Insights Analyst I (US)](https://jobright.ai/jobs/info/69cc6530891d7b11cfcac228?utm_campaign=Data%20Analysis&utm_source=1103)** | Charlotte, NC | On Site | Mar 31 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Insights Analyst (ROPS Reporting Analyst)](https://jobright.ai/jobs/info/69cc42f0e1921223acc74e4d?utm_campaign=Data%20Analysis&utm_source=1103)** | 09507 - Colorado Remote | Remote | Mar 31 |
 | **[UCSF Health](https://www.ucsfhealth.org)** | **[Data Analyst](https://jobright.ai/jobs/info/69cd97c4891d7b11cfcbdd63?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | Hybrid | Mar 31 |
-| **[SLC Management](https://www.slcmanagement.com/)** | **[Finance Data Operations & Business Intelligence Analyst - SLC Management](https://jobright.ai/jobs/info/69cc89bd366bb95ba54f298e?utm_campaign=Data%20Analysis&utm_source=1103)** | Kitchener, Ontario, Canada | Hybrid | Mar 31 |
-| ↳ | **[Finance Data Operations & Business Intelligence Analyst - SLC Management](https://jobright.ai/jobs/info/69cc89bae1921223acc791bd?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, ON | Hybrid | Mar 31 |
+| **[SLC Management](https://www.slcmanagement.com/)** | **[Finance Data Operations & Business Intelligence Analyst - SLC Management](https://jobright.ai/jobs/info/69cc89bae1921223acc791bd?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, ON | Hybrid | Mar 31 |
+| ↳ | **[Finance Data Operations & Business Intelligence Analyst - SLC Management](https://jobright.ai/jobs/info/69cc89bd366bb95ba54f298e?utm_campaign=Data%20Analysis&utm_source=1103)** | Kitchener, Ontario, Canada | Hybrid | Mar 31 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Data Analyst - IT](https://jobright.ai/jobs/info/69cc3a3b366bb95ba54ee458?utm_campaign=Data%20Analysis&utm_source=1103)** | Pineville, LA | On Site | Mar 31 |
 | **[Montclair State University](http://www.montclair.edu/)** | **[Research Assistant](https://jobright.ai/jobs/info/69cc32e0cdb525785fb7a0f9?utm_campaign=Data%20Analysis&utm_source=1103)** | Montclair, NJ | Hybrid | Mar 31 |
 | **[Exiger](http://www.exiger.com)** | **[Associate, Research & Delivery (Kurdish - Sorani Speaking)](https://jobright.ai/jobs/info/69cc2f948130af1ac8337002?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Mar 31 |
@@ -415,8 +415,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate, Customer Experience- Data & Strategy](https://jobright.ai/jobs/info/69c01cde79e36d3a847c918b?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA | On Site | Mar 28 |
 | **[Dana-Farber Cancer Institute](http://www.dana-farber.org)** | **[Research Assistant - Population Science](https://jobright.ai/jobs/info/69ab3a612747003c3d50e7d0?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | On Site | Mar 28 |
 | **[The Voleon Group](http://voleon.com/)** | **[Data Scientist (USA-Remote)](https://jobright.ai/jobs/info/68cda841e23def7af55bd98b?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Mar 28 |
-| **[Lennox](http://www.lennox.com)** | **[Data Scientist II](https://jobright.ai/jobs/info/69ad216e7e1fab39d3849318?utm_campaign=Data%20Analysis&utm_source=1103)** | Richardson, TX | On Site | Mar 28 |
-| ↳ | **[Data Scientist II](https://jobright.ai/jobs/info/69ab01e5142d5b4265fc427b?utm_campaign=Data%20Analysis&utm_source=1103)** | Richardson, TX | On Site | Mar 28 |
-| **[DoorDash](http://www.doordash.com)** | **[Associate, Customer Experience- Data & Strategy](https://jobright.ai/jobs/info/69becafa4828227293018401?utm_campaign=Data%20Analysis&utm_source=1103)** | Phoenix, AZ | On Site | Mar 28 |
-| ↳ | **[Associate, Customer Experience- Data & Strategy](https://jobright.ai/jobs/info/69bf4952b106024562848906?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
