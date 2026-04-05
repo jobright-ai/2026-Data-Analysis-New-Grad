@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAFCO](http://www.gosafco.com)** | **[Data and Strategy Analyst](https://jobright.ai/jobs/info/69d1b6de54f00230c6d1c2d7?utm_campaign=Data%20Analysis&utm_source=1103)** | Pompano Beach, FL | On Site | Apr 04 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Data Program Associate](https://jobright.ai/jobs/info/69d18fc6366bb95ba5527012?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 04 |
 | ↳ | **[Data Analyst](https://jobright.ai/jobs/info/69d18ee2891d7b11cfce3f4f?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 04 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Early Career Project Controls Data Analyst](https://jobright.ai/jobs/info/69b4730506c1ba00c545e44c?utm_campaign=Data%20Analysis&utm_source=1103)** | Morristown, NJ | On Site | Apr 04 |
@@ -184,7 +185,6 @@ For a complete list, click the following sortable link below:
 | **[Co-operators](http://www.cooperators.ca/)** | **[Associate Data & Reporting Analyst](https://jobright.ai/jobs/info/69cef2d1cfdc6132f942e12a?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Apr 02 |
 | **[Rockefeller Capital Management](https://www.rockco.com/)** | **[Data Governance Analyst](https://jobright.ai/jobs/info/69cef2b7cdb525785fb9d390?utm_campaign=Data%20Analysis&utm_source=1103)** | Trenton, NJ | On Site | Apr 02 |
 | **[CA Department of Corrections & Rehabilitation](https://www.cdcr.ca.gov/)** | **[Analyst I](https://jobright.ai/jobs/info/69cf0b4dcdb525785fb9e28a?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento, CA | Hybrid | Apr 02 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Data Program Associate](https://jobright.ai/jobs/info/69ceeafa54f00230c6d04cf9?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 02 |
 | **[Employment Development Department](https://www.edd.ca.gov/About_EDD/Career_Opportunities.htm)** | **[ANALYST II](https://jobright.ai/jobs/info/69ceea6a398fb071abf8aa50?utm_campaign=Data%20Analysis&utm_source=1103)** | California, United States | Hybrid | Apr 02 |
 | **[Press Ganey](http://www.moreheadassociates.com)** | **[Client Data Specialist I](https://jobright.ai/jobs/info/69cee720891d7b11cfcce376?utm_campaign=Data%20Analysis&utm_source=1103)** | South Bend, IN | On Site | Apr 02 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Data Analyst](https://jobright.ai/jobs/info/69cee6ca54f00230c6d04a71?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 02 |
@@ -251,7 +251,6 @@ For a complete list, click the following sortable link below:
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Analyst, Clinical Programs Value Based Care](https://jobright.ai/jobs/info/698589db8da7a61204602ff2?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, CO | On Site | Apr 02 |
 | **[Advanced Sterilization Products](http://www.asp.com/)** | **[GLDP Associate- Data Analysis and Engineering Track](https://jobright.ai/jobs/info/69c5608b1b5ad02887372d1f?utm_campaign=Data%20Analysis&utm_source=1103)** | Irvine, CA | On Site | Apr 02 |
 | **[GumGum](https://gumgum.com/)** | **[Data Scientist I](https://jobright.ai/jobs/info/6979c301d7df290257fc302c?utm_campaign=Data%20Analysis&utm_source=1103)** | Santa Monica, CA | Hybrid | Apr 02 |
-| **[Ethos](http://ethosrisk.com)** | **[Entry-Level Investigator](https://jobright.ai/jobs/info/69d0f34a54f00230c6d17968?utm_campaign=Data%20Analysis&utm_source=1103)** | Queens, NY | On Site | Apr 02 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Research Data Associate](https://jobright.ai/jobs/info/69b293a7ad360c0340a768de?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Apr 02 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist](https://jobright.ai/jobs/info/69b21d50d04c69566c74d158?utm_campaign=Data%20Analysis&utm_source=1103)** | Monterey, CA | Hybrid | Apr 02 |
 | **[Finch](https://www.finchlegal.com/)** | **[Intake Data Manager](https://jobright.ai/jobs/info/69ce2fc8cdb525785fb94a2c?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Apr 02 |
