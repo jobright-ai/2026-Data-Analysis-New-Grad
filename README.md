@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ICE](https://www.ice.com)** | **[Surveillance Analyst](https://jobright.ai/jobs/info/697d5969137a0510256678d9?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Apr 05 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Data Program Associate](https://jobright.ai/jobs/info/69d26487891d7b11cfcea98e?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 05 |
 | ↳ | **[Data Analyst](https://jobright.ai/jobs/info/69d25a9dcdb525785fbb980c?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 05 |
 | **[GitLab](http://about.gitlab.com)** | **[Data Analyst, Product](https://jobright.ai/jobs/info/69b5b29006c1ba00c547a340?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 05 |
@@ -266,7 +267,6 @@ For a complete list, click the following sortable link below:
 | **[Minnesota Department of Transportation](https://www.dot.state.mn.us)** | **[Research Analyst](https://jobright.ai/jobs/info/69ce1925891d7b11cfcc527a?utm_campaign=Data%20Analysis&utm_source=1103)** | Roseville, MN | Hybrid | Apr 02 |
 | **[Chicago Trading Company](http://www.chicagotrading.com/)** | **[Market Data Analyst](https://jobright.ai/jobs/info/69ce1911cdb525785fb93ebd?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Apr 02 |
 | **[Analysis Group](http://www.analysisgroup.com)** | **[Business Analytics Analyst](https://jobright.ai/jobs/info/69cf5cd8398fb071abf8f1c7?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | Apr 01 |
-| **[DaVita Kidney Care](http://www.davita.com)** | **[Technical Analyst](https://jobright.ai/jobs/info/69d1f2ab54f00230c6d1e5ff?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, CO | On Site | Apr 01 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/69cde0a6891d7b11cfcc1123?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, ON | On Site | Apr 01 |
 | **[Chicago Trading Company](http://www.chicagotrading.com/)** | **[Market Data Analyst](https://jobright.ai/jobs/info/69cdd6c2891d7b11cfcc06e0?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Apr 01 |
 | **[Sidley Austin LLP](http://www.sidley.com)** | **[Conflicts Researcher](https://jobright.ai/jobs/info/69cdcb6b398fb071abf7c2db?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Apr 01 |
@@ -336,8 +336,8 @@ For a complete list, click the following sortable link below:
 | **[Ulta Beauty](https://www.ulta.com)** | **[LP Intelligence Analyst](https://jobright.ai/jobs/info/69cc801dcdb525785fb7c7cd?utm_campaign=Data%20Analysis&utm_source=1103)** | Bolingbrook, IL | Remote | Mar 31 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Insights Analyst (ROPS Reporting Analyst)](https://jobright.ai/jobs/info/69cc6dca891d7b11cfcac51e?utm_campaign=Data%20Analysis&utm_source=1103)** | Denver, CO | On Site | Mar 31 |
 | **[JD Power](http://JDPower.com)** | **[Auto Benchmarking Analyst](https://jobright.ai/jobs/info/69bb8a2a569738374141941b?utm_campaign=Data%20Analysis&utm_source=1103)** | Canada | Remote | Mar 31 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist with Security Clearance](https://jobright.ai/jobs/info/69d24ec554f00230c6d20f12?utm_campaign=Data%20Analysis&utm_source=1103)** | McLean, Virginia, 22030 | On Site | Mar 31 |
-| ↳ | **[Open-Source Research Analyst, Junior with Security Clearance](https://jobright.ai/jobs/info/69d24eb5366bb95ba552d45f?utm_campaign=Data%20Analysis&utm_source=1103)** | McLean, Virginia, 22030 | On Site | Mar 31 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Open-Source Research Analyst, Junior with Security Clearance](https://jobright.ai/jobs/info/69d24eb5366bb95ba552d45f?utm_campaign=Data%20Analysis&utm_source=1103)** | McLean, Virginia, 22030 | On Site | Mar 31 |
+| ↳ | **[Data Scientist with Security Clearance](https://jobright.ai/jobs/info/69d24ec554f00230c6d20f12?utm_campaign=Data%20Analysis&utm_source=1103)** | McLean, Virginia, 22030 | On Site | Mar 31 |
 | **[University of Southern California](http://www.usc.edu)** | **[Postdoctoral Scholar - Research Associate](https://jobright.ai/jobs/info/69cca6efcfdc6132f9411e38?utm_campaign=Data%20Analysis&utm_source=1103)** | Los Angeles, CA | On Site | Mar 31 |
 | **[Bayview Asset Management, LLC](http://www.bayviewassetmanagement.com)** | **[Quant Developer](https://jobright.ai/jobs/info/69cc7b7e366bb95ba54efb9f?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | Hybrid | Mar 31 |
 | **[Hospital for Special Surgery](https://www.hss.edu)** | **[Research Assistant I](https://jobright.ai/jobs/info/69bb6ec23b74eb1e2c89d9db?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Mar 31 |
