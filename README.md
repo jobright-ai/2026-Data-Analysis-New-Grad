@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GitLab](http://about.gitlab.com)** | **[Data Analyst, Product](https://jobright.ai/jobs/info/69b5bc673b74eb1e2c839436?utm_campaign=Data%20Analysis&utm_source=1103)** | Canada | Remote | Apr 05 |
 | **[PitchBook](http://www.pitchbook.com)** | **[Associate Data Analyst, Customer Support](https://jobright.ai/jobs/info/69b2f520a8ac8e70ff671975?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Apr 05 |
 | **[DC Army National Guard](http://www.nationalguard.com/DC)** | **[35G Imagery Analyst](https://jobright.ai/jobs/info/69d223f60b098b7a67087625?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX | On Site | Apr 05 |
 | **[SAFCO](http://www.gosafco.com)** | **[Data and Strategy Analyst](https://jobright.ai/jobs/info/69d1b6de54f00230c6d1c2d7?utm_campaign=Data%20Analysis&utm_source=1103)** | Pompano Beach, FL | On Site | Apr 04 |
@@ -281,7 +282,7 @@ For a complete list, click the following sortable link below:
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Value Management Data Analyst](https://jobright.ai/jobs/info/69b864673b74eb1e2c8629b8?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | On Site | Apr 01 |
 | **[Baycrest](https://www.baycrest.org)** | **[Research Assistant Level 1](https://jobright.ai/jobs/info/69cdb560cdb525785fb8df2a?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, ON | On Site | Apr 01 |
 | **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Catastrophe Risk Analyst](https://jobright.ai/jobs/info/69cd929ccfdc6132f941d564?utm_campaign=Data%20Analysis&utm_source=1103)** | Home Base, MA | Remote | Apr 01 |
-| **[Axle](http://meetaxle.com/)** | **[Research Analyst](https://jobright.ai/jobs/info/69d1c090891d7b11cfce5b60?utm_campaign=Data%20Analysis&utm_source=1103)** | Bethesda, MD, US | On Site | Apr 01 |
+| **[Axle](http://meetaxle.com/)** | **[Research Analyst](https://jobright.ai/jobs/info/69d248c6891d7b11cfce9f6e?utm_campaign=Data%20Analysis&utm_source=1103)** | Bethesda, MD, US | On Site | Apr 01 |
 | **[Sidley Austin LLP](http://www.sidley.com)** | **[Conflicts Researcher](https://jobright.ai/jobs/info/69cd8de654f00230c6cf3a16?utm_campaign=Data%20Analysis&utm_source=1103)** | US-IL-Chicago | Hybrid | Apr 01 |
 | ↳ | **[Conflicts Researcher](https://jobright.ai/jobs/info/69cd8d4a398fb071abf797cc?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL, US | Hybrid | Apr 01 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Data Program Associate](https://jobright.ai/jobs/info/69cd8a60398fb071abf79179?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 01 |
@@ -351,8 +352,8 @@ For a complete list, click the following sortable link below:
 | **[CAMH](https://www.camh.ca)** | **[Research Analyst - Sexual Behaviours Clinic](https://jobright.ai/jobs/info/69c7195ab773006330b75de3?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, ON | On Site | Mar 31 |
 | **[Rochester Regional Health](https://www.rochesterregional.org)** | **[Research Assistant](https://jobright.ai/jobs/info/69cc28658130af1ac8336dde?utm_campaign=Data%20Analysis&utm_source=1103)** | Rochester General Hospital (RGH) | On Site | Mar 31 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Analyst, Data Governance](https://jobright.ai/jobs/info/69cc27b7e1921223acc74435?utm_campaign=Data%20Analysis&utm_source=1103)** | Oakville, ON | On Site | Mar 31 |
-| **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Finance Data Operations & Business Intelligence Analyst  - SLC Management](https://jobright.ai/jobs/info/69cc0dc8366bb95ba54ed500?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario | Hybrid | Mar 31 |
-| ↳ | **[Finance Data Operations & Business Intelligence Analyst  - SLC Management](https://jobright.ai/jobs/info/69cc0dc8366bb95ba54ed511?utm_campaign=Data%20Analysis&utm_source=1103)** | Sun Life Waterloo King | Hybrid | Mar 31 |
+| **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Finance Data Operations & Business Intelligence Analyst  - SLC Management](https://jobright.ai/jobs/info/69cc0dc8366bb95ba54ed511?utm_campaign=Data%20Analysis&utm_source=1103)** | Sun Life Waterloo King | Hybrid | Mar 31 |
+| ↳ | **[Finance Data Operations & Business Intelligence Analyst  - SLC Management](https://jobright.ai/jobs/info/69cc0dc8366bb95ba54ed500?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario | Hybrid | Mar 31 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[Oncology Data Specialist](https://jobright.ai/jobs/info/69af265c6b21de023e604c88?utm_campaign=Data%20Analysis&utm_source=1103)** | Silver Spring, MD | On Site | Mar 31 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Business Intelligence Engineer, AWS Support S&O - ESSO - Strategy, Planning & Inspection (SPI)](https://jobright.ai/jobs/info/69cc2f028130af1ac8336fb1?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Mar 31 |
 | **[Martin Retail Group](http://martinretail.com)** | **[Data Analyst](https://jobright.ai/jobs/info/69c0c4142c312363dcd332ba?utm_campaign=Data%20Analysis&utm_source=1103)** | Troy, MI | Hybrid | Mar 31 |
