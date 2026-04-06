@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Data Program Associate](https://jobright.ai/jobs/info/69d3933854f00230c6d28c1e?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 06 |
 | **[Aquatic Capital Management](https://aquatic.com)** | **[Quantitative Researcher, PhD](https://jobright.ai/jobs/info/6972d75b98522904c697a99d?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, New York | On Site | Apr 06 |
 | **[National Security Agency](http://www.nsa.gov/)** | **[Intelligence Analysis Development Program (IADP)](https://jobright.ai/jobs/info/69d386eacdb525785fbc0766?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, MD | On Site | Apr 06 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Data Analyst](https://jobright.ai/jobs/info/69d3868f366bb95ba5534ab3?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 06 |
@@ -103,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Cambridge Savings Bank](http://www.cambridgesavings.com)** | **[Associate SQL Business Analyst](https://jobright.ai/jobs/info/696b156c350cf43803125a89?utm_campaign=Data%20Analysis&utm_source=1103)** | Waltham, MA | Hybrid | Apr 04 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist, Mid](https://jobright.ai/jobs/info/69b20929548f140066e837b5?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, MD | On Site | Apr 04 |
 | **[The Voleon Group](http://voleon.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/68cceec477add66568abc1bf?utm_campaign=Data%20Analysis&utm_source=1103)** | Berkeley, CA | On Site | Apr 04 |
+| **[Zoox](https://www.zoox.com/)** | **[Reliability Data Analyst](https://jobright.ai/jobs/info/697ac6018dbbf73badc81558?utm_campaign=Data%20Analysis&utm_source=1103)** | Foster City, CA | Hybrid | Apr 04 |
 | **[The Rockefeller University](http://rockefeller.edu)** | **[Bioinformatics Assistant / Laboratory of Theoretical Condensed Matter Physics](https://jobright.ai/jobs/info/697a67089d60e431a16be47d?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Apr 04 |
 | **[Research Partnership](http://www.researchpartnership.com/)** | **[Research Analyst](https://jobright.ai/jobs/info/69b4701b3b74eb1e2c81bf66?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | Hybrid | Apr 04 |
 | **[Future Standard](https://www.futurestandard.com)** | **[Associate, Quantitative Engineer](https://jobright.ai/jobs/info/69d0aef254f00230c6d14970?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, New York, United States | On Site | Apr 03 |
@@ -227,8 +229,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Privacy Analyst](https://jobright.ai/jobs/info/69cec842398fb071abf88fcd?utm_campaign=Data%20Analysis&utm_source=1103)** | Raleigh, NC | On Site | Apr 02 |
 | **[The Henry M. Jackson Foundation for the Advancement of Military Medicine](https://www.hjf.org/)** | **[Clinical Research Assistant I - CSTS](https://jobright.ai/jobs/info/69cec56ccfdc6132f942c3ad?utm_campaign=Data%20Analysis&utm_source=1103)** | Bethesda, MD | On Site | Apr 02 |
 | **[Tufts University](http://hnrca.tufts.edu)** | **[Data Analyst - Career Services](https://jobright.ai/jobs/info/69c31cca94007a2195df596a?utm_campaign=Data%20Analysis&utm_source=1103)** | Medford, MA | Hybrid | Apr 02 |
-| **[Charles Schwab](https://www.schwab.com/)** | **[Anti Money Laundering, Data Quality Senior Specialist](https://jobright.ai/jobs/info/69cec3e7891d7b11cfccc63b?utm_campaign=Data%20Analysis&utm_source=1103)** | US-FL-Orlando | Hybrid | Apr 02 |
-| ↳ | **[Anti Money Laundering, Data Quality Senior Specialist](https://jobright.ai/jobs/info/69cec3e7891d7b11cfccc63d?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX, US | Hybrid | Apr 02 |
+| **[Charles Schwab](https://www.schwab.com/)** | **[Anti Money Laundering, Data Quality Senior Specialist](https://jobright.ai/jobs/info/69cec3e7891d7b11cfccc63d?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX, US | Hybrid | Apr 02 |
+| ↳ | **[Anti Money Laundering, Data Quality Senior Specialist](https://jobright.ai/jobs/info/69cec3e7891d7b11cfccc63b?utm_campaign=Data%20Analysis&utm_source=1103)** | US-FL-Orlando | Hybrid | Apr 02 |
 | ↳ | **[Anti Money Laundering, Data Quality Senior Specialist](https://jobright.ai/jobs/info/69cec3bd54f00230c6d02ee0?utm_campaign=Data%20Analysis&utm_source=1103)** | Southlake, TX, US | Hybrid | Apr 02 |
 | ↳ | **[Anti Money Laundering, Data Quality Senior Specialist](https://jobright.ai/jobs/info/69cec3b4366bb95ba550f35c?utm_campaign=Data%20Analysis&utm_source=1103)** | US-TX-Austin | Hybrid | Apr 02 |
 | **[Sun River Health](https://www.sunriver.org)** | **[Genesis Data Specialist](https://jobright.ai/jobs/info/69cec392891d7b11cfccc497?utm_campaign=Data%20Analysis&utm_source=1103)** | NY, United States | On Site | Apr 02 |
@@ -419,8 +421,4 @@ For a complete list, click the following sortable link below:
 | **[Climate Action Campaign US](http://www.actonclimate.com/)** | **[Data Coordinator](https://jobright.ai/jobs/info/69cad973aa3c2c1995e30eaa?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, District of Columbia, United States | Hybrid | Mar 30 |
 | **[Safety National](https://www.safetynational.com)** | **[BI Data Analyst](https://jobright.ai/jobs/info/69cad8baaa3c2c1995e30b15?utm_campaign=Data%20Analysis&utm_source=1103)** | Saint Louis, Missouri, United States | Hybrid | Mar 30 |
 | **[GoBolt](https://gobolt.com)** | **[Data Analyst](https://jobright.ai/jobs/info/69ced748891d7b11cfcccfcf?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Canada | Hybrid | Mar 30 |
-| **[California Department of Justice](http://www.oag.ca.gov)** | **[Research Associate I](https://jobright.ai/jobs/info/69cacee5466f1e133aac755a?utm_campaign=Data%20Analysis&utm_source=1103)** | California, United States | Hybrid | Mar 30 |
-| **[Fred Hutch](http://www.fredhutch.org)** | **[Post-Doctoral Research Fellow](https://jobright.ai/jobs/info/69742c46bc8e722e7b192246?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Mar 30 |
-| **[RealPage, Inc.](https://www.realpage.com)** | **[Implementation Analyst](https://jobright.ai/jobs/info/69cacb8a466f1e133aac7478?utm_campaign=Data%20Analysis&utm_source=1103)** | US-TX-Richardson | On Site | Mar 30 |
-| ↳ | **[Implementation Analyst](https://jobright.ai/jobs/info/69cacb01aa3c2c1995e304ba?utm_campaign=Data%20Analysis&utm_source=1103)** | Richardson, TX, US | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
