@@ -423,5 +423,4 @@ For a complete list, click the following sortable link below:
 | **[Genius Sports](https://www.geniussports.com/)** | **[Sports Data Collector (Ice Hockey) - Milton, Ontario, Canada](https://jobright.ai/jobs/info/69cac0b31b5ad028873a4a1d?utm_campaign=Data%20Analysis&utm_source=1103)** | Milton, ON | On Site | Mar 30 |
 | **[CalRecycle](http://www.calrecycle.ca.gov)** | **[Analyst II](https://jobright.ai/jobs/info/69cac09c8fc6090c5d450cee?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento, CA | Hybrid | Mar 30 |
 | **[Ethos](http://ethosrisk.com)** | **[Entry-Level Investigator](https://jobright.ai/jobs/info/69cd648554f00230c6ceec15?utm_campaign=Data%20Analysis&utm_source=1103)** | Brooklyn, NY | On Site | Mar 30 |
-| **[Q-Centrix](https://www.q-centrix.com/)** | **[Cardiovascular Data Abstractor: Part-Time](https://jobright.ai/jobs/info/683f5152d2bbfddabbd06e0f?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
