@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aquatic Capital Management](https://aquatic.com)** | **[Quantitative Researcher, PhD](https://jobright.ai/jobs/info/6972d75b98522904c697a99d?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, New York | On Site | Apr 06 |
+| **[National Security Agency](http://www.nsa.gov/)** | **[Intelligence Analysis Development Program (IADP)](https://jobright.ai/jobs/info/69d386eacdb525785fbc0766?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, MD | On Site | Apr 06 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Data Analyst](https://jobright.ai/jobs/info/69d3868f366bb95ba5534ab3?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 06 |
 | **[University of Wisconsin-Madison](http://www.wisc.edu)** | **[Research Specialist](https://jobright.ai/jobs/info/69d3703854f00230c6d27a9f?utm_campaign=Data%20Analysis&utm_source=1103)** | Madison, WI | On Site | Apr 06 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Business Intelligence Senior Associate Analyst](https://jobright.ai/jobs/info/69d327770b098b7a6708c427?utm_campaign=Data%20Analysis&utm_source=1103)** | Lakeville, Massachusetts, United States of America | Hybrid | Apr 05 |
 | **[Escalent](https://escalent.co/)** | **[Insights Analyst, Energy](https://jobright.ai/jobs/info/69bd776fb106024562826311?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 05 |
@@ -224,8 +227,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Privacy Analyst](https://jobright.ai/jobs/info/69cec842398fb071abf88fcd?utm_campaign=Data%20Analysis&utm_source=1103)** | Raleigh, NC | On Site | Apr 02 |
 | **[The Henry M. Jackson Foundation for the Advancement of Military Medicine](https://www.hjf.org/)** | **[Clinical Research Assistant I - CSTS](https://jobright.ai/jobs/info/69cec56ccfdc6132f942c3ad?utm_campaign=Data%20Analysis&utm_source=1103)** | Bethesda, MD | On Site | Apr 02 |
 | **[Tufts University](http://hnrca.tufts.edu)** | **[Data Analyst - Career Services](https://jobright.ai/jobs/info/69c31cca94007a2195df596a?utm_campaign=Data%20Analysis&utm_source=1103)** | Medford, MA | Hybrid | Apr 02 |
-| **[Charles Schwab](https://www.schwab.com/)** | **[Anti Money Laundering, Data Quality Senior Specialist](https://jobright.ai/jobs/info/69cec3e7891d7b11cfccc63d?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX, US | Hybrid | Apr 02 |
-| ↳ | **[Anti Money Laundering, Data Quality Senior Specialist](https://jobright.ai/jobs/info/69cec3e7891d7b11cfccc63b?utm_campaign=Data%20Analysis&utm_source=1103)** | US-FL-Orlando | Hybrid | Apr 02 |
+| **[Charles Schwab](https://www.schwab.com/)** | **[Anti Money Laundering, Data Quality Senior Specialist](https://jobright.ai/jobs/info/69cec3e7891d7b11cfccc63b?utm_campaign=Data%20Analysis&utm_source=1103)** | US-FL-Orlando | Hybrid | Apr 02 |
+| ↳ | **[Anti Money Laundering, Data Quality Senior Specialist](https://jobright.ai/jobs/info/69cec3e7891d7b11cfccc63d?utm_campaign=Data%20Analysis&utm_source=1103)** | Austin, TX, US | Hybrid | Apr 02 |
 | ↳ | **[Anti Money Laundering, Data Quality Senior Specialist](https://jobright.ai/jobs/info/69cec3bd54f00230c6d02ee0?utm_campaign=Data%20Analysis&utm_source=1103)** | Southlake, TX, US | Hybrid | Apr 02 |
 | ↳ | **[Anti Money Laundering, Data Quality Senior Specialist](https://jobright.ai/jobs/info/69cec3b4366bb95ba550f35c?utm_campaign=Data%20Analysis&utm_source=1103)** | US-TX-Austin | Hybrid | Apr 02 |
 | **[Sun River Health](https://www.sunriver.org)** | **[Genesis Data Specialist](https://jobright.ai/jobs/info/69cec392891d7b11cfccc497?utm_campaign=Data%20Analysis&utm_source=1103)** | NY, United States | On Site | Apr 02 |
@@ -420,7 +423,4 @@ For a complete list, click the following sortable link below:
 | **[Fred Hutch](http://www.fredhutch.org)** | **[Post-Doctoral Research Fellow](https://jobright.ai/jobs/info/69742c46bc8e722e7b192246?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Mar 30 |
 | **[RealPage, Inc.](https://www.realpage.com)** | **[Implementation Analyst](https://jobright.ai/jobs/info/69cacb8a466f1e133aac7478?utm_campaign=Data%20Analysis&utm_source=1103)** | US-TX-Richardson | On Site | Mar 30 |
 | ↳ | **[Implementation Analyst](https://jobright.ai/jobs/info/69cacb01aa3c2c1995e304ba?utm_campaign=Data%20Analysis&utm_source=1103)** | Richardson, TX, US | On Site | Mar 30 |
-| **[Genius Sports](https://www.geniussports.com/)** | **[Sports Data Collector (Ice Hockey) - Milton, Ontario, Canada](https://jobright.ai/jobs/info/69cac0b31b5ad028873a4a1d?utm_campaign=Data%20Analysis&utm_source=1103)** | Milton, ON | On Site | Mar 30 |
-| **[CalRecycle](http://www.calrecycle.ca.gov)** | **[Analyst II](https://jobright.ai/jobs/info/69cac09c8fc6090c5d450cee?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento, CA | Hybrid | Mar 30 |
-| **[Ethos](http://ethosrisk.com)** | **[Entry-Level Investigator](https://jobright.ai/jobs/info/69cd648554f00230c6ceec15?utm_campaign=Data%20Analysis&utm_source=1103)** | Brooklyn, NY | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
