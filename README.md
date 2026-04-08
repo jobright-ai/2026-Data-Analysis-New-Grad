@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Data Program Associate](https://jobright.ai/jobs/info/69d6316448f0c8161d2f6ef0?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 08 |
+| ↳ | **[Data Analyst](https://jobright.ai/jobs/info/69d62d4c366bb95ba554bbfd?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 08 |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Research Analyst](https://jobright.ai/jobs/info/699d1039e0bddb6acacc2c7b?utm_campaign=Data%20Analysis&utm_source=1103)** | Nashville, TN | On Site | Apr 08 |
+| **[Taku Health Services, LLC](http://www.goldbelt.com)** | **[SELRES Analysts](https://jobright.ai/jobs/info/699e8cb9e0bddb6acace403e?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 08 |
 | **[Quantifind](http://quantifind.com)** | **[Associate Data Scientist](https://jobright.ai/jobs/info/6982c8e98232105a2d0b2636?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | Hybrid | Apr 08 |
 | **[Jordan Park Group](https://jordanpark.com/)** | **[Associate - Salesforce Business Analyst & Data Quality Coordinator](https://jobright.ai/jobs/info/69c706d983ea553769fdfda9?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, California, United States | On Site | Apr 08 |
 | **[Rovia Clinical Research](https://roviaclinical.com)** | **[Research Assistant](https://jobright.ai/jobs/info/69d60e04cfdc6132f9468577?utm_campaign=Data%20Analysis&utm_source=1103)** | Bastrop, LA | On Site | Apr 08 |
@@ -153,11 +157,11 @@ For a complete list, click the following sortable link below:
 | **[Command Holdings, a Pequot Company](www.commandholdingspqt.com)** | **[Data Analyst - Administrative (Cleared)](https://jobright.ai/jobs/info/69d3ebf6cdb525785fbc49b7?utm_campaign=Data%20Analysis&utm_source=1103)** | El Paso, TX 79912, USA | On Site | Apr 06 |
 | **[New Mexico Department of Health](https://www.nmhealth.org/)** | **[APCD Data Scientist (DOH/CHP #10111609)](https://jobright.ai/jobs/info/69cf5373366bb95ba551571b?utm_campaign=Data%20Analysis&utm_source=1103)** | Albuquerque, NM | On Site | Apr 06 |
 | **[NCO Financial Investigative Services](http://www.ncofis.com)** | **[Cryptocurrency Trading Activity & Market Intelligence Analyst](https://jobright.ai/jobs/info/69d3e7dacdb525785fbc45dc?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 06 |
-| **[Orbital Engineering, Inc.](http://orbitalengr.com)** | **[GIS Technician I (Entry Level)](https://jobright.ai/jobs/info/69d3e3d1cfdc6132f9455398?utm_campaign=Data%20Analysis&utm_source=1103)** | Texas, United States | Remote | Apr 06 |
-| ↳ | **[GIS Technician I (Entry Level)](https://jobright.ai/jobs/info/69d3e3d1e63cea7a8b654406?utm_campaign=Data%20Analysis&utm_source=1103)** | Pennsylvania, United States | Remote | Apr 06 |
+| **[Orbital Engineering, Inc.](http://orbitalengr.com)** | **[GIS Technician I (Entry Level)](https://jobright.ai/jobs/info/69d3e3d1e63cea7a8b654406?utm_campaign=Data%20Analysis&utm_source=1103)** | Pennsylvania, United States | Remote | Apr 06 |
+| ↳ | **[GIS Technician I (Entry Level)](https://jobright.ai/jobs/info/69d3e3d1cfdc6132f9455398?utm_campaign=Data%20Analysis&utm_source=1103)** | Texas, United States | Remote | Apr 06 |
 | ↳ | **[GIS Technician I (Entry Level)](https://jobright.ai/jobs/info/69d3e34c891d7b11cfcf4ec2?utm_campaign=Data%20Analysis&utm_source=1103)** | Missouri, United States | Remote | Apr 06 |
-| ↳ | **[GIS Technician I (Entry Level)](https://jobright.ai/jobs/info/69d3e34a366bb95ba5538237?utm_campaign=Data%20Analysis&utm_source=1103)** | Indiana, United States | Remote | Apr 06 |
 | ↳ | **[GIS Technician I (Entry Level)](https://jobright.ai/jobs/info/69d3e34acdb525785fbc3e79?utm_campaign=Data%20Analysis&utm_source=1103)** | Ohio, United States | Remote | Apr 06 |
+| ↳ | **[GIS Technician I (Entry Level)](https://jobright.ai/jobs/info/69d3e34a366bb95ba5538237?utm_campaign=Data%20Analysis&utm_source=1103)** | Indiana, United States | Remote | Apr 06 |
 | **[Genentech](http://gene.com)** | **[Data Scientist, Computational Toxicology](https://jobright.ai/jobs/info/69d3daadcdb525785fbc3ad2?utm_campaign=Data%20Analysis&utm_source=1103)** | South San Francisco, CA | On Site | Apr 06 |
 | **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Clinical Database Coordinator](https://jobright.ai/jobs/info/69d5a768e63cea7a8b662b44?utm_campaign=Data%20Analysis&utm_source=1103)** | Lahey Hospital and Medical Center | On Site | Apr 06 |
 | **[New Mexico Department of Health](https://www.nmhealth.org/)** | **[Associate Data Analyst (DOH/CHP #11346)](https://jobright.ai/jobs/info/69ccb2c3cfdc6132f94125dd?utm_campaign=Data%20Analysis&utm_source=1103)** | Santa Fe, NM | On Site | Apr 06 |
@@ -280,6 +284,7 @@ For a complete list, click the following sortable link below:
 | **[PitchBook](http://www.pitchbook.com)** | **[Associate Data Analyst, Customer Support](https://jobright.ai/jobs/info/69cf0501398fb071abf8bac0?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Apr 02 |
 | **[Zelis](https://www.zelis.com)** | **[Client Data Specialist](https://jobright.ai/jobs/info/69cf04eacdb525785fb9e136?utm_campaign=Data%20Analysis&utm_source=1103)** | Plano, TX | Hybrid | Apr 02 |
 | **[Spotify](http://www.spotify.com)** | **[Associate Data Scientist - User Fraud](https://jobright.ai/jobs/info/69cf03bf54f00230c6d05c71?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, ON | Hybrid | Apr 02 |
+| **[Peraton](https://www.peraton.com/)** | **[All-Source Analyst with Security Clearance](https://jobright.ai/jobs/info/69d62a89366bb95ba554baba?utm_campaign=Data%20Analysis&utm_source=1103)** | Herndon, Virginia, 20170 | On Site | Apr 02 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Engineering Data Scientist (Entry-Level or Associate)](https://jobright.ai/jobs/info/69cefa78cfdc6132f942e85f?utm_campaign=Data%20Analysis&utm_source=1103)** | USA - Seal Beach, CA | On Site | Apr 02 |
 | **[Bureau Veritas](https://group.bureauveritas.com)** | **[Analyst I - Novi, MI](https://jobright.ai/jobs/info/69cef476891d7b11cfccedd2?utm_campaign=Data%20Analysis&utm_source=1103)** | Detroit, MI | On Site | Apr 02 |
 | **[Co-operators](http://www.cooperators.ca/)** | **[Associate Data & Reporting Analyst](https://jobright.ai/jobs/info/69cef2d1cfdc6132f942e12a?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Apr 02 |
@@ -371,6 +376,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Production Analyst (Contract)](https://jobright.ai/jobs/info/69cd6d62cdb525785fb87e53?utm_campaign=Data%20Analysis&utm_source=1103)** | Waterloo, ON | Hybrid | Apr 01 |
 | **[Greenlight](https://greenlight.com/)** | **[Associate Data Analyst](https://jobright.ai/jobs/info/69c565eee565c26a7000f359?utm_campaign=Data%20Analysis&utm_source=1103)** | Atlanta (Remote Friendly) | Remote | Apr 01 |
 | **[Analysis Group](http://www.analysisgroup.com)** | **[Business Analytics Analyst](https://jobright.ai/jobs/info/69cd6aa9398fb071abf751f4?utm_campaign=Data%20Analysis&utm_source=1103)** | US-MA-Boston | Hybrid | Apr 01 |
-| **[Carrington Holding Company, LLC](http://carringtonhc.com/)** | **[Onsite Quantitative Analytics Analyst, CCM](https://jobright.ai/jobs/info/69ca93c3466f1e133aac4fb7?utm_campaign=Data%20Analysis&utm_source=1103)** | Greenwich, CT | On Site | Apr 01 |
-| **[TRAX International Corporation](https://www.traxintl.com)** | **[Data Collector I](https://jobright.ai/jobs/info/69cd5fe2891d7b11cfcb81ee?utm_campaign=Data%20Analysis&utm_source=1103)** | Yuma Proving Ground, AZ | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
