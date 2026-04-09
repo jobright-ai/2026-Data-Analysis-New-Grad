@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[CDS Trainee - Data Quality](https://jobright.ai/jobs/info/69d7ab94b861c42857c43a1d?utm_campaign=Data%20Analysis&utm_source=1103)** | Inglewood, CA | On Site | Apr 09 |
+| **[DISH TV](https://www.dish.com)** | **[Data Analyst](https://jobright.ai/jobs/info/6981710849964d25b5e46ade?utm_campaign=Data%20Analysis&utm_source=1103)** | Englewood, CO | On Site | Apr 09 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Research Data Associate](https://jobright.ai/jobs/info/69d797f9738f2f099e8949fa?utm_campaign=Data%20Analysis&utm_source=1103)** | Brooklyn, NY | On Site | Apr 09 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Business Intelligence Analyst Associate, Reporting and Analytics](https://jobright.ai/jobs/info/699f5e7094ef206f184e844e?utm_campaign=Data%20Analysis&utm_source=1103)** | Evanston, IL | Hybrid | Apr 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Data Program Associate](https://jobright.ai/jobs/info/69d78df9366bb95ba5556301?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 09 |
@@ -205,7 +207,7 @@ For a complete list, click the following sortable link below:
 | **[Northwestern University](https://www.northwestern.edu)** | **[Research Data Analyst Associate, Pulmonary](https://jobright.ai/jobs/info/69d45908e63cea7a8b658f95?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | On Site | Apr 06 |
 | **[Children's Hospital of Philadelphia](http://chop.edu)** | **[Clinical Research Assistant - Omics and Big Data](https://jobright.ai/jobs/info/69d456cfe63cea7a8b658eea?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | On Site | Apr 06 |
 | **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Biostatistician (Senior Associate)](https://jobright.ai/jobs/info/69965d07e0bddb6acac4ce29?utm_campaign=Data%20Analysis&utm_source=1103)** | Pasadena, California, United States | On Site | Apr 06 |
-| **[UST HealthProof](https://usthealthproof.com)** | **[Business Systems & Data Analytics Associate](https://jobright.ai/jobs/info/69d783b7e63cea7a8b672315?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose | On Site | Apr 06 |
+| **[UST](https://www.ust.com)** | **[Business Systems & Data Analytics Associate](https://jobright.ai/jobs/info/69d7aa3ff4ea471a51fdeb66?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose | On Site | Apr 06 |
 | **[Fred Hutch](http://www.fredhutch.org)** | **[Bioinformatics Analyst I/II](https://jobright.ai/jobs/info/69d43b07366bb95ba553be93?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | Hybrid | Apr 06 |
 | **[CenExel](http://www.CenExelresearch.com)** | **[Research Assistant I - Clinical Research (Night Shift)](https://jobright.ai/jobs/info/69d458ef366bb95ba553ccaf?utm_campaign=Data%20Analysis&utm_source=1103)** | Anaheim, CA | On Site | Apr 06 |
 | **[GiveWell](https://www.givewell.org/)** | **[Research Analyst](https://jobright.ai/jobs/info/68d1b4d9a54edb3bf3e15438?utm_campaign=Data%20Analysis&utm_source=1103)** | United States + International (Remote) | Remote | Apr 06 |
@@ -303,7 +305,6 @@ For a complete list, click the following sortable link below:
 | **[AIPAC](http://www.aipac.org)** | **[Associate, Digital Data Analyst](https://jobright.ai/jobs/info/69968989e0bddb6acac507a7?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | Hybrid | Apr 03 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Reporting Specialist](https://jobright.ai/jobs/info/69b340cda8ac8e70ff67813d?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, ON | Hybrid | Apr 03 |
 | **[Vantor](https://vantor.com)** | **[Research Analyst](https://jobright.ai/jobs/info/69cc86cfe1921223acc78ba3?utm_campaign=Data%20Analysis&utm_source=1103)** | Tampa, FL | On Site | Apr 03 |
-| **[Scitec](http://scitec.co.kr/)** | **[Associate Mission Data Analyst](https://jobright.ai/jobs/info/69d79f85b861c42857c43664?utm_campaign=Data%20Analysis&utm_source=1103)** | Boulder, CO, US | On Site | Apr 03 |
 | **[Amazon](https://amazon.com)** | **[ICQA Data Analyst](https://jobright.ai/jobs/info/69cffa3a54f00230c6d0e17a?utm_campaign=Data%20Analysis&utm_source=1103)** | Avenel, NJ | On Site | Apr 03 |
 | **[Center for Responsive Schools](http://www.crslearn.org)** | **[Customer Relationship Management Data Associate](https://jobright.ai/jobs/info/69cff7fb366bb95ba551a36b?utm_campaign=Data%20Analysis&utm_source=1103)** | Turners Falls, MA | On Site | Apr 03 |
 | **[Guidehouse](https://guidehouse.com)** | **[Data Scientist](https://jobright.ai/jobs/info/69d565b4891d7b11cfd019cf?utm_campaign=Data%20Analysis&utm_source=1103)** | US - MD, Baltimore | On Site | Apr 03 |
@@ -347,8 +348,4 @@ For a complete list, click the following sortable link below:
 | **[CA Department of Corrections & Rehabilitation](https://www.cdcr.ca.gov/)** | **[Analyst I](https://jobright.ai/jobs/info/69cf0b4dcdb525785fb9e28a?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento, CA | Hybrid | Apr 02 |
 | **[Employment Development Department](https://www.edd.ca.gov/About_EDD/Career_Opportunities.htm)** | **[ANALYST II](https://jobright.ai/jobs/info/69ceea6a398fb071abf8aa50?utm_campaign=Data%20Analysis&utm_source=1103)** | California, United States | Hybrid | Apr 02 |
 | **[Press Ganey](http://www.moreheadassociates.com)** | **[Client Data Specialist I](https://jobright.ai/jobs/info/69cee720891d7b11cfcce376?utm_campaign=Data%20Analysis&utm_source=1103)** | South Bend, IN | On Site | Apr 02 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Analyst, Strategic Insights & Tools](https://jobright.ai/jobs/info/69cee41d398fb071abf8a556?utm_campaign=Data%20Analysis&utm_source=1103)** | US - GA - Atlanta | Hybrid | Apr 02 |
-| **[JPMorganChase](https://www.jpmorganchase.com)** | **[Quantitative Trading & Research - Securities Services - Associate](https://jobright.ai/jobs/info/69cee13dcfdc6132f942d5ae?utm_campaign=Data%20Analysis&utm_source=1103)** | 270 Park Ave, New York, NY, 10017, US | On Site | Apr 02 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Skip Tracer - On-Site - Dallas, Texas](https://jobright.ai/jobs/info/69cee101cdb525785fb9c6a4?utm_campaign=Data%20Analysis&utm_source=1103)** | Dallas, TX (TX143) | On Site | Apr 02 |
-| **[Spotify](http://www.spotify.com)** | **[Associate Data Scientist - User Fraud](https://jobright.ai/jobs/info/69cedbb054f00230c6d04030?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto | Hybrid | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
