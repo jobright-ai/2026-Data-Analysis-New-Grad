@@ -172,7 +172,7 @@ For a complete list, click the following sortable link below:
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Data & Analytics Translator (Des Moines)](https://jobright.ai/jobs/info/69d8e8a49f97a42dc9c1eb1c?utm_campaign=Data%20Analysis&utm_source=1103)** | Des Moines, IA | Hybrid | Apr 10 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Data Program Associate](https://jobright.ai/jobs/info/69d8e8389f97a42dc9c1e9ef?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 10 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist](https://jobright.ai/jobs/info/69a11e2e5218a81676725612?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, MD | On Site | Apr 10 |
-| ↳ | **[Data Scientist](https://jobright.ai/jobs/info/69a1323b5218a81676726d00?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, MD | On Site | Apr 10 |
+| ↳ | **[Data Scientist](https://jobright.ai/jobs/info/69a133675218a81676726e8f?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, MD | On Site | Apr 10 |
 | ↳ | **[Data Scientist](https://jobright.ai/jobs/info/69a125e46b458d060735df19?utm_campaign=Data%20Analysis&utm_source=1103)** | Annapolis Junction, MD | On Site | Apr 10 |
 | ↳ | **[Data Scientist](https://jobright.ai/jobs/info/69a11dab81476f6176bb7598?utm_campaign=Data%20Analysis&utm_source=1103)** | Annapolis Junction, MD | On Site | Apr 10 |
 | **[Gotion Inc.](https://www.gotion.com)** | **[Data Analyst](https://jobright.ai/jobs/info/69a6789fd706a731db386745?utm_campaign=Data%20Analysis&utm_source=1103)** | Manteno, IL | On Site | Apr 10 |
@@ -220,7 +220,7 @@ For a complete list, click the following sortable link below:
 | **[Stagwell](http://www.stagwellgroup.com/)** | **[Research Analyst](https://jobright.ai/jobs/info/69d80cde869c7e25d8593620?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY | On Site | Apr 09 |
 | ↳ | **[Research Analyst](https://jobright.ai/jobs/info/69d80c7a9f97a42dc9c19fcc?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC | On Site | Apr 09 |
 | **[COUNTRY Financial®](https://www.countryfinancial.com)** | **[Data Imaging Assistant](https://jobright.ai/jobs/info/69d80967869c7e25d85930c5?utm_campaign=Data%20Analysis&utm_source=1103)** | Bloomington, IL | On Site | Apr 09 |
-| **[OHSU School of Dentistry](https://ohsu.edu/sod)** | **[Research Assistant](https://jobright.ai/jobs/info/69d95928b67cec4f9b0a15a1?utm_campaign=Data%20Analysis&utm_source=1103)** | US-OR-Portland | On Site | Apr 09 |
+| **[OHSU School of Dentistry](https://ohsu.edu/sod)** | **[Research Assistant](https://jobright.ai/jobs/info/69d959199f97a42dc9c20da6?utm_campaign=Data%20Analysis&utm_source=1103)** | Portland, OR, US | On Site | Apr 09 |
 | **[aytm](http://aytm.com)** | **[Research Analyst REMOTE FROM ANYWHERE IN THE USA](https://jobright.ai/jobs/info/69d7fd5db67cec4f9b09986a?utm_campaign=Data%20Analysis&utm_source=1103)** | REMOTE-United States | Remote | Apr 09 |
 | **[Baker Tilly](https://www.bakertilly.global/)** | **[Innovation Analyst](https://jobright.ai/jobs/info/69d7fbf7f4ea471a51fe2bee?utm_campaign=Data%20Analysis&utm_source=1103)** | Madison, WI | Remote | Apr 09 |
 | ↳ | **[Innovation Analyst](https://jobright.ai/jobs/info/69d7fbf49f97a42dc9c193df?utm_campaign=Data%20Analysis&utm_source=1103)** | USA WI Milwaukee | Remote | Apr 09 |
@@ -379,8 +379,8 @@ For a complete list, click the following sortable link below:
 | **[Orbital Engineering, Inc.](http://orbitalengr.com)** | **[GIS Technician I (Entry Level)](https://jobright.ai/jobs/info/69d3e3d1e63cea7a8b654406?utm_campaign=Data%20Analysis&utm_source=1103)** | Pennsylvania, United States | Remote | Apr 06 |
 | ↳ | **[GIS Technician I (Entry Level)](https://jobright.ai/jobs/info/69d3e3d1cfdc6132f9455398?utm_campaign=Data%20Analysis&utm_source=1103)** | Texas, United States | Remote | Apr 06 |
 | ↳ | **[GIS Technician I (Entry Level)](https://jobright.ai/jobs/info/69d3e34c891d7b11cfcf4ec2?utm_campaign=Data%20Analysis&utm_source=1103)** | Missouri, United States | Remote | Apr 06 |
-| ↳ | **[GIS Technician I (Entry Level)](https://jobright.ai/jobs/info/69d3e34acdb525785fbc3e79?utm_campaign=Data%20Analysis&utm_source=1103)** | Ohio, United States | Remote | Apr 06 |
 | ↳ | **[GIS Technician I (Entry Level)](https://jobright.ai/jobs/info/69d3e34a366bb95ba5538237?utm_campaign=Data%20Analysis&utm_source=1103)** | Indiana, United States | Remote | Apr 06 |
+| ↳ | **[GIS Technician I (Entry Level)](https://jobright.ai/jobs/info/69d3e34acdb525785fbc3e79?utm_campaign=Data%20Analysis&utm_source=1103)** | Ohio, United States | Remote | Apr 06 |
 | **[Genentech](http://gene.com)** | **[Data Scientist, Computational Toxicology](https://jobright.ai/jobs/info/69d3daadcdb525785fbc3ad2?utm_campaign=Data%20Analysis&utm_source=1103)** | South San Francisco, CA | On Site | Apr 06 |
 | **[Beth Israel Lahey Health](https://www.bilh.org)** | **[Clinical Database Coordinator](https://jobright.ai/jobs/info/69d5a768e63cea7a8b662b44?utm_campaign=Data%20Analysis&utm_source=1103)** | Lahey Hospital and Medical Center | On Site | Apr 06 |
 | **[Amazon](https://amazon.com)** | **[Data Scientist II - AMZ9774210](https://jobright.ai/jobs/info/69d7d716738f2f099e898b19?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, New York, USA | On Site | Apr 06 |
@@ -396,5 +396,4 @@ For a complete list, click the following sortable link below:
 | **[Tatari](https://www.tatari.tv/)** | **[Data Science Analyst](https://jobright.ai/jobs/info/6949f94dc6f0e2546ceed1fe?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, New York, United States | On Site | Apr 05 |
 | **[GitLab](http://about.gitlab.com)** | **[Data Analyst, Product](https://jobright.ai/jobs/info/69b5b29006c1ba00c547a340?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 05 |
 | ↳ | **[Data Analyst, Product](https://jobright.ai/jobs/info/69b5bc673b74eb1e2c839436?utm_campaign=Data%20Analysis&utm_source=1103)** | Canada | Remote | Apr 05 |
-| **[PitchBook](http://www.pitchbook.com)** | **[Associate Data Analyst, Customer Support](https://jobright.ai/jobs/info/69b2f520a8ac8e70ff671975?utm_campaign=Data%20Analysis&utm_source=1103)** | Seattle, WA | On Site | Apr 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
