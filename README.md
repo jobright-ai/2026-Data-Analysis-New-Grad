@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Descartes Systems Group](https://www.descartes.com/)** | **[Data Processing Analyst](https://jobright.ai/jobs/info/69e7fdfd3aa0c4796439d108?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 21 |
+| **[Descartes Systems Group](https://www.descartes.com/)** | **[Data Processing Analyst](https://jobright.ai/jobs/info/69e80b4d7820c036924d9e6a?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 21 |
+| **[California Department of Developmental Services](https://www.dds.ca.gov)** | **[ANALYST II](https://jobright.ai/jobs/info/69e80a4de0cd471b2f12f1ba?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento, CA | Hybrid | Apr 21 |
 | **[Equinix](http://www.equinix.com)** | **[Data Quality Analyst](https://jobright.ai/jobs/info/69e7f05be0cd471b2f12e631?utm_campaign=Data%20Analysis&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Apr 21 |
 | **[Red Oak Sourcing](https://redoaksourcing.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/69e7ea3858811370cb11f3a9?utm_campaign=Data%20Analysis&utm_source=1103)** | Foxborough (Foxboro), MA | Hybrid | Apr 21 |
 | **[Snap-on](http://www.snapon.com)** | **[Junior Business Intelligence Analyst](https://jobright.ai/jobs/info/69e7de0c7820c036924d8a13?utm_campaign=Data%20Analysis&utm_source=1103)** | Libertyville, IL, US | On Site | Apr 21 |
 | ↳ | **[Junior Business Intelligence Analyst](https://jobright.ai/jobs/info/69e7de07f8fa2f3ec32a9f7f?utm_campaign=Data%20Analysis&utm_source=1103)** | US-IL-Libertyville | On Site | Apr 21 |
 | **[University of Pennsylvania](http://www.upenn.edu)** | **[Clinical Research Coordinator A](https://jobright.ai/jobs/info/69e2ac67be46fa3a4ef58303?utm_campaign=Data%20Analysis&utm_source=1103)** | Philadelphia, PA | On Site | Apr 21 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[DATA SPECIALIST - 04212026-76900](https://jobright.ai/jobs/info/69e7db230a6e09555302c893?utm_campaign=Data%20Analysis&utm_source=1103)** | Davidson County, TN | On Site | Apr 21 |
+| **[Cyera](https://www.cyera.com)** | **[Analyst, DataWatcher - US](https://jobright.ai/jobs/info/69a096160836fe79d8619c33?utm_campaign=Data%20Analysis&utm_source=1103)** | Greater St. Louis | Hybrid | Apr 21 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Clinical Research Coordinator](https://jobright.ai/jobs/info/69e7d3700a6e09555302c6f8?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston, MA | Hybrid | Apr 21 |
 | ↳ | **[Clinical Research Assistant](https://jobright.ai/jobs/info/69e7cebe7820c036924d85bb?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston-MA | On Site | Apr 21 |
 | **[Trexquant Investment LP](http://trexquant.com/)** | **[Quantitative Researcher - Early Career (USA)](https://jobright.ai/jobs/info/69c785121b5ad0288738dcd3?utm_campaign=Data%20Analysis&utm_source=1103)** | NYC Metro Area | On Site | Apr 21 |
@@ -100,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Category Analyst (CPG)](https://jobright.ai/jobs/info/69e7934a0a6e09555302b2e5?utm_campaign=Data%20Analysis&utm_source=1103)** | Rogers, AR | Hybrid | Apr 21 |
 | **[Princeton University](http://www.princeton.edu)** | **[Research Assistant - Temporary](https://jobright.ai/jobs/info/69741bfbbc8e722e7b19102e?utm_campaign=Data%20Analysis&utm_source=1103)** | Princeton, NJ | On Site | Apr 21 |
 | **[Wilmington Trust](https://www.wilmingtontrust.com)** | **[Credit Model Development Quantitative Analyst II - Small Business and Home Secured (Hybrid - see potential locations in job description)](https://jobright.ai/jobs/info/69e74f57f8fa2f3ec32a6e09?utm_campaign=Data%20Analysis&utm_source=1103)** | Buffalo, NY | Hybrid | Apr 21 |
+| **[TRIO - Translational Research in Oncology](http://www.trioncology.org)** | **[Data Analysis Clerk](https://jobright.ai/jobs/info/69e80c1558811370cb1203e6?utm_campaign=Data%20Analysis&utm_source=1103)** | Edmonton, AB, Canada | Remote | Apr 21 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Data Program Associate](https://jobright.ai/jobs/info/69e76aa77820c036924d645a?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 21 |
 | ↳ | **[Data Analyst](https://jobright.ai/jobs/info/69e76a5ae0cd471b2f12b7bd?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Apr 21 |
 | **[Brown & Joseph AR Management | an ARMStrong IS Company](https://www.BrownandJoseph.com)** | **[Data & Administrative Support Analyst (Entry-Level)](https://jobright.ai/jobs/info/69e7e0723aa0c4796439c3f1?utm_campaign=Data%20Analysis&utm_source=1103)** | Itasca, IL | Hybrid | Apr 21 |
@@ -166,8 +169,8 @@ For a complete list, click the following sortable link below:
 | **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Soc/Clin Research Specialist](https://jobright.ai/jobs/info/69e651da3cfd986aa6f84cf5?utm_campaign=Data%20Analysis&utm_source=1103)** | North Carolina, United States | On Site | Apr 19 |
 | ↳ | **[Soc/Clin Research Assistant](https://jobright.ai/jobs/info/69e651b07820c036924cf81c?utm_campaign=Data%20Analysis&utm_source=1103)** | North Carolina, United States | On Site | Apr 19 |
 | ↳ | **[Soc/Clin Research Specialist](https://jobright.ai/jobs/info/69e6515af8fa2f3ec32a0e6b?utm_campaign=Data%20Analysis&utm_source=1103)** | North Carolina, United States | On Site | Apr 19 |
-| **[University of Florida](https://www.ufl.edu)** | **[OPS Research Assistant](https://jobright.ai/jobs/info/69e74f0b0a6e095553029f86?utm_campaign=Data%20Analysis&utm_source=1103)** | Gainesville, FL | On Site | Apr 19 |
-| ↳ | **[OPS Research Assistant](https://jobright.ai/jobs/info/69d833c1f4ea471a51fe4831?utm_campaign=Data%20Analysis&utm_source=1103)** | Gainesville, FL | On Site | Apr 19 |
+| **[University of Florida](https://www.ufl.edu)** | **[OPS Research Assistant](https://jobright.ai/jobs/info/69d833c1f4ea471a51fe4831?utm_campaign=Data%20Analysis&utm_source=1103)** | Gainesville, FL | On Site | Apr 19 |
+| ↳ | **[OPS Research Assistant](https://jobright.ai/jobs/info/69e74f0b0a6e095553029f86?utm_campaign=Data%20Analysis&utm_source=1103)** | Gainesville, FL | On Site | Apr 19 |
 | **[Tatari](https://www.tatari.tv/)** | **[Data Science Analyst](https://jobright.ai/jobs/info/6949f94dc6f0e2546ceed1fe?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, New York, United States | On Site | Apr 19 |
 | **[Triumvirate Environmental](http://www.triumvirate.com)** | **[Interim Business Data Insight Analyst](https://jobright.ai/jobs/info/69beaad94828227293016f62?utm_campaign=Data%20Analysis&utm_source=1103)** | Somerville, MA | On Site | Apr 19 |
 | **[Communication Technology Services (CTS)](http://www.cts1.com)** | **[Data Validation Associate](https://jobright.ai/jobs/info/69d44dd3cdb525785fbc82c6?utm_campaign=Data%20Analysis&utm_source=1103)** | Marlborough, MA | Remote | Apr 19 |
