@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trinity Health](http://www.trinity-health.org)** | **[Oncology Data Specialist](https://jobright.ai/jobs/info/69af265c6b21de023e604c88?utm_campaign=Data%20Analysis&utm_source=1103)** | Silver Spring, MD | On Site | Apr 22 |
+| **[Starcom](http://www.starcomww.com)** | **[Senior Analyst, Applied Analytics (Media Advertising)](https://jobright.ai/jobs/info/69cc66078130af1ac8338410?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL | Hybrid | Apr 22 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Data Analyst I](https://jobright.ai/jobs/info/69e902fd3aa0c479643a679f?utm_campaign=Data%20Analysis&utm_source=1103)** | Somerville-MA, US | Remote | Apr 22 |
 | **[Aquatic Capital Management](https://aquatic.com)** | **[Quantitative Researcher, Early Career](https://jobright.ai/jobs/info/69cd81f4cdb525785fb89761?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, New York | On Site | Apr 22 |
 | **[Datavant](https://datavant.com)** | **[Embedded ROI Processor: Hourly - Provider](https://jobright.ai/jobs/info/69e8f6c57820c036924e3f64?utm_campaign=Data%20Analysis&utm_source=1103)** | Remote - United States | Remote | Apr 22 |
@@ -209,11 +211,11 @@ For a complete list, click the following sortable link below:
 | **[DHL Supply Chain](https://www.dhl.com/gb-en/home/supply-chain.html)** | **[Business Data Analyst I](https://jobright.ai/jobs/info/69c566b31818a24cd84b4c61?utm_campaign=Data%20Analysis&utm_source=1103)** | Jacksonville, FL | On Site | Apr 20 |
 | **[University of Michigan](https://www.umich.edu)** | **[Research Area Specialist Assoc](https://jobright.ai/jobs/info/68c3bd576031587f8458e512?utm_campaign=Data%20Analysis&utm_source=1103)** | Ann Arbor, MI | Hybrid | Apr 20 |
 | **[Arizona Small Business Association - ASBA](https://www.asba.com)** | **[Associate Researcher](https://jobright.ai/jobs/info/69e870ad3aa0c479643a336f?utm_campaign=Data%20Analysis&utm_source=1103)** | Scottsdale, AZ | On Site | Apr 19 |
-| **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Soc/Clin Research Assistant](https://jobright.ai/jobs/info/69e651b07820c036924cf81c?utm_campaign=Data%20Analysis&utm_source=1103)** | North Carolina, United States | On Site | Apr 19 |
-| ↳ | **[Soc/Clin Research Specialist](https://jobright.ai/jobs/info/69e651da3cfd986aa6f84cf5?utm_campaign=Data%20Analysis&utm_source=1103)** | North Carolina, United States | On Site | Apr 19 |
+| **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Soc/Clin Research Specialist](https://jobright.ai/jobs/info/69e651da3cfd986aa6f84cf5?utm_campaign=Data%20Analysis&utm_source=1103)** | North Carolina, United States | On Site | Apr 19 |
 | ↳ | **[Soc/Clin Research Specialist](https://jobright.ai/jobs/info/69e6515af8fa2f3ec32a0e6b?utm_campaign=Data%20Analysis&utm_source=1103)** | North Carolina, United States | On Site | Apr 19 |
-| **[University of Florida](https://www.ufl.edu)** | **[OPS Research Assistant](https://jobright.ai/jobs/info/69e74f0b0a6e095553029f86?utm_campaign=Data%20Analysis&utm_source=1103)** | Gainesville, FL | On Site | Apr 19 |
-| ↳ | **[OPS Research Assistant](https://jobright.ai/jobs/info/69d833c1f4ea471a51fe4831?utm_campaign=Data%20Analysis&utm_source=1103)** | Gainesville, FL | On Site | Apr 19 |
+| ↳ | **[Soc/Clin Research Assistant](https://jobright.ai/jobs/info/69e651b07820c036924cf81c?utm_campaign=Data%20Analysis&utm_source=1103)** | North Carolina, United States | On Site | Apr 19 |
+| **[University of Florida](https://www.ufl.edu)** | **[OPS Research Assistant](https://jobright.ai/jobs/info/69d833c1f4ea471a51fe4831?utm_campaign=Data%20Analysis&utm_source=1103)** | Gainesville, FL | On Site | Apr 19 |
+| ↳ | **[OPS Research Assistant](https://jobright.ai/jobs/info/69e74f0b0a6e095553029f86?utm_campaign=Data%20Analysis&utm_source=1103)** | Gainesville, FL | On Site | Apr 19 |
 | **[Tatari](https://www.tatari.tv/)** | **[Data Science Analyst](https://jobright.ai/jobs/info/6949f94dc6f0e2546ceed1fe?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, New York, United States | On Site | Apr 19 |
 | **[Triumvirate Environmental](http://www.triumvirate.com)** | **[Interim Business Data Insight Analyst](https://jobright.ai/jobs/info/69beaad94828227293016f62?utm_campaign=Data%20Analysis&utm_source=1103)** | Somerville, MA | On Site | Apr 19 |
 | **[Communication Technology Services (CTS)](http://www.cts1.com)** | **[Data Validation Associate](https://jobright.ai/jobs/info/69d44dd3cdb525785fbc82c6?utm_campaign=Data%20Analysis&utm_source=1103)** | Marlborough, MA | Remote | Apr 19 |
@@ -340,6 +342,4 @@ For a complete list, click the following sortable link below:
 | **[The University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Research Specialist](https://jobright.ai/jobs/info/69e864660a6e095553033580?utm_campaign=Data%20Analysis&utm_source=1103)** | North Carolina, United States | On Site | Apr 15 |
 | **[Martin Retail Group](http://martinretail.com)** | **[Data Analyst](https://jobright.ai/jobs/info/69e1caec6c20aa1149542f52?utm_campaign=Data%20Analysis&utm_source=1103)** | Birmingham, AL | Hybrid | Apr 15 |
 | **[Super.com](https://www.super.com)** | **[Customer Insights & VoC Analyst](https://jobright.ai/jobs/info/69e1ae6940a62c1fa93b9943?utm_campaign=Data%20Analysis&utm_source=1103)** | Canada | Remote | Apr 15 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist](https://jobright.ai/jobs/info/69e04990aba61f14173206f5?utm_campaign=Data%20Analysis&utm_source=1103)** | Stafford, VA | On Site | Apr 15 |
-| **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Clinical Research Assistant - IBD Center](https://jobright.ai/jobs/info/69e047795913ad3398148b47?utm_campaign=Data%20Analysis&utm_source=1103)** | Boston | Hybrid | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
