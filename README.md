@@ -50,6 +50,9 @@ For a complete list, click the following sortable link below:
 </div>
 
 ---
+
+> 🇨🇦 Looking specifically for Canada-based student roles? [Hanzilla Jobs](https://jobs.hanzilla.co/categories/data-ml/) is a free daily-updated Canadian student/recent-grad job board for data analysis, data science, AI/ML, business analytics, internships, co-ops, new-grad, junior, and entry-level roles across fields.
+
 ## Daily Job List  🌐 🧭 🏆
 
 
