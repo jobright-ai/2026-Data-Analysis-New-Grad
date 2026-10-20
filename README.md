@@ -59,46 +59,46 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[3Red Partners](https://www.3redpartners.com/)** | **[Graduate Quantitative Researcher (2027 Incoming Graduate, Full-Time)](https://jobright.ai/jobs/info/6a5a56973ac7627fe90036fe?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL, United States | On Site | Oct 19 |
 | **[SpaceXAI](https://x.ai)** | **[Research Analyst](https://jobright.ai/jobs/info/6a7a6fac67a1ad0bc53d35d4?utm_campaign=Data%20Analysis&utm_source=1103)** | United States | Remote | Oct 19 |
-| **[RI-MUHC | Research Institute of the MUHC | #rimuhc](https://rimuhc.ca/)** | **[Research Assistant](https://jobright.ai/jobs/info/6a59b19f4da96a42cfd92414?utm_campaign=Data%20Analysis&utm_source=1103)** | Montréal, QC, Canada | On Site | Oct 19 |
-| ↳ | **[Research Assistant](https://jobright.ai/jobs/info/6a4891aa971cd25b06f9467b?utm_campaign=Data%20Analysis&utm_source=1103)** | Montréal, QC, CA | On Site | Oct 19 |
+| **[RI-MUHC | Research Institute of the MUHC | #rimuhc](https://rimuhc.ca/)** | **[Research Assistant](https://jobright.ai/jobs/info/6a4891aa971cd25b06f9467b?utm_campaign=Data%20Analysis&utm_source=1103)** | Montréal, QC, CA | On Site | Oct 19 |
+| ↳ | **[Research Assistant](https://jobright.ai/jobs/info/6a59b19f4da96a42cfd92414?utm_campaign=Data%20Analysis&utm_source=1103)** | Montréal, QC, Canada | On Site | Oct 19 |
 | **[The Retail Odyssey Company](https://retailodyssey.com/)** | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5b767bec1d0d9c72c75?utm_campaign=Data%20Analysis&utm_source=1103)** | Newburg, WI, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5b667bec1d0d9c72c74?utm_campaign=Data%20Analysis&utm_source=1103)** | Salem, WI, United States | On Site | Oct 19 |
-| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5b5950ef68d5183d9c1?utm_campaign=Data%20Analysis&utm_source=1103)** | Milwaukee, WI, United States | On Site | Oct 19 |
-| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5b5950ef68d5183d9bf?utm_campaign=Data%20Analysis&utm_source=1103)** | Big Bend, WI, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5b5950ef68d5183d9be?utm_campaign=Data%20Analysis&utm_source=1103)** | East Troy, WI, United States | On Site | Oct 19 |
+| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5b5950ef68d5183d9bf?utm_campaign=Data%20Analysis&utm_source=1103)** | Big Bend, WI, United States | On Site | Oct 19 |
+| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5b5950ef68d5183d9c1?utm_campaign=Data%20Analysis&utm_source=1103)** | Milwaukee, WI, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5b452aa6152bb699269?utm_campaign=Data%20Analysis&utm_source=1103)** | Waterford, WI, United States | On Site | Oct 19 |
+| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5b352aa6152bb699268?utm_campaign=Data%20Analysis&utm_source=1103)** | Spring Grove, IL, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5b354bbabbab06fbfdb?utm_campaign=Data%20Analysis&utm_source=1103)** | Cedarburg, WI, United States | On Site | Oct 19 |
-| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5b33dc655658d8e9d56?utm_campaign=Data%20Analysis&utm_source=1103)** | Lake Geneva, WI, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5b33dc655658d8e9d57?utm_campaign=Data%20Analysis&utm_source=1103)** | Thiensville, WI, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5b33dc655658d8e9d58?utm_campaign=Data%20Analysis&utm_source=1103)** | Waukegan, IL, United States | On Site | Oct 19 |
-| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5b352aa6152bb699268?utm_campaign=Data%20Analysis&utm_source=1103)** | Spring Grove, IL, United States | On Site | Oct 19 |
+| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5b33dc655658d8e9d56?utm_campaign=Data%20Analysis&utm_source=1103)** | Lake Geneva, WI, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5b2e4b94611ab8428ee?utm_campaign=Data%20Analysis&utm_source=1103)** | Russell, IL, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5b254bbabbab06fbfda?utm_campaign=Data%20Analysis&utm_source=1103)** | Racine, WI, United States | On Site | Oct 19 |
-| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5b167bec1d0d9c72c6b?utm_campaign=Data%20Analysis&utm_source=1103)** | Hartland, WI, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5b167bec1d0d9c72c6c?utm_campaign=Data%20Analysis&utm_source=1103)** | Oak Creek, WI, United States | On Site | Oct 19 |
+| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5b167bec1d0d9c72c6b?utm_campaign=Data%20Analysis&utm_source=1103)** | Hartland, WI, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5b054bbabbab06fbfd8?utm_campaign=Data%20Analysis&utm_source=1103)** | Kenosha, WI, United States | On Site | Oct 19 |
-| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5af3dc655658d8e9d51?utm_campaign=Data%20Analysis&utm_source=1103)** | Grayslake, IL, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5af3dc655658d8e9d52?utm_campaign=Data%20Analysis&utm_source=1103)** | Burlington, WI, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5afe4b94611ab8428eb?utm_campaign=Data%20Analysis&utm_source=1103)** | Union Grove, Wisconsin, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5afe4b94611ab8428ea?utm_campaign=Data%20Analysis&utm_source=1103)** | Port Washington, WI, United States | On Site | Oct 19 |
+| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5af3dc655658d8e9d51?utm_campaign=Data%20Analysis&utm_source=1103)** | Grayslake, IL, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5ae54bbabbab06fbfd5?utm_campaign=Data%20Analysis&utm_source=1103)** | Menomonee Falls, WI, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5ae54bbabbab06fbfd4?utm_campaign=Data%20Analysis&utm_source=1103)** | Bassett, WI, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5aee4b94611ab8428e9?utm_campaign=Data%20Analysis&utm_source=1103)** | Hebron, IL, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5ad67bec1d0d9c72c67?utm_campaign=Data%20Analysis&utm_source=1103)** | Sturtevant, WI, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5ad3dc655658d8e9d4d?utm_campaign=Data%20Analysis&utm_source=1103)** | Zion, IL, United States | On Site | Oct 19 |
-| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5ad3dc655658d8e9d4c?utm_campaign=Data%20Analysis&utm_source=1103)** | Antioch, IL, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5ad54bbabbab06fbfd3?utm_campaign=Data%20Analysis&utm_source=1103)** | Union Grove, Wisconsin, United States | On Site | Oct 19 |
+| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5ad3dc655658d8e9d4c?utm_campaign=Data%20Analysis&utm_source=1103)** | Antioch, IL, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5ad3dc655658d8e9d4a?utm_campaign=Data%20Analysis&utm_source=1103)** | Pell Lake, WI, United States | On Site | Oct 19 |
-| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5ac52aa6152bb699263?utm_campaign=Data%20Analysis&utm_source=1103)** | New Berlin, WI, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5ac52aa6152bb699262?utm_campaign=Data%20Analysis&utm_source=1103)** | Salem, WI, United States | On Site | Oct 19 |
+| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5ac52aa6152bb699263?utm_campaign=Data%20Analysis&utm_source=1103)** | New Berlin, WI, United States | On Site | Oct 19 |
+| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5aa52aa6152bb69925f?utm_campaign=Data%20Analysis&utm_source=1103)** | Lake Forest, IL, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5aa54bbabbab06fbfce?utm_campaign=Data%20Analysis&utm_source=1103)** | Elkhorn, WI, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5aa52aa6152bb699260?utm_campaign=Data%20Analysis&utm_source=1103)** | Franksville, WI, United States | On Site | Oct 19 |
-| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5aa52aa6152bb69925f?utm_campaign=Data%20Analysis&utm_source=1103)** | Lake Forest, IL, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5aa3dc655658d8e9d48?utm_campaign=Data%20Analysis&utm_source=1103)** | Slinger, WI, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5aa54bbabbab06fbfcf?utm_campaign=Data%20Analysis&utm_source=1103)** | Brown Deer, WI, United States | On Site | Oct 19 |
-| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5a9950ef68d5183d9b3?utm_campaign=Data%20Analysis&utm_source=1103)** | West Bend, WI, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5a9950ef68d5183d9b4?utm_campaign=Data%20Analysis&utm_source=1103)** | Twin Lakes, WI, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5a9e4b94611ab8428e4?utm_campaign=Data%20Analysis&utm_source=1103)** | Waukesha, WI, United States | On Site | Oct 19 |
+| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad6f5a9950ef68d5183d9b3?utm_campaign=Data%20Analysis&utm_source=1103)** | West Bend, WI, United States | On Site | Oct 19 |
 | **[Benevilla](http://www.benevilla.org)** | **[Database Analyst - Donor Relations](https://jobright.ai/jobs/info/6ad6f539e4b94611ab8428cd?utm_campaign=Data%20Analysis&utm_source=1103)** | Surprise, AZ, United States | On Site | Oct 19 |
 | **[Moxxi Digital](https://moxxi.io)** | **[Junior Optimization Analyst](https://jobright.ai/jobs/info/6ad6e8db67bec1d0d9c72910?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY, United States | On Site | Oct 19 |
 | **[Optimal Care](https://carelinehealthgroup.com)** | **[Analytics Specialist](https://jobright.ai/jobs/info/6ad67b2467bec1d0d9c6f529?utm_campaign=Data%20Analysis&utm_source=1103)** | Grand Rapids, MI, United States | On Site | Oct 19 |
@@ -131,9 +131,9 @@ For a complete list, click the following sortable link below:
 | **[Waggoner Engineering](http://waggonereng.com)** | **[GIS Analyst / Specialist I](https://jobright.ai/jobs/info/6ad682f4950ef68d5183abc9?utm_campaign=Data%20Analysis&utm_source=1103)** | Bossier City, LA, United States | On Site | Oct 19 |
 | **[Sports Info Solutions](https://www.sportsinfosolutions.com)** | **[2027 Baseball Data Scout](https://jobright.ai/jobs/info/6ad67e7d54bbabbab06f8c3c?utm_campaign=Data%20Analysis&utm_source=1103)** | Alabama, United States | Remote | Oct 19 |
 | **[Fortress Information Security](https://www.fortressinfosec.com/)** | **[Fortress FastLane, Data Quality Analyst](https://jobright.ai/jobs/info/6ad6774354bbabbab06f863c?utm_campaign=Data%20Analysis&utm_source=1103)** | Greater Orlando, United States | Remote | Oct 19 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist](https://jobright.ai/jobs/info/6a9b4dd4fe45b8490f607efb?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, MD, United States | On Site | Oct 19 |
-| ↳ | **[Data Scientist](https://jobright.ai/jobs/info/6ad62d4154bbabbab06f5204?utm_campaign=Data%20Analysis&utm_source=1103)** | Stafford, VA, United States | On Site | Oct 19 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Scientist](https://jobright.ai/jobs/info/6a9b4e36d5ff1f3f1c39ec0a?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Meade, MD, United States | On Site | Oct 19 |
 | ↳ | **[Data Scientist](https://jobright.ai/jobs/info/6ac97ce8d4a5a03707412879?utm_campaign=Data%20Analysis&utm_source=1103)** | Washington, DC, United States | On Site | Oct 19 |
+| ↳ | **[Data Scientist](https://jobright.ai/jobs/info/6ad62d4154bbabbab06f5204?utm_campaign=Data%20Analysis&utm_source=1103)** | Stafford, VA, United States | On Site | Oct 19 |
 | **[Virginia Tech](http://www.vt.edu)** | **[Research Data Analyst](https://jobright.ai/jobs/info/6ad6719f52aa6152bb695538?utm_campaign=Data%20Analysis&utm_source=1103)** | Arlington, VA, United States | On Site | Oct 19 |
 | **[Weill Cornell Medicine](https://careers.weill.cornell.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/6ab1632023005eee3545a196?utm_campaign=Data%20Analysis&utm_source=1103)** | Upper East Side, United States | On Site | Oct 19 |
 | ↳ | **[Research Assistant](https://jobright.ai/jobs/info/6ad25a5b810010ec72f5789d?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY, United States | On Site | Oct 19 |
@@ -149,15 +149,15 @@ For a complete list, click the following sortable link below:
 | **[The Retail Odyssey Company](https://retailodyssey.com/)** | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad64d0454bbabbab06f6703?utm_campaign=Data%20Analysis&utm_source=1103)** | Dayton, OH, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad64d0152aa6152bb6938d3?utm_campaign=Data%20Analysis&utm_source=1103)** | Lebanon, OH, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad64cfce4b94611ab83cf63?utm_campaign=Data%20Analysis&utm_source=1103)** | Morrow, OH, United States | On Site | Oct 19 |
-| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad64cfb52aa6152bb6938c5?utm_campaign=Data%20Analysis&utm_source=1103)** | Cincinnati, OH, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad64cfb52aa6152bb6938c6?utm_campaign=Data%20Analysis&utm_source=1103)** | Hamilton, OH, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad64cfb54bbabbab06f66f0?utm_campaign=Data%20Analysis&utm_source=1103)** | Cuba, OH, United States | On Site | Oct 19 |
+| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad64cfb52aa6152bb6938c5?utm_campaign=Data%20Analysis&utm_source=1103)** | Cincinnati, OH, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad64cfa54bbabbab06f66ef?utm_campaign=Data%20Analysis&utm_source=1103)** | Blanchester, OH, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad64cf93dc655658d8e44f9?utm_campaign=Data%20Analysis&utm_source=1103)** | Miamisburg, OH, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad64cf83dc655658d8e44f2?utm_campaign=Data%20Analysis&utm_source=1103)** | Loveland, OH, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad64cf852aa6152bb6938ba?utm_campaign=Data%20Analysis&utm_source=1103)** | Middletown, OH, United States | On Site | Oct 19 |
-| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad64cf552aa6152bb6938ae?utm_campaign=Data%20Analysis&utm_source=1103)** | Mason, OH, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad64cf552aa6152bb6938af?utm_campaign=Data%20Analysis&utm_source=1103)** | Franklin, OH, United States | On Site | Oct 19 |
+| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad64cf552aa6152bb6938ae?utm_campaign=Data%20Analysis&utm_source=1103)** | Mason, OH, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad64cf4e4b94611ab83cf4f?utm_campaign=Data%20Analysis&utm_source=1103)** | Wilmington, OH, United States | On Site | Oct 19 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad64cf152aa6152bb6938a9?utm_campaign=Data%20Analysis&utm_source=1103)** | Clarksville, OH, United States | On Site | Oct 19 |
 | **[PA Consulting](http://www.paconsulting.com/)** | **[2027 Graduate - Digital & Data Analyst - Manchester](https://jobright.ai/jobs/info/6ad617243dc655658d8e23df?utm_campaign=Data%20Analysis&utm_source=1103)** | Manchester, England, United Kingdom | Hybrid | Oct 19 |
@@ -212,19 +212,19 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad4fbc0ebd52f378af8ede3?utm_campaign=Data%20Analysis&utm_source=1103)** | Royal Oak, MI, United States | On Site | Oct 18 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad4fbbdf04335fc70edcc2d?utm_campaign=Data%20Analysis&utm_source=1103)** | Roseville, MI, United States | On Site | Oct 18 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad4fbbdf04335fc70edcc2e?utm_campaign=Data%20Analysis&utm_source=1103)** | Clarkston, MI, United States | On Site | Oct 18 |
-| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad4fbbcebd52f378af8edca?utm_campaign=Data%20Analysis&utm_source=1103)** | Southfield, MI, United States | On Site | Oct 18 |
-| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad4fbbcebd52f378af8edcd?utm_campaign=Data%20Analysis&utm_source=1103)** | Warren, MI, United States | On Site | Oct 18 |
-| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad4fbbcc4290cef14132597?utm_campaign=Data%20Analysis&utm_source=1103)** | Farmington Hills, MI, United States | On Site | Oct 18 |
-| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad4fbbcc4290cef14132598?utm_campaign=Data%20Analysis&utm_source=1103)** | Inkster, MI, United States | On Site | Oct 18 |
-| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad4fbbcf04335fc70edcc27?utm_campaign=Data%20Analysis&utm_source=1103)** | Romulus, MI, United States | On Site | Oct 18 |
-| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad4fbbcebd52f378af8edce?utm_campaign=Data%20Analysis&utm_source=1103)** | Milford, MI, United States | On Site | Oct 18 |
-| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad4fbbc25289a0b3bf5e188?utm_campaign=Data%20Analysis&utm_source=1103)** | Waterford, MI, United States | On Site | Oct 18 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad4fbbc25289a0b3bf5e17f?utm_campaign=Data%20Analysis&utm_source=1103)** | South Lyon, MI, United States | On Site | Oct 18 |
+| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad4fbbcf04335fc70edcc27?utm_campaign=Data%20Analysis&utm_source=1103)** | Romulus, MI, United States | On Site | Oct 18 |
+| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad4fbbc25289a0b3bf5e188?utm_campaign=Data%20Analysis&utm_source=1103)** | Waterford, MI, United States | On Site | Oct 18 |
+| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad4fbbcc4290cef14132597?utm_campaign=Data%20Analysis&utm_source=1103)** | Farmington Hills, MI, United States | On Site | Oct 18 |
+| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad4fbbcebd52f378af8edca?utm_campaign=Data%20Analysis&utm_source=1103)** | Southfield, MI, United States | On Site | Oct 18 |
+| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad4fbbcc4290cef14132598?utm_campaign=Data%20Analysis&utm_source=1103)** | Inkster, MI, United States | On Site | Oct 18 |
+| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad4fbbcebd52f378af8edce?utm_campaign=Data%20Analysis&utm_source=1103)** | Milford, MI, United States | On Site | Oct 18 |
+| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad4fbbcebd52f378af8edcd?utm_campaign=Data%20Analysis&utm_source=1103)** | Warren, MI, United States | On Site | Oct 18 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad4fbbbf04335fc70edcc26?utm_campaign=Data%20Analysis&utm_source=1103)** | Detroit, MI, United States | On Site | Oct 18 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad4fbba25289a0b3bf5e175?utm_campaign=Data%20Analysis&utm_source=1103)** | Detroit, MI, United States | On Site | Oct 18 |
 | **[VT Group (VTG)](https://vtgdefense.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/6a82f217379c304e892f3fab?utm_campaign=Data%20Analysis&utm_source=1103)** | Chantilly, VA, United States | On Site | Oct 18 |
-| **[Amentum](https://www.amentum.com/)** | **[Junior GEOINT Analyst](https://jobright.ai/jobs/info/6a4c1d1a971cd25b06f99af7?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Bragg, NC, United States | On Site | Oct 18 |
-| ↳ | **[Junior GEOINT Analyst](https://jobright.ai/jobs/info/6aad5ac62e757fcb5c8b7cf5?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Bragg, NC, United States | On Site | Oct 18 |
+| **[Amentum](https://www.amentum.com/)** | **[Junior GEOINT Analyst](https://jobright.ai/jobs/info/6aad5ac62e757fcb5c8b7cf5?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Bragg, NC, United States | On Site | Oct 18 |
+| ↳ | **[Junior GEOINT Analyst](https://jobright.ai/jobs/info/6a4c1d1a971cd25b06f99af7?utm_campaign=Data%20Analysis&utm_source=1103)** | Fort Bragg, NC, United States | On Site | Oct 18 |
 | **[SpaceX](https://www.spacex.com)** | **[Data Scientist (Starlink)](https://jobright.ai/jobs/info/6a9ad73090a313642c6565ae?utm_campaign=Data%20Analysis&utm_source=1103)** | Redmond, WA, United States | On Site | Oct 18 |
 | **[Anord Mardix](http://anordmardix.com/)** | **[Warehouse Analyst](https://jobright.ai/jobs/info/6a9b1c59d5ff1f3f1c39db18?utm_campaign=Data%20Analysis&utm_source=1103)** | Henrico, VA, United States | On Site | Oct 18 |
 | **[Tempus AI](https://www.tempus.com)** | **[Junior Clinical Trials Data Specialist](https://jobright.ai/jobs/info/6a52bf108576ec69c014d312?utm_campaign=Data%20Analysis&utm_source=1103)** | Illinois, United States | Remote | Oct 18 |
@@ -255,17 +255,17 @@ For a complete list, click the following sortable link below:
 | **[The University of Texas at Dallas](https://www.utdallas.edu)** | **[Information Analyst I](https://jobright.ai/jobs/info/6ad24b41c4290cef14129ca9?utm_campaign=Data%20Analysis&utm_source=1103)** | Taylorsville, UT, United States | Hybrid | Oct 16 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Research Analyst  – University Graduate (US)](https://jobright.ai/jobs/info/6a672ed2d0fb4c3df393c119?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY, United States | On Site | Oct 16 |
 | **[Tekmerion Capital Management, LP](https://tekmerioncapital.com)** | **[Data Analyst](https://jobright.ai/jobs/info/6a88c5a6e8b6601d12908a6b?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY, United States | On Site | Oct 16 |
-| **[The Retail Odyssey Company](https://retailodyssey.com/)** | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad3eba7c4290cef1412ffe2?utm_campaign=Data%20Analysis&utm_source=1103)** | Studley, VA, United States | On Site | Oct 16 |
-| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad3eb8bc4290cef1412ff85?utm_campaign=Data%20Analysis&utm_source=1103)** | Glen Allen, VA, United States | On Site | Oct 16 |
-| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad3e6bac4290cef1412fe6c?utm_campaign=Data%20Analysis&utm_source=1103)** | Hanover, VA, United States | On Site | Oct 16 |
-| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad3ebc4810010ec72f5d07e?utm_campaign=Data%20Analysis&utm_source=1103)** | Henrico, VA, United States | On Site | Oct 16 |
-| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad3eb86c4290cef1412ff79?utm_campaign=Data%20Analysis&utm_source=1103)** | Sandston, VA, United States | On Site | Oct 16 |
+| **[The Retail Odyssey Company](https://retailodyssey.com/)** | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad3e6b9810010ec72f5ce9e?utm_campaign=Data%20Analysis&utm_source=1103)** | Midlothian, VA, United States | On Site | Oct 16 |
+| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad3eba7c4290cef1412ffe2?utm_campaign=Data%20Analysis&utm_source=1103)** | Studley, VA, United States | On Site | Oct 16 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad3eb86810010ec72f5cfac?utm_campaign=Data%20Analysis&utm_source=1103)** | Chester, VA, United States | On Site | Oct 16 |
-| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad3eb8af04335fc70eda636?utm_campaign=Data%20Analysis&utm_source=1103)** | Mechanicsville, VA, United States | On Site | Oct 16 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad3e6b983ada13a9da0ac71?utm_campaign=Data%20Analysis&utm_source=1103)** | Manakin, VA, United States | On Site | Oct 16 |
-| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad3e6b9810010ec72f5ce9e?utm_campaign=Data%20Analysis&utm_source=1103)** | Midlothian, VA, United States | On Site | Oct 16 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad3eb8a83ada13a9da0ad66?utm_campaign=Data%20Analysis&utm_source=1103)** | Rockville, VA, United States | On Site | Oct 16 |
+| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad3eb8af04335fc70eda636?utm_campaign=Data%20Analysis&utm_source=1103)** | Mechanicsville, VA, United States | On Site | Oct 16 |
+| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad3e6bac4290cef1412fe6c?utm_campaign=Data%20Analysis&utm_source=1103)** | Hanover, VA, United States | On Site | Oct 16 |
 | ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad3eb9aebd52f378af8c8f8?utm_campaign=Data%20Analysis&utm_source=1103)** | Quinton, VA, United States | On Site | Oct 16 |
+| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad3eb86c4290cef1412ff79?utm_campaign=Data%20Analysis&utm_source=1103)** | Sandston, VA, United States | On Site | Oct 16 |
+| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad3ebc4810010ec72f5d07e?utm_campaign=Data%20Analysis&utm_source=1103)** | Henrico, VA, United States | On Site | Oct 16 |
+| ↳ | **[Retail Data Collector](https://jobright.ai/jobs/info/6ad3eb8bc4290cef1412ff85?utm_campaign=Data%20Analysis&utm_source=1103)** | Glen Allen, VA, United States | On Site | Oct 16 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[Statistical Research Specialist](https://jobright.ai/jobs/info/6ad2a699810010ec72f5959b?utm_campaign=Data%20Analysis&utm_source=1103)** | Oklahoma City, OK, United States | On Site | Oct 16 |
 | **[East Texas A&M University](https://www.etamu.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/6ad252995290d4375c452348?utm_campaign=Data%20Analysis&utm_source=1103)** | College Station, TX, United States | On Site | Oct 16 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Sustainment Data Scientist](https://jobright.ai/jobs/info/6ad297c5c4290cef1412c050?utm_campaign=Data%20Analysis&utm_source=1103)** | San Diego, CA, United States | On Site | Oct 16 |
@@ -364,8 +364,8 @@ For a complete list, click the following sortable link below:
 | **[New York State Office of Mental Health](https://omh.ny.gov)** | **[Data Analyst 1/Trainee 1/Trainee 2](https://jobright.ai/jobs/info/6ad0ce723d3a5aa909b356d5?utm_campaign=Data%20Analysis&utm_source=1103)** | Albany, NY, United States | Hybrid | Oct 15 |
 | **[Tacit](https://tacit.ai/)** | **[Data Collection Technician](https://jobright.ai/jobs/info/6a51c29cbf63b66c7997c44e?utm_campaign=Data%20Analysis&utm_source=1103)** | San Francisco, CA, United States | On Site | Oct 15 |
 | **[Office for National Statistics](http://www.ons.gov.uk/ons/index.html)** | **[Associate Data Scientist](https://jobright.ai/jobs/info/6ad0c46152a37835d5e40958?utm_campaign=Data%20Analysis&utm_source=1103)** | Titchfield, England, United Kingdom | On Site | Oct 15 |
-| **[Optiver](http://www.optiver.com)** | **[Graduate Quantitative Researcher, PhD (2027 Start)](https://jobright.ai/jobs/info/6a4572a63dbab558e29a1497?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL, United States | On Site | Oct 15 |
-| ↳ | **[Graduate Quantitative Researcher, PhD (2027 Start)](https://jobright.ai/jobs/info/6ab3f7b3d2f5fbd604be0860?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY, United States | On Site | Oct 15 |
+| **[Optiver](http://www.optiver.com)** | **[Graduate Quantitative Researcher, PhD (2027 Start)](https://jobright.ai/jobs/info/6ab3f7b3d2f5fbd604be0860?utm_campaign=Data%20Analysis&utm_source=1103)** | New York, NY, United States | On Site | Oct 15 |
+| ↳ | **[Graduate Quantitative Researcher, PhD (2027 Start)](https://jobright.ai/jobs/info/6a4572a63dbab558e29a1497?utm_campaign=Data%20Analysis&utm_source=1103)** | Chicago, IL, United States | On Site | Oct 15 |
 | **[Zopa Bank](http://www.zopa.com)** | **[2027 Graduate Analyst](https://jobright.ai/jobs/info/6a96f61c246d697dcee0239a?utm_campaign=Data%20Analysis&utm_source=1103)** | London, England, United Kingdom | Hybrid | Oct 15 |
 | **[Mercy Medical Center, Baltimore, MD](https://mdmercy.com)** | **[Health Information Analyst](https://jobright.ai/jobs/info/6ad5dc03cfd70948fba49170?utm_campaign=Data%20Analysis&utm_source=1103)** | Baltimore, MD, United States | On Site | Oct 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist - TikTok Integrity and Safety (San Jose)](https://jobright.ai/jobs/info/6a58265e9f1f56462cf68cb5?utm_campaign=Data%20Analysis&utm_source=1103)** | San Jose, CA, United States | On Site | Oct 15 |
@@ -479,12 +479,4 @@ For a complete list, click the following sortable link below:
 | **[Character Biosciences](https://characterbio.com)** | **[Data Scientist I / II](https://jobright.ai/jobs/info/6abbec92b23c6fb2b81a3db5?utm_campaign=Data%20Analysis&utm_source=1103)** | Jersey City, NJ, United States | Remote | Oct 13 |
 | **[Noblis](http://www.noblis.org)** | **[Data Scientist - Cleared (Multiple Levels)](https://jobright.ai/jobs/info/6aa4ca92654b2a9424cf1501?utm_campaign=Data%20Analysis&utm_source=1103)** | Chantilly, VA, United States | On Site | Oct 13 |
 | **[East Texas A&M University](https://www.etamu.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/6ac7efa30e573df8adc7532a?utm_campaign=Data%20Analysis&utm_source=1103)** | Kingsville, TX, United States | On Site | Oct 13 |
-| **[Fidelity Investments](https://www.fidelity.com)** | **[January 2027 - Leap Systems Analyst](https://jobright.ai/jobs/info/6abbcf41d6acfd3dd29fa008?utm_campaign=Data%20Analysis&utm_source=1103)** | Westlake, TX, United States | On Site | Oct 13 |
-| **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[Data Analyst](https://jobright.ai/jobs/info/6ace5fc6680c80c8753bc501?utm_campaign=Data%20Analysis&utm_source=1103)** | Sacramento County, CA, United States | Hybrid | Oct 13 |
-| **[Brunswick Group](http://www.brunswickgroup.com)** | **[Researcher, Analysis & Research Center](https://jobright.ai/jobs/info/6ace4c984391691a335abb84?utm_campaign=Data%20Analysis&utm_source=1103)** | Dallas, TX, United States | On Site | Oct 13 |
-| **[RATP Dev USA](https://www.ratpdevusa.com/)** | **[Data Analyst](https://jobright.ai/jobs/info/6ace5b1eba99f15ef4124544?utm_campaign=Data%20Analysis&utm_source=1103)** | Lexington, KY, United States | On Site | Oct 13 |
-| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Statistics & Decision Sciences Summer Interns 2027](https://jobright.ai/jobs/info/6ace55f6a0453f9ba6248004?utm_campaign=Data%20Analysis&utm_source=1103)** | La Jolla, CA, United States | On Site | Oct 13 |
-| ↳ | **[Statistics & Decision Sciences Summer Interns 2027](https://jobright.ai/jobs/info/6ace51abbb78de94580d55a9?utm_campaign=Data%20Analysis&utm_source=1103)** | Spring House, Pennsylvania, United States | Hybrid | Oct 13 |
-| ↳ | **[Statistics & Decision Sciences Summer Interns 2027](https://jobright.ai/jobs/info/6ace517f4391691a335abdbe?utm_campaign=Data%20Analysis&utm_source=1103)** | San Diego, CA, United States | Hybrid | Oct 13 |
-| ↳ | **[Statistics & Decision Sciences Summer Interns 2027](https://jobright.ai/jobs/info/6ace517f4f3229123da3b51a?utm_campaign=Data%20Analysis&utm_source=1103)** | La Jolla, CA, United States | Hybrid | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
